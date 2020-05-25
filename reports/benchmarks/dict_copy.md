@@ -1,5 +1,8 @@
 # Benchmark results for "dict_copy"
 
+**Note:** This is a microbenchmark. Results can be noisy.
+A change of less than **20.0%** is considered insignificant.
+
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
 | **2020-05-08** | **1.65x** |  | [22e504b09d55](https://github.com/python/mypy/commit/22e504b09d55adc024ecd19604367651b2865db1) |
