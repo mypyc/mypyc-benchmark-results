@@ -3,7 +3,7 @@
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
 | **2020-05-08** | **2.22x** |  | [22e504b09d55](https://github.com/python/mypy/commit/22e504b09d55adc024ecd19604367651b2865db1) |
-| 2020-05-06 | **2.22x** | **+10.7%** | [2d06ba71aa08](https://github.com/python/mypy/commit/2d06ba71aa087e8d8a6eb4a37bb9a6254f7dbb70) |
+| 2020-05-06 | 2.22x |  | [2d06ba71aa08](https://github.com/python/mypy/commit/2d06ba71aa087e8d8a6eb4a37bb9a6254f7dbb70) |
 | 2020-05-06 | **2.00x** | **+45.2%** | [781dd69817d0](https://github.com/python/mypy/commit/781dd69817d00c8eafdff53562b05d6eb2639f90) |
 | 2020-05-02 | 1.38x |  | [2a3de7b7941f](https://github.com/python/mypy/commit/2a3de7b7941f24b6bc53fe0cf8a2b7f8f7fd4e15) |
 | 2020-04-27 | 1.38x |  | [2c8d76efee7f](https://github.com/python/mypy/commit/2c8d76efee7f6419654f0a913d29d9f4edb49574) |
@@ -52,7 +52,7 @@
 | 2020-01-06 | 1.38x |  | [8571f7ddc360](https://github.com/python/mypy/commit/8571f7ddc36068a12b217ca78be6eb1f797f9b1a) |
 | 2020-01-06 | 1.38x |  | [300c846a244a](https://github.com/python/mypy/commit/300c846a244a99e0c9cd9ade6b0400c4142a0f77) |
 | 2019-12-18 | 1.38x |  | [c1cd529181ef](https://github.com/python/mypy/commit/c1cd529181ef4086b03ea14fb22163aeb5b005a4) |
-| 2019-12-16 | **1.38x** | **+6.9%** | [da8880e3a309](https://github.com/python/mypy/commit/da8880e3a309e982acec7a1677203442dafd864e) |
+| 2019-12-16 | 1.38x |  | [da8880e3a309](https://github.com/python/mypy/commit/da8880e3a309e982acec7a1677203442dafd864e) |
 | 2019-12-13 | 1.29x |  | [c957ac8d6b44](https://github.com/python/mypy/commit/c957ac8d6b448dccd88889fa833aab3ae7be8a5e) |
 | 2019-12-12 | 1.29x |  | [bc3e9d44aa8f](https://github.com/python/mypy/commit/bc3e9d44aa8f61858ff48b667e38cc5c4f9a317a) |
 | 2019-12-10 | 1.29x |  | [7e65f1e4ed1c](https://github.com/python/mypy/commit/7e65f1e4ed1cb9489bc3fc1fa12fd7659a02e8e6) |
@@ -87,7 +87,7 @@
 | 2019-10-29 | 1.29x |  | [d204824768bd](https://github.com/python/mypy/commit/d204824768bd5c12d91b1770b951cec37eb55b9e) |
 | 2019-10-25 | 1.29x |  | [fdcbb74b2e01](https://github.com/python/mypy/commit/fdcbb74b2e01f6afd0549da6375a66aab839fd9a) |
 | 2019-10-23 | 1.29x |  | [10428ed3ab83](https://github.com/python/mypy/commit/10428ed3ab839da91d4ac171f49e5a1091ee223f) |
-| 2019-10-22 | **1.29x** | **+4.5%** | [deaa5c74cdd6](https://github.com/python/mypy/commit/deaa5c74cdd61868234905fa2b39bd89bfce3ceb) |
+| 2019-10-22 | 1.29x |  | [deaa5c74cdd6](https://github.com/python/mypy/commit/deaa5c74cdd61868234905fa2b39bd89bfce3ceb) |
 | 2019-10-18 | 1.23x |  | [bd94dff33e8b](https://github.com/python/mypy/commit/bd94dff33e8b96652e36b6113468340d6abd4fd6) |
 | 2019-10-17 | 1.23x |  | [0ba1d99e3a0a](https://github.com/python/mypy/commit/0ba1d99e3a0a483acfa520238f5febaf652f98b4) |
 | 2019-10-17 | 1.23x |  | [7d05c06fbf86](https://github.com/python/mypy/commit/7d05c06fbf86d1716b3eab47d58706834635a226) |
@@ -98,7 +98,7 @@
 | 2019-10-07 | 1.23x |  | [b36d1c978e46](https://github.com/python/mypy/commit/b36d1c978e46e20d432df38637840e521835ea3d) |
 | 2019-10-07 | 1.23x |  | [fb556ae58a60](https://github.com/python/mypy/commit/fb556ae58a60148042cd55259d4748bcf29345c3) |
 | 2019-10-07 | 1.23x |  | [ad90d6259431](https://github.com/python/mypy/commit/ad90d62594315f818c0db6ce5d6e877a88d91364) |
-| 2019-10-04 | **1.24x** | **-3.7%** | [8f381b8fa6c7](https://github.com/python/mypy/commit/8f381b8fa6c734a55f5fa524a7f55a6fe77489fe) |
+| 2019-10-04 | 1.24x |  | [8f381b8fa6c7](https://github.com/python/mypy/commit/8f381b8fa6c734a55f5fa524a7f55a6fe77489fe) |
 | 2019-10-04 | 1.28x |  | [38f199d25db9](https://github.com/python/mypy/commit/38f199d25db96bf9e4424a62410e06736115073a) |
 | 2019-10-04 | 1.28x |  | [643a58b7ed27](https://github.com/python/mypy/commit/643a58b7ed27f285cfee2462c562e167fb5ab506) |
 | 2019-10-04 | 1.29x |  | [cc7667a2008e](https://github.com/python/mypy/commit/cc7667a2008ef4cdcf89b06ab4e171bf478b0734) |
