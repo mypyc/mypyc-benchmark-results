@@ -1,5 +1,7 @@
 # Benchmark results for "catch_exceptions"
 
+[Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/microbenchmarks/exceptions.py#L5)
+
 **Note:** This is a microbenchmark. Results can be noisy.
 A change of less than **20.0%** is considered insignificant.
 

@@ -1,5 +1,7 @@
 # Benchmark results for "binary_trees"
 
+[Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/benchmarks/binary_trees.py#L30)
+
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
 | **2020-05-08** | **8.23x** |  | [22e504b09d55](https://github.com/python/mypy/commit/22e504b09d55adc024ecd19604367651b2865db1) |

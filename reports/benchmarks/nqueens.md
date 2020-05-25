@@ -1,5 +1,7 @@
 # Benchmark results for "nqueens"
 
+[Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/benchmarks/bm_nqueens.py#L61)
+
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
 | **2020-05-08** | **1.63x** |  | [22e504b09d55](https://github.com/python/mypy/commit/22e504b09d55adc024ecd19604367651b2865db1) |

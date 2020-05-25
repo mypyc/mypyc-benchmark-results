@@ -1,5 +1,7 @@
 # Benchmark results for "bytes_split_and_join"
 
+[Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/microbenchmarks/bytes.py#L84)
+
 **Note:** This is a microbenchmark. Results can be noisy.
 A change of less than **20.0%** is considered insignificant.
 

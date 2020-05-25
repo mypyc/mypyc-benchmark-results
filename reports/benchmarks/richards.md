@@ -1,5 +1,7 @@
 # Benchmark results for "richards"
 
+[Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/benchmarks/bm_richards.py#L432)
+
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
 | **2020-05-08** | **14.45x** |  | [22e504b09d55](https://github.com/python/mypy/commit/22e504b09d55adc024ecd19604367651b2865db1) |
