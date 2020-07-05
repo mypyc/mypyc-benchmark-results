@@ -30,6 +30,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [generators](benchmarks/generators.md) | 2.10x | +23.2% |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.91x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 1.91x |  |
+| [dict_del_item](benchmarks/dict_del_item.md) | 1.89x |  |
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 1.87x |  |
 | [ord_builtin](benchmarks/ord_builtin.md) | 1.78x |  |
 | [dict_set_default](benchmarks/dict_set_default.md) | 1.75x |  |
