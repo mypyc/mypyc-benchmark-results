@@ -3,7 +3,7 @@
 [Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/microbenchmarks/sequences.py#L285)
 
 **Note:** This is a microbenchmark. Results can be noisy.
-A change of less than **20.0%** is considered insignificant.
+A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
@@ -21,7 +21,7 @@ A change of less than **20.0%** is considered insignificant.
 | 2020-06-22 | 4.11x |  | [95eff27adb1f](https://github.com/python/mypy/commit/95eff27adb1fae7b1ec4a7315524ebfdcebf6e2b) |
 | 2020-06-19 | 4.11x |  | [e50ba7e2c0c3](https://github.com/python/mypy/commit/e50ba7e2c0c31a20ff0bf262bb0894ebd36af1c1) |
 | 2020-06-18 | 4.11x |  | [9354d4a615fe](https://github.com/python/mypy/commit/9354d4a615fedd6c32632be87a2198fa7d4dd042) |
-| 2020-06-18 | 4.12x |  | [be01236bcdb9](https://github.com/python/mypy/commit/be01236bcdb9a9da66e68dd0d45ff0f9a604e44a) |
+| 2020-06-18 | **4.12x** | **-16.8%** | [be01236bcdb9](https://github.com/python/mypy/commit/be01236bcdb9a9da66e68dd0d45ff0f9a604e44a) |
 | 2020-06-18 | 4.95x |  | [71e4540e6379](https://github.com/python/mypy/commit/71e4540e63796f2d7e4a59b293003e292100b49a) |
 | 2020-06-18 | 4.95x |  | [dc2c392138eb](https://github.com/python/mypy/commit/dc2c392138ebe85fa106b2896f4532b75809ab30) |
 | 2020-06-18 | 4.95x |  | [d39970f3ac7b](https://github.com/python/mypy/commit/d39970f3ac7b786e4e970f1c2bd62f37579500da) |

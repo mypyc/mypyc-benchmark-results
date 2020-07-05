@@ -3,7 +3,7 @@
 [Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/microbenchmarks/strings.py#L151)
 
 **Note:** This is a microbenchmark. Results can be noisy.
-A change of less than **20.0%** is considered insignificant.
+A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
@@ -74,15 +74,15 @@ A change of less than **20.0%** is considered insignificant.
 | 2020-05-19 | 5.68x |  | [65e3a8989051](https://github.com/python/mypy/commit/65e3a89890518aa2ce7bf2e37579c927267c3851) |
 | 2020-05-19 | 5.68x |  | [aaf9828c60c3](https://github.com/python/mypy/commit/aaf9828c60c3342708ab9613ace1dd5f353028a9) |
 | 2020-05-18 | 5.68x |  | [8748e69cccb8](https://github.com/python/mypy/commit/8748e69cccb8606fcfc03d336382b2836b7b29fe) |
-| 2020-05-13 | 5.67x |  | [c90b405934cb](https://github.com/python/mypy/commit/c90b405934cbf2142b8a575ddd89dbedf762106c) |
+| 2020-05-13 | **5.67x** | **+18.1%** | [c90b405934cb](https://github.com/python/mypy/commit/c90b405934cbf2142b8a575ddd89dbedf762106c) |
 | 2020-05-08 | 4.80x |  | [22e504b09d55](https://github.com/python/mypy/commit/22e504b09d55adc024ecd19604367651b2865db1) |
-| 2020-05-06 | 4.81x |  | [2d06ba71aa08](https://github.com/python/mypy/commit/2d06ba71aa087e8d8a6eb4a37bb9a6254f7dbb70) |
-| 2020-05-06 | 5.68x |  | [8f6a1cc8b713](https://github.com/python/mypy/commit/8f6a1cc8b713e864c219cd898cee1a8411562496) |
+| 2020-05-06 | **4.81x** | **-15.3%** | [2d06ba71aa08](https://github.com/python/mypy/commit/2d06ba71aa087e8d8a6eb4a37bb9a6254f7dbb70) |
+| 2020-05-06 | **5.68x** | **+18.1%** | [8f6a1cc8b713](https://github.com/python/mypy/commit/8f6a1cc8b713e864c219cd898cee1a8411562496) |
 | 2020-05-06 | 4.81x |  | [781dd69817d0](https://github.com/python/mypy/commit/781dd69817d00c8eafdff53562b05d6eb2639f90) |
 | 2020-05-02 | 4.80x |  | [2a3de7b7941f](https://github.com/python/mypy/commit/2a3de7b7941f24b6bc53fe0cf8a2b7f8f7fd4e15) |
 | 2020-04-27 | 4.79x |  | [2c8d76efee7f](https://github.com/python/mypy/commit/2c8d76efee7f6419654f0a913d29d9f4edb49574) |
 | 2020-04-25 | 4.80x |  | [125728a547f8](https://github.com/python/mypy/commit/125728a547f80ede4ecedc0ff7f890407d309caf) |
-| 2020-04-15 | 4.80x |  | [ecbd1901f9e9](https://github.com/python/mypy/commit/ecbd1901f9e943ac1f37acd6941ed19a6ec433f8) |
+| 2020-04-15 | **4.80x** | **-16.2%** | [ecbd1901f9e9](https://github.com/python/mypy/commit/ecbd1901f9e943ac1f37acd6941ed19a6ec433f8) |
 | 2020-04-14 | 5.73x |  | [fd9ffb899532](https://github.com/python/mypy/commit/fd9ffb899532ed4bc414e73863d23f8402bb1ea5) |
 | 2020-04-13 | 5.73x |  | [2bbe22a97e47](https://github.com/python/mypy/commit/2bbe22a97e472e8a325786c87417ac1bc21a7fd4) |
 | 2020-04-12 | 5.73x |  | [448c4474e4a4](https://github.com/python/mypy/commit/448c4474e4a42facf1245043b11004b088ea37fb) |

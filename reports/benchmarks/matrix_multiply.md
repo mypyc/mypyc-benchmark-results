@@ -3,7 +3,7 @@
 [Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/microbenchmarks/numbers.py#L18)
 
 **Note:** This is a microbenchmark. Results can be noisy.
-A change of less than **20.0%** is considered insignificant.
+A change of less than **10.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
@@ -21,7 +21,7 @@ A change of less than **20.0%** is considered insignificant.
 | 2020-06-22 | 3.40x |  | [95eff27adb1f](https://github.com/python/mypy/commit/95eff27adb1fae7b1ec4a7315524ebfdcebf6e2b) |
 | 2020-06-19 | 3.40x |  | [e50ba7e2c0c3](https://github.com/python/mypy/commit/e50ba7e2c0c31a20ff0bf262bb0894ebd36af1c1) |
 | 2020-06-18 | 3.40x |  | [9354d4a615fe](https://github.com/python/mypy/commit/9354d4a615fedd6c32632be87a2198fa7d4dd042) |
-| 2020-06-18 | 3.40x |  | [be01236bcdb9](https://github.com/python/mypy/commit/be01236bcdb9a9da66e68dd0d45ff0f9a604e44a) |
+| 2020-06-18 | **3.40x** | **-11.6%** | [be01236bcdb9](https://github.com/python/mypy/commit/be01236bcdb9a9da66e68dd0d45ff0f9a604e44a) |
 | 2020-06-18 | 3.84x |  | [71e4540e6379](https://github.com/python/mypy/commit/71e4540e63796f2d7e4a59b293003e292100b49a) |
 | 2020-06-18 | 3.84x |  | [dc2c392138eb](https://github.com/python/mypy/commit/dc2c392138ebe85fa106b2896f4532b75809ab30) |
 | 2020-06-18 | 3.84x |  | [d39970f3ac7b](https://github.com/python/mypy/commit/d39970f3ac7b786e4e970f1c2bd62f37579500da) |
@@ -66,7 +66,7 @@ A change of less than **20.0%** is considered insignificant.
 | 2020-05-25 | 3.83x |  | [d1048867ce27](https://github.com/python/mypy/commit/d1048867ce27f607a7f48edf33a1888789b187e7) |
 | 2020-05-22 | 3.84x |  | [05571b17a29e](https://github.com/python/mypy/commit/05571b17a29ef83708ffaa02756e32e60621f69f) |
 | 2020-05-20 | 3.84x |  | [41927cf6dbbc](https://github.com/python/mypy/commit/41927cf6dbbc87728eab632486372971c45999cb) |
-| 2020-05-20 | 3.84x |  | [b2fc30fbc8c8](https://github.com/python/mypy/commit/b2fc30fbc8c8db3844681c37ade649f09d288b94) |
+| 2020-05-20 | **3.84x** | **+14.5%** | [b2fc30fbc8c8](https://github.com/python/mypy/commit/b2fc30fbc8c8db3844681c37ade649f09d288b94) |
 | 2020-05-20 | 3.35x |  | [85897bd16427](https://github.com/python/mypy/commit/85897bd16427a1599e92ee639588795951cac8a0) |
 | 2020-05-20 | 3.35x |  | [1f096e6eab03](https://github.com/python/mypy/commit/1f096e6eab03757d4415ff832a9fa4a7cf0cdcd4) |
 | 2020-05-19 | 3.35x |  | [aa97427dad5b](https://github.com/python/mypy/commit/aa97427dad5b8e61c23f59ee500e86d34d326a33) |

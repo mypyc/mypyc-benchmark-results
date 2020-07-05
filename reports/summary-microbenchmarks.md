@@ -14,10 +14,10 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [super_method](benchmarks/super_method.md) | 15.58x |  |
 | [str_call](benchmarks/str_call.md) | 8.59x | +50.0% |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 5.84x |  |
-| [sieve](benchmarks/sieve.md) | 5.60x |  |
+| [sieve](benchmarks/sieve.md) | 5.60x | -3.8% |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.59x | +112.2% |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.55x |  |
-| [int_list](benchmarks/int_list.md) | 4.32x |  |
+| [int_list](benchmarks/int_list.md) | 4.32x | -18.3% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 4.11x |  |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 3.40x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 3.38x |  |
@@ -57,7 +57,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [bytes_call](benchmarks/bytes_call.md) | 1.29x |  |
 | [str_methods_2](benchmarks/str_methods_2.md) | 1.28x |  |
 | [list_remove](benchmarks/list_remove.md) | 1.27x |  |
-| [encode_decode](benchmarks/encode_decode.md) | 1.26x |  |
+| [encode_decode](benchmarks/encode_decode.md) | 1.26x | +16.4% |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.23x |  |
 | [map_builtin](benchmarks/map_builtin.md) | 1.23x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.19x |  |
@@ -77,6 +77,6 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [in_tuple](benchmarks/in_tuple.md) | 0.85x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 0.84x |  |
 | [int_binary_ops](benchmarks/int_binary_ops.md) | 0.73x |  |
-| [multiple_assignment](benchmarks/multiple_assignment.md) | 0.71x |  |
+| [multiple_assignment](benchmarks/multiple_assignment.md) | 0.71x | -17.9% |
 | [in_list](benchmarks/in_list.md) | 0.64x |  |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.62x |  |
