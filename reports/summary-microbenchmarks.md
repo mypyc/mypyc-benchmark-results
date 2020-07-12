@@ -10,22 +10,22 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [super_method_alt](benchmarks/super_method_alt.md) | 18.27x | +1291.7% |
+| [super_method_alt](benchmarks/super_method_alt.md) | 18.27x | +1302.2% |
 | [super_method](benchmarks/super_method.md) | 16.73x |  |
-| [str_call](benchmarks/str_call.md) | 8.09x | +41.1% |
+| [str_call](benchmarks/str_call.md) | 8.09x | +41.2% |
 | [sieve](benchmarks/sieve.md) | 6.16x | +5.8% |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 6.01x |  |
 | [int_list](benchmarks/int_list.md) | 5.53x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.84x |  |
 | [list_comprehension](benchmarks/list_comprehension.md) | 4.80x |  |
-| [dict_to_list](benchmarks/dict_to_list.md) | 4.29x | +98.3% |
+| [dict_to_list](benchmarks/dict_to_list.md) | 4.29x | +98.2% |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 3.88x | +13.0% |
 | [list_append_small](benchmarks/list_append_small.md) | 3.46x |  |
-| [dict_clear](benchmarks/dict_clear.md) | 3.40x | +15.9% |
+| [dict_clear](benchmarks/dict_clear.md) | 3.40x | +15.8% |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 2.75x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.58x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.27x |  |
-| [dict_iteration](benchmarks/dict_iteration.md) | 2.16x | +56.3% |
+| [dict_iteration](benchmarks/dict_iteration.md) | 2.16x | +56.2% |
 | [generators](benchmarks/generators.md) | 2.15x | +26.4% |
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.15x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.99x |  |
