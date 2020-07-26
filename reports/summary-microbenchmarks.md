@@ -10,9 +10,9 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [super_method_alt](benchmarks/super_method_alt.md) | 18.27x | +1326.5% |
+| [super_method_alt](benchmarks/super_method_alt.md) | 18.27x | +1326.9% |
 | [super_method](benchmarks/super_method.md) | 16.72x |  |
-| [str_call](benchmarks/str_call.md) | 8.11x | +69.2% |
+| [str_call](benchmarks/str_call.md) | 8.11x | +69.0% |
 | [sieve](benchmarks/sieve.md) | 6.16x | +5.8% |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 6.15x |  |
 | [int_list](benchmarks/int_list.md) | 5.58x |  |
