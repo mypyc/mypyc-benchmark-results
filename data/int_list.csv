@@ -151,3 +151,5 @@ Timestamp,Runtime (s),Runtime (stddev),Mypy commit,Benchmark commit,Python versi
 2020-09-27 19:29:29.554374,0.035284,0.082190,765acca4ea0f869be65272ef5952cabd6a0f7036,c2cc4286de4bddb3ac6029c69aabb34b5df84ee8,3.8.2,Intel Core i7-2600K (64-bit),Ubuntu 20.04 LTS,clang 10.0.0-4ubuntu1
 2020-09-27 19:45:26.738288,0.035292,0.096339,960e5e2f9829b7ae1577c13e0fd69501e6075047,c2cc4286de4bddb3ac6029c69aabb34b5df84ee8,3.8.2,Intel Core i7-2600K (64-bit),Ubuntu 20.04 LTS,clang 10.0.0-4ubuntu1
 2020-09-27 20:01:23.434227,0.035292,0.082172,fa538f8950189d447e61d1db16ca5833df8c658f,c2cc4286de4bddb3ac6029c69aabb34b5df84ee8,3.8.2,Intel Core i7-2600K (64-bit),Ubuntu 20.04 LTS,clang 10.0.0-4ubuntu1
+2020-09-28 19:18:04.601143,0.035270,0.110576,4fb5a21b443c1fe593d0e2d1cf063811efea4902,c2cc4286de4bddb3ac6029c69aabb34b5df84ee8,3.8.2,Intel Core i7-2600K (64-bit),Ubuntu 20.04 LTS,clang 10.0.0-4ubuntu1
+2020-09-28 19:33:56.805202,0.035276,0.110557,8bf770d63cc4ac656dde00904b61d7f1b6fba68e,c2cc4286de4bddb3ac6029c69aabb34b5df84ee8,3.8.2,Intel Core i7-2600K (64-bit),Ubuntu 20.04 LTS,clang 10.0.0-4ubuntu1
