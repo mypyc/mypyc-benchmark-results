@@ -7,7 +7,18 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2020-10-07** | **1.84x** |  | [7273e9ab1664](https://github.com/python/mypy/commit/7273e9ab1664b59a74d9bd1d2361bbeb9864b7ab) |
+| **2020-10-14** | **1.79x** |  | [e2274a6583a2](https://github.com/python/mypy/commit/e2274a6583a2fa0694c17c55395cc9c55109e20e) |
+| 2020-10-13 | 1.79x |  | [92a5cbd1410e](https://github.com/python/mypy/commit/92a5cbd1410ef4ee43e395c31609770625c5c790) |
+| 2020-10-12 | 1.79x |  | [5bdb6b557ae5](https://github.com/python/mypy/commit/5bdb6b557ae5ffea55f46c69cbb0497b91375b72) |
+| 2020-10-09 | 1.79x |  | [952ca239e612](https://github.com/python/mypy/commit/952ca239e6126aff52067a37869bd394eb08cf21) |
+| 2020-10-08 | 1.79x |  | [cca6e2fdc874](https://github.com/python/mypy/commit/cca6e2fdc874b7538bd1d2ef70daab687b2a0363) |
+| 2020-10-08 | 1.79x |  | [ffed88fb95fc](https://github.com/python/mypy/commit/ffed88fb95fcbfdd1363f0f719bd3e13f8fe20e9) |
+| 2020-10-08 | 1.79x |  | [08f207ef4a09](https://github.com/python/mypy/commit/08f207ef4a09f56d710d63775771ae921c41d4bc) |
+| 2020-10-08 | 1.81x |  | [ab1bd98cc8a6](https://github.com/python/mypy/commit/ab1bd98cc8a6415398121a47c687ede6f4cca4fd) |
+| 2020-10-08 | 1.81x |  | [68797a614588](https://github.com/python/mypy/commit/68797a6145886eed829339062c4f1a682d000d76) |
+| 2020-10-07 | 1.81x |  | [332e78842e9e](https://github.com/python/mypy/commit/332e78842e9eea6b887779e1841a617970db9fcf) |
+| 2020-10-07 | 1.81x |  | [4a8900873cab](https://github.com/python/mypy/commit/4a8900873cab54ddb6a741383c2469436db90b89) |
+| 2020-10-07 | 1.84x |  | [7273e9ab1664](https://github.com/python/mypy/commit/7273e9ab1664b59a74d9bd1d2361bbeb9864b7ab) |
 | 2020-10-06 | 1.84x |  | [6b0f7d77a598](https://github.com/python/mypy/commit/6b0f7d77a598db010f8aad6f1dcc343bb305f948) |
 | 2020-10-06 | 1.80x |  | [212233302c82](https://github.com/python/mypy/commit/212233302c82f06a29baf1acacf519689ce024f2) |
 | 2020-10-06 | 1.80x |  | [f94cc9e6c0a0](https://github.com/python/mypy/commit/f94cc9e6c0a046e2dc819a42d6d700d325016c5a) |
