@@ -7,7 +7,19 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2020-10-17** | **1.51x** |  | [5db3e1a024a9](https://github.com/python/mypy/commit/5db3e1a024a98af4184d6864c71d6abbf00dc3b3) |
+| **2020-10-18** | **1.52x** |  | [3acbf3fe78a6](https://github.com/python/mypy/commit/3acbf3fe78a61c19ff96754233ada453472004c4) |
+| 2020-10-18 | 1.52x |  | [e4131a5cb737](https://github.com/python/mypy/commit/e4131a5cb7371943413191591426eb9c6a6be159) |
+| 2020-10-18 | 1.52x |  | [48f2b10d55a7](https://github.com/python/mypy/commit/48f2b10d55a7cc8067a4a64c497d1e661b99a707) |
+| 2020-10-18 | 1.52x |  | [f5f5485387c3](https://github.com/python/mypy/commit/f5f5485387c3ac9f4bbb56c036faee2a1abdaa70) |
+| 2020-10-18 | 1.52x |  | [1b21080ccd41](https://github.com/python/mypy/commit/1b21080ccd41f57ed3b63fe7cc690b6079c72d3f) |
+| 2020-10-18 | 1.52x |  | [e21214ff5150](https://github.com/python/mypy/commit/e21214ff51509eecf33fafb1d738594190f95203) |
+| 2020-10-18 | 1.52x |  | [6077dc8a93d6](https://github.com/python/mypy/commit/6077dc8a93d63d5ba4e00879b74933568003b811) |
+| 2020-10-18 | 1.52x |  | [941a414080d0](https://github.com/python/mypy/commit/941a414080d06dd34ae9c7441f5393f2f8338107) |
+| 2020-10-18 | 1.52x |  | [39e83d119ac0](https://github.com/python/mypy/commit/39e83d119ac0982561b3f209ce2cc69845178da3) |
+| 2020-10-18 | 1.52x |  | [a9fa9ab43a26](https://github.com/python/mypy/commit/a9fa9ab43a2655cf81c66c065d51db4618839d05) |
+| 2020-10-18 | 1.51x |  | [22d2e32a7086](https://github.com/python/mypy/commit/22d2e32a70869cdb1e600f8f27500bc13385b18e) |
+| 2020-10-18 | 1.52x |  | [9165bb1120d8](https://github.com/python/mypy/commit/9165bb1120d891ff3cc0112225d3d17578b50f8a) |
+| 2020-10-17 | 1.51x |  | [5db3e1a024a9](https://github.com/python/mypy/commit/5db3e1a024a98af4184d6864c71d6abbf00dc3b3) |
 | 2020-10-14 | 1.52x |  | [e2274a6583a2](https://github.com/python/mypy/commit/e2274a6583a2fa0694c17c55395cc9c55109e20e) |
 | 2020-10-13 | 1.52x |  | [92a5cbd1410e](https://github.com/python/mypy/commit/92a5cbd1410ef4ee43e395c31609770625c5c790) |
 | 2020-10-12 | 1.52x |  | [5bdb6b557ae5](https://github.com/python/mypy/commit/5bdb6b557ae5ffea55f46c69cbb0497b91375b72) |
