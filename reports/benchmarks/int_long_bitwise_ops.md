@@ -1,4 +1,4 @@
-# Benchmark results for "int_long_binary_ops"
+# Benchmark results for "int_long_bitwise_ops"
 
 [Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/microbenchmarks/integers.py#L27)
 
