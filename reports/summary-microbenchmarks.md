@@ -15,7 +15,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [super_method](benchmarks/super_method.md) | 17.02x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 14.09x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 11.79x |  |
-| [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 9.31x | +1067.6% |
+| [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 9.31x | +1067.7% |
 | [str_call](benchmarks/str_call.md) | 8.43x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 7.70x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 6.17x |  |
@@ -29,20 +29,20 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 3.53x |  |
 | [list_append_small](benchmarks/list_append_small.md) | 3.34x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 3.19x |  |
-| [in_tuple](benchmarks/in_tuple.md) | 3.11x | +265.4% |
+| [in_tuple](benchmarks/in_tuple.md) | 3.11x | +265.6% |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 3.00x |  |
-| [float_abs](benchmarks/float_abs.md) | 2.98x | +197.1% |
-| [tuple_equality](benchmarks/tuple_equality.md) | 2.71x | +212.4% |
-| [tuple_slicing](benchmarks/tuple_slicing.md) | 2.68x | +53.9% |
+| [float_abs](benchmarks/float_abs.md) | 2.98x | +197.8% |
+| [tuple_equality](benchmarks/tuple_equality.md) | 2.71x | +212.2% |
+| [tuple_slicing](benchmarks/tuple_slicing.md) | 2.68x | +54.0% |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 2.66x | +229.0% |
-| [in_list](benchmarks/in_list.md) | 2.57x | +310.4% |
+| [in_list](benchmarks/in_list.md) | 2.57x | +309.9% |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 2.56x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.45x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.38x | +36.3% |
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.27x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.21x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.20x |  |
-| [str_methods](benchmarks/str_methods.md) | 2.13x | +64.6% |
+| [str_methods](benchmarks/str_methods.md) | 2.13x | +64.5% |
 | [str_to_float](benchmarks/str_to_float.md) | 1.99x | +102.5% |
 | [generators](benchmarks/generators.md) | 1.91x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 1.90x |  |
