@@ -15,39 +15,39 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [super_method](benchmarks/super_method.md) | 16.82x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 14.09x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 11.79x |  |
-| [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 9.31x | +1067.9% |
+| [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 9.31x | +1241.9% |
 | [str_call](benchmarks/str_call.md) | 8.44x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 7.70x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 6.24x |  |
 | [int_list](benchmarks/int_list.md) | 5.81x |  |
-| [sieve](benchmarks/sieve.md) | 5.69x | -7.5% |
+| [sieve](benchmarks/sieve.md) | 5.69x | -4.0% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 5.14x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.80x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.52x |  |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 3.80x |  |
-| [str_slicing](benchmarks/str_slicing.md) | 3.61x | +140.7% |
+| [str_slicing](benchmarks/str_slicing.md) | 3.61x | +120.1% |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 3.53x |  |
 | [list_append_small](benchmarks/list_append_small.md) | 3.33x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 3.19x |  |
-| [in_tuple](benchmarks/in_tuple.md) | 3.15x | +298.3% |
+| [in_tuple](benchmarks/in_tuple.md) | 3.15x | +266.1% |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 3.01x |  |
-| [float_abs](benchmarks/float_abs.md) | 2.98x | +197.5% |
-| [tuple_equality](benchmarks/tuple_equality.md) | 2.71x | +222.3% |
-| [tuple_slicing](benchmarks/tuple_slicing.md) | 2.67x | +57.3% |
-| [multiple_assignment](benchmarks/multiple_assignment.md) | 2.66x | +252.2% |
-| [in_list](benchmarks/in_list.md) | 2.58x | +339.8% |
+| [float_abs](benchmarks/float_abs.md) | 2.98x | +204.7% |
+| [tuple_equality](benchmarks/tuple_equality.md) | 2.71x | +235.1% |
+| [tuple_slicing](benchmarks/tuple_slicing.md) | 2.67x | +43.1% |
+| [multiple_assignment](benchmarks/multiple_assignment.md) | 2.66x | +202.8% |
+| [in_list](benchmarks/in_list.md) | 2.58x | +308.4% |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 2.56x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.45x |  |
-| [list_slicing](benchmarks/list_slicing.md) | 2.39x | +44.2% |
+| [list_slicing](benchmarks/list_slicing.md) | 2.39x | +46.6% |
 | [list_append_large](benchmarks/list_append_large.md) | 2.26x |  |
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.25x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.19x |  |
-| [str_methods](benchmarks/str_methods.md) | 2.12x | +64.3% |
-| [str_to_float](benchmarks/str_to_float.md) | 1.99x | +102.6% |
+| [str_methods](benchmarks/str_methods.md) | 2.12x | +62.2% |
+| [str_to_float](benchmarks/str_to_float.md) | 1.99x | +101.9% |
 | [bytes_concat](benchmarks/bytes_concat.md) | 1.90x |  |
 | [generators](benchmarks/generators.md) | 1.90x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.89x |  |
-| [list_copy](benchmarks/list_copy.md) | 1.86x | +34.3% |
+| [list_copy](benchmarks/list_copy.md) | 1.86x | +28.5% |
 | [bytes_format](benchmarks/bytes_format.md) | 1.76x |  |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.74x |  |
 | [dict_set_default](benchmarks/dict_set_default.md) | 1.74x |  |
@@ -70,7 +70,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [create_dataclass](benchmarks/create_dataclass.md) | 1.30x |  |
 | [str_searching](benchmarks/str_searching.md) | 1.29x |  |
 | [str_format](benchmarks/str_format.md) | 1.28x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.27x | +6.7% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.27x | +7.8% |
 | [bytes_call](benchmarks/bytes_call.md) | 1.26x |  |
 | [map_builtin](benchmarks/map_builtin.md) | 1.24x |  |
 | [encode_decode](benchmarks/encode_decode.md) | 1.24x |  |
@@ -90,6 +90,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [int_to_float](benchmarks/int_to_float.md) | 0.91x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 0.81x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.79x |  |
+| [sorted_with_key](benchmarks/sorted_with_key.md) | 0.75x |  |
 | [positional_args_from_interpreted](benchmarks/positional_args_from_interpreted.md) | 0.71x |  |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.66x |  |
 | [call_method_from_interpreted](benchmarks/call_method_from_interpreted.md) | 0.61x |  |
