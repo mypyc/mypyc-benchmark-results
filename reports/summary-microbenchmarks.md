@@ -15,28 +15,28 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [super_method](benchmarks/super_method.md) | 16.94x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 14.09x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 11.79x |  |
-| [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 9.32x | +1243.2% |
+| [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 9.32x | +1243.4% |
 | [str_call](benchmarks/str_call.md) | 8.47x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 7.73x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 5.97x |  |
 | [int_list](benchmarks/int_list.md) | 5.81x |  |
 | [sieve](benchmarks/sieve.md) | 5.62x | -5.2% |
-| [list_insert](benchmarks/list_insert.md) | 5.15x | +237.6% |
+| [list_insert](benchmarks/list_insert.md) | 5.15x | +237.5% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 5.07x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.71x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.46x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 3.96x |  |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 3.92x |  |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 3.57x |  |
-| [str_slicing](benchmarks/str_slicing.md) | 3.37x | +106.5% |
+| [str_slicing](benchmarks/str_slicing.md) | 3.37x | +106.6% |
 | [list_append_small](benchmarks/list_append_small.md) | 3.30x |  |
 | [in_tuple](benchmarks/in_tuple.md) | 3.12x | +264.9% |
-| [float_abs](benchmarks/float_abs.md) | 2.98x | +199.5% |
+| [float_abs](benchmarks/float_abs.md) | 2.98x | +200.0% |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 2.95x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 2.74x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.65x | +57.8% |
-| [multiple_assignment](benchmarks/multiple_assignment.md) | 2.64x | +201.1% |
-| [in_list](benchmarks/in_list.md) | 2.60x | +297.4% |
+| [multiple_assignment](benchmarks/multiple_assignment.md) | 2.64x | +200.7% |
+| [in_list](benchmarks/in_list.md) | 2.60x | +298.1% |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 2.58x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.56x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.43x | +39.6% |
@@ -44,12 +44,12 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [list_append_large](benchmarks/list_append_large.md) | 2.25x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.01x |  |
 | [generators](benchmarks/generators.md) | 1.99x |  |
-| [str_methods](benchmarks/str_methods.md) | 1.97x | +45.9% |
+| [str_methods](benchmarks/str_methods.md) | 1.97x | +46.0% |
 | [str_to_float](benchmarks/str_to_float.md) | 1.95x | +96.4% |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.91x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 1.90x |  |
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 1.87x |  |
-| [list_copy](benchmarks/list_copy.md) | 1.87x | +31.6% |
+| [list_copy](benchmarks/list_copy.md) | 1.87x | +31.4% |
 | [dict_set_default](benchmarks/dict_set_default.md) | 1.75x |  |
 | [bytes_format](benchmarks/bytes_format.md) | 1.73x |  |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.73x |  |
