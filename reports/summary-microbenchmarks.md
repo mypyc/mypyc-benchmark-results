@@ -22,18 +22,18 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 6.28x |  |
 | [sieve](benchmarks/sieve.md) | 5.63x | -5.3% |
 | [int_list](benchmarks/int_list.md) | 5.62x |  |
-| [multiple_assignment](benchmarks/multiple_assignment.md) | 5.11x | +597.7% |
+| [multiple_assignment](benchmarks/multiple_assignment.md) | 5.11x | +596.4% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 5.08x |  |
-| [list_insert](benchmarks/list_insert.md) | 5.03x | +251.0% |
+| [list_insert](benchmarks/list_insert.md) | 5.03x | +250.8% |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.83x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.32x |  |
-| [dict_clear](benchmarks/dict_clear.md) | 3.97x | +16.4% |
+| [dict_clear](benchmarks/dict_clear.md) | 3.97x | +16.3% |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 3.91x |  |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 3.57x |  |
 | [str_slicing](benchmarks/str_slicing.md) | 3.42x |  |
 | [in_tuple](benchmarks/in_tuple.md) | 3.13x |  |
 | [list_append_small](benchmarks/list_append_small.md) | 3.08x |  |
-| [float_abs](benchmarks/float_abs.md) | 2.93x | +194.5% |
+| [float_abs](benchmarks/float_abs.md) | 2.93x | +194.6% |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.84x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 2.71x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.58x |  |
@@ -43,7 +43,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.38x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.20x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.06x |  |
-| [str_methods](benchmarks/str_methods.md) | 2.00x | +49.6% |
+| [str_methods](benchmarks/str_methods.md) | 2.00x | +49.5% |
 | [str_to_float](benchmarks/str_to_float.md) | 1.95x | +96.6% |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.93x |  |
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 1.90x |  |

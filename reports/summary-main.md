@@ -11,4 +11,4 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [deltablue](benchmarks/deltablue.md) | 7.61x |  |
 | [hexiom](benchmarks/hexiom.md) | 3.68x | -3.7% |
 | [spectral_norm](benchmarks/spectral_norm.md) | 2.99x |  |
-| [nqueens](benchmarks/nqueens.md) | 1.85x | +4.4% |
+| [nqueens](benchmarks/nqueens.md) | 1.85x | +4.7% |
