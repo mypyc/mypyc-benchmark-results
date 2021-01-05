@@ -22,9 +22,9 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 6.27x |  |
 | [sieve](benchmarks/sieve.md) | 5.63x | -6.1% |
 | [int_list](benchmarks/int_list.md) | 5.62x |  |
-| [multiple_assignment](benchmarks/multiple_assignment.md) | 5.11x | +563.4% |
+| [multiple_assignment](benchmarks/multiple_assignment.md) | 5.11x | +594.0% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 5.07x |  |
-| [list_insert](benchmarks/list_insert.md) | 5.02x | +238.0% |
+| [list_insert](benchmarks/list_insert.md) | 5.02x | +218.8% |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.83x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.32x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 3.97x |  |
@@ -33,7 +33,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [str_slicing](benchmarks/str_slicing.md) | 3.41x |  |
 | [in_tuple](benchmarks/in_tuple.md) | 3.13x |  |
 | [list_append_small](benchmarks/list_append_small.md) | 3.09x |  |
-| [float_abs](benchmarks/float_abs.md) | 2.93x | +191.0% |
+| [float_abs](benchmarks/float_abs.md) | 2.93x | +194.4% |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.84x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 2.71x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.59x |  |
@@ -43,13 +43,13 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.38x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.20x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.05x |  |
-| [str_methods](benchmarks/str_methods.md) | 2.00x | +45.3% |
-| [str_to_float](benchmarks/str_to_float.md) | 1.95x | +93.9% |
+| [str_methods](benchmarks/str_methods.md) | 2.00x | +45.5% |
+| [str_to_float](benchmarks/str_to_float.md) | 1.95x | +93.1% |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.93x |  |
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 1.90x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 1.89x |  |
 | [list_copy](benchmarks/list_copy.md) | 1.84x |  |
-| [generators](benchmarks/generators.md) | 1.77x |  |
+| [generators](benchmarks/generators.md) | 1.77x | -18.3% |
 | [dict_set_default](benchmarks/dict_set_default.md) | 1.77x |  |
 | [bytes_format](benchmarks/bytes_format.md) | 1.73x |  |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.73x |  |
