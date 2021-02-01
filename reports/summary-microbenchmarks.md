@@ -24,7 +24,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [sieve](benchmarks/sieve.md) | 6.18x | +8.6% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 5.21x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.87x |  |
-| [multiple_assignment](benchmarks/multiple_assignment.md) | 4.72x | +77.5% |
+| [multiple_assignment](benchmarks/multiple_assignment.md) | 4.72x | +77.2% |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.59x |  |
 | [list_insert](benchmarks/list_insert.md) | 4.29x | +182.8% |
 | [dict_clear](benchmarks/dict_clear.md) | 3.97x | +24.1% |
@@ -38,7 +38,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 2.78x |  |
 | [nested_func](benchmarks/nested_func.md) | 2.74x | +85.7% |
 | [in_list](benchmarks/in_list.md) | 2.68x |  |
-| [nested_func_escape](benchmarks/nested_func_escape.md) | 2.63x | +57.4% |
+| [nested_func_escape](benchmarks/nested_func_escape.md) | 2.63x | +57.3% |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.59x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.56x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.51x |  |
@@ -58,7 +58,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 1.81x |  |
 | [bytes_format](benchmarks/bytes_format.md) | 1.76x |  |
 | [dict_set_default](benchmarks/dict_set_default.md) | 1.75x |  |
-| [map_builtin](benchmarks/map_builtin.md) | 1.73x | +39.2% |
+| [map_builtin](benchmarks/map_builtin.md) | 1.73x | +39.5% |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.67x |  |
 | [split_and_join](benchmarks/split_and_join.md) | 1.66x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 1.64x |  |
@@ -79,7 +79,7 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.24x |  |
 | [keyword_args_from_interpreted](benchmarks/keyword_args_from_interpreted.md) | 1.24x | +316.6% |
 | [encode_decode](benchmarks/encode_decode.md) | 1.23x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.21x | -5.1% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.21x | -5.0% |
 | [int_long_bitwise_ops](benchmarks/int_long_bitwise_ops.md) | 1.19x |  |
 | [read_write_binary](benchmarks/read_write_binary.md) | 1.19x |  |
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.15x |  |
