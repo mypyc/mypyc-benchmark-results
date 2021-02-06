@@ -4,7 +4,12 @@
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2021-02-04** | **4.77x** |  | [38bad9caab9b](https://github.com/python/mypy/commit/38bad9caab9b14b9fe4efdc620a003c373fbec8a) |
+| **2021-02-05** | **4.77x** |  | [9cff22cf9f6e](https://github.com/python/mypy/commit/9cff22cf9f6e176970f5095da7a848ff106c39d0) |
+| 2021-02-05 | 4.77x |  | [090bfa905b29](https://github.com/python/mypy/commit/090bfa905b29fdfc840d6b5be89be5d5261db2d3) |
+| 2021-02-05 | 4.77x |  | [55359eee66f1](https://github.com/python/mypy/commit/55359eee66f113935167a7117e35a9f39b0d26d8) |
+| 2021-02-05 | 4.77x |  | [a1a74fe4bb8a](https://github.com/python/mypy/commit/a1a74fe4bb8ac4e094bf6345da461bae21791e95) |
+| 2021-02-05 | 4.76x |  | [82dd59ee8da3](https://github.com/python/mypy/commit/82dd59ee8da387c41b9edfe577c88d172f2c7091) |
+| 2021-02-04 | 4.77x |  | [38bad9caab9b](https://github.com/python/mypy/commit/38bad9caab9b14b9fe4efdc620a003c373fbec8a) |
 | 2021-02-02 | 4.76x |  | [9e0e23e97653](https://github.com/python/mypy/commit/9e0e23e97653dab3a558d34340486e7a66f7d6f0) |
 | 2021-01-26 | 4.76x |  | [ba037888eccd](https://github.com/python/mypy/commit/ba037888eccd0f63e193d0fefd8f4e9265b8e3d3) |
 | 2021-01-25 | 4.76x |  | [68a0c654f2c7](https://github.com/python/mypy/commit/68a0c654f2c73b0ee6afaaf50a02102bc8ac6ef6) |
