@@ -11,4 +11,4 @@ Environment: CPython 3.8.2, Ubuntu 20.04 LTS and Intel Core i7-2600K (64-bit).
 | [binary_trees](benchmarks/binary_trees.md) | 8.10x |  |
 | [hexiom](benchmarks/hexiom.md) | 4.77x | +21.6% |
 | [spectral_norm](benchmarks/spectral_norm.md) | 3.00x |  |
-| [nqueens](benchmarks/nqueens.md) | 2.01x | +7.5% |
+| [nqueens](benchmarks/nqueens.md) | 2.01x | +7.3% |
