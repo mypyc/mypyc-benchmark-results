@@ -26,7 +26,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.65x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 5.04x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.51x |  |
-| [str_format](benchmarks/str_format.md) | 4.15x | +213.8% |
+| [str_format](benchmarks/str_format.md) | 4.15x | +212.4% |
 | [list_insert](benchmarks/list_insert.md) | 4.03x |  |
 | [list_append_small](benchmarks/list_append_small.md) | 4.00x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 3.97x |  |
@@ -56,7 +56,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [map_builtin](benchmarks/map_builtin.md) | 1.91x |  |
 | [str_to_float](benchmarks/str_to_float.md) | 1.91x |  |
 | [ord_builtin](benchmarks/ord_builtin.md) | 1.86x |  |
-| [list_from_range](benchmarks/list_from_range.md) | 1.85x | +17.3% |
+| [list_from_range](benchmarks/list_from_range.md) | 1.85x | +18.1% |
 | [bytes_concat](benchmarks/bytes_concat.md) | 1.84x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.81x |  |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.76x |  |
@@ -93,6 +93,6 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 0.98x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.95x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 0.90x |  |
-| [dict_copy](benchmarks/dict_copy.md) | 0.89x | -53.6% |
-| [read_write_close](benchmarks/read_write_close.md) | 0.85x | -16.0% |
+| [dict_copy](benchmarks/dict_copy.md) | 0.89x | -53.4% |
+| [read_write_close](benchmarks/read_write_close.md) | 0.85x | -15.6% |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.69x |  |
