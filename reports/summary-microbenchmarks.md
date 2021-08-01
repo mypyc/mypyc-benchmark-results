@@ -26,7 +26,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.63x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 5.05x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.46x |  |
-| [str_format](benchmarks/str_format.md) | 4.29x | +222.7% |
+| [str_format](benchmarks/str_format.md) | 4.29x | +222.6% |
 | [list_insert](benchmarks/list_insert.md) | 4.03x |  |
 | [list_append_small](benchmarks/list_append_small.md) | 4.00x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 3.96x |  |
@@ -55,7 +55,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [split_and_join](benchmarks/split_and_join.md) | 1.92x |  |
 | [map_builtin](benchmarks/map_builtin.md) | 1.92x |  |
 | [str_to_float](benchmarks/str_to_float.md) | 1.91x |  |
-| [list_from_range](benchmarks/list_from_range.md) | 1.85x | +19.4% |
+| [list_from_range](benchmarks/list_from_range.md) | 1.85x | +18.5% |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.82x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 1.79x |  |
 | [bytes_call](benchmarks/bytes_call.md) | 1.77x | +22.1% |
@@ -89,10 +89,10 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 1.09x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 0.99x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 0.98x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 0.98x | -16.7% |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 0.98x | -16.9% |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.95x |  |
-| [read_write_binary](benchmarks/read_write_binary.md) | 0.94x | -17.0% |
-| [dict_copy](benchmarks/dict_copy.md) | 0.91x | -52.2% |
+| [read_write_binary](benchmarks/read_write_binary.md) | 0.94x |  |
+| [dict_copy](benchmarks/dict_copy.md) | 0.91x | -52.4% |
 | [min_max_pair](benchmarks/min_max_pair.md) | 0.90x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 0.83x | -17.6% |
+| [read_write_close](benchmarks/read_write_close.md) | 0.83x | -17.5% |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.69x |  |
