@@ -15,7 +15,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [super_method](benchmarks/super_method.md) | 19.08x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 18.11x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 13.79x |  |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 11.72x | +351.4% |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 11.72x | +350.5% |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 11.52x | +909.9% |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.91x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 10.25x |  |
@@ -33,7 +33,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [list_insert](benchmarks/list_insert.md) | 4.02x |  |
 | [list_append_small](benchmarks/list_append_small.md) | 3.97x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 3.95x |  |
-| [bytes_call](benchmarks/bytes_call.md) | 3.84x | +163.6% |
+| [bytes_call](benchmarks/bytes_call.md) | 3.84x | +164.0% |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 3.63x |  |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 3.34x |  |
 | [str_slicing](benchmarks/str_slicing.md) | 3.31x |  |
@@ -55,7 +55,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.03x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.02x | +24.9% |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.00x |  |
-| [encode_decode](benchmarks/encode_decode.md) | 1.98x | +41.0% |
+| [encode_decode](benchmarks/encode_decode.md) | 1.98x | +41.1% |
 | [list_remove](benchmarks/list_remove.md) | 1.93x |  |
 | [split_and_join](benchmarks/split_and_join.md) | 1.93x |  |
 | [map_builtin](benchmarks/map_builtin.md) | 1.92x |  |
@@ -93,6 +93,6 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 0.98x |  |
 | [read_write_small_files](benchmarks/read_write_small_files.md) | 0.98x | -17.0% |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.94x |  |
-| [dict_copy](benchmarks/dict_copy.md) | 0.91x | -52.7% |
+| [dict_copy](benchmarks/dict_copy.md) | 0.91x | -52.6% |
 | [min_max_pair](benchmarks/min_max_pair.md) | 0.90x |  |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.68x |  |
