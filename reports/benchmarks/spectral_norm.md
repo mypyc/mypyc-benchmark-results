@@ -4,7 +4,8 @@
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2021-08-19** | **3.10x** |  | [fbedea538493](https://github.com/python/mypy/commit/fbedea5384939901102de86cf82058cf6552be8c) |
+| **2021-08-20** | **3.10x** |  | [7576f659d42e](https://github.com/python/mypy/commit/7576f659d42ee271c78e69d7481b9d49517a49f6) |
+| 2021-08-19 | 3.10x |  | [fbedea538493](https://github.com/python/mypy/commit/fbedea5384939901102de86cf82058cf6552be8c) |
 | 2021-08-19 | **3.10x** | **-5.5%** | [f1167bc43866](https://github.com/python/mypy/commit/f1167bc43866f6b1b663d97121e23a5cebe5f952) |
 | 2021-08-19 | 3.28x |  | [ba540f0d2abf](https://github.com/python/mypy/commit/ba540f0d2abf6aaa586e9f4b4bdb615ba2175bc9) |
 | 2021-08-18 | 3.28x |  | [21055322ba1c](https://github.com/python/mypy/commit/21055322ba1c2fac99d18560124a3eed07c426df) |
