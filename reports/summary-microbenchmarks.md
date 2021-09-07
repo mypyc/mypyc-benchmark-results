@@ -16,7 +16,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.36x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 15.99x | +1302.4% |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 12.96x |  |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 11.40x | +333.3% |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 11.40x | +339.3% |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.91x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 10.43x |  |
 | [str_call](benchmarks/str_call.md) | 9.04x |  |
@@ -28,14 +28,14 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.59x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 5.10x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.54x |  |
-| [str_format](benchmarks/str_format.md) | 4.22x | +215.4% |
+| [str_format](benchmarks/str_format.md) | 4.22x | +216.9% |
 | [list_insert](benchmarks/list_insert.md) | 4.03x |  |
 | [method_object](benchmarks/method_object.md) | 3.97x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 3.97x |  |
-| [bytes_format](benchmarks/bytes_format.md) | 3.94x | +134.5% |
+| [bytes_format](benchmarks/bytes_format.md) | 3.94x | +137.1% |
 | [list_append_small](benchmarks/list_append_small.md) | 3.92x |  |
-| [bytes_call](benchmarks/bytes_call.md) | 3.85x | +163.4% |
-| [bytes_slicing](benchmarks/bytes_slicing.md) | 3.81x | +155.3% |
+| [bytes_call](benchmarks/bytes_call.md) | 3.85x | +164.5% |
+| [bytes_slicing](benchmarks/bytes_slicing.md) | 3.81x | +155.8% |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 3.72x |  |
 | [str_slicing](benchmarks/str_slicing.md) | 3.40x |  |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 3.35x |  |
@@ -46,7 +46,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 2.89x |  |
 | [in_list](benchmarks/in_list.md) | 2.80x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.70x |  |
-| [bytes_concat](benchmarks/bytes_concat.md) | 2.61x | +62.6% |
+| [bytes_concat](benchmarks/bytes_concat.md) | 2.61x | +58.4% |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.61x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.58x |  |
 | [list_index](benchmarks/list_index.md) | 2.41x |  |
@@ -56,7 +56,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [tuple_equality](benchmarks/tuple_equality.md) | 2.11x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.04x |  |
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.01x |  |
-| [encode_decode](benchmarks/encode_decode.md) | 1.95x | +39.8% |
+| [encode_decode](benchmarks/encode_decode.md) | 1.95x | +40.7% |
 | [list_remove](benchmarks/list_remove.md) | 1.93x |  |
 | [split_and_join](benchmarks/split_and_join.md) | 1.91x |  |
 | [map_builtin](benchmarks/map_builtin.md) | 1.90x |  |
@@ -70,7 +70,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [call_method_from_interpreted](benchmarks/call_method_from_interpreted.md) | 1.60x |  |
 | [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 1.57x |  |
 | [dict_call_keywords](benchmarks/dict_call_keywords.md) | 1.54x |  |
-| [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.54x | +18.2% |
+| [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.54x | +16.3% |
 | [int_divmod](benchmarks/int_divmod.md) | 1.54x |  |
 | [sorted_with_key](benchmarks/sorted_with_key.md) | 1.51x |  |
 | [readline](benchmarks/readline.md) | 1.49x |  |
@@ -94,5 +94,5 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 0.99x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.94x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 0.90x |  |
-| [dict_copy](benchmarks/dict_copy.md) | 0.90x | -52.8% |
+| [dict_copy](benchmarks/dict_copy.md) | 0.90x | -52.6% |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.67x |  |
