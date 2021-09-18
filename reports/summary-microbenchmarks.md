@@ -14,9 +14,9 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [super_method_alt](benchmarks/super_method_alt.md) | 23.38x |  |
 | [super_method](benchmarks/super_method.md) | 19.46x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.38x |  |
-| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 15.67x | +1273.7% |
+| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 15.67x | +1277.5% |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 12.77x |  |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 11.58x | +341.3% |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 11.58x | +342.3% |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.82x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 10.73x |  |
 | [str_call](benchmarks/str_call.md) | 9.19x |  |
@@ -28,14 +28,14 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [sieve](benchmarks/sieve.md) | 5.54x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 4.95x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.50x |  |
-| [str_format](benchmarks/str_format.md) | 4.09x | +211.8% |
+| [str_format](benchmarks/str_format.md) | 4.09x | +211.7% |
 | [list_insert](benchmarks/list_insert.md) | 4.05x |  |
 | [bytes_format](benchmarks/bytes_format.md) | 3.96x | +143.3% |
 | [list_append_small](benchmarks/list_append_small.md) | 3.94x |  |
 | [method_object](benchmarks/method_object.md) | 3.94x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 3.91x |  |
-| [bytes_call](benchmarks/bytes_call.md) | 3.84x | +158.9% |
-| [bytes_slicing](benchmarks/bytes_slicing.md) | 3.72x | +124.2% |
+| [bytes_call](benchmarks/bytes_call.md) | 3.84x | +158.3% |
+| [bytes_slicing](benchmarks/bytes_slicing.md) | 3.72x | +125.0% |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 3.71x |  |
 | [str_slicing](benchmarks/str_slicing.md) | 3.34x |  |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 3.31x |  |
@@ -46,7 +46,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [in_tuple](benchmarks/in_tuple.md) | 2.88x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.73x |  |
 | [in_list](benchmarks/in_list.md) | 2.69x |  |
-| [bytes_concat](benchmarks/bytes_concat.md) | 2.62x | +43.4% |
+| [bytes_concat](benchmarks/bytes_concat.md) | 2.62x | +43.3% |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.57x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.47x |  |
 | [list_index](benchmarks/list_index.md) | 2.36x |  |
@@ -57,7 +57,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.04x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.03x |  |
 | [split_and_join](benchmarks/split_and_join.md) | 1.94x |  |
-| [encode_decode](benchmarks/encode_decode.md) | 1.94x | +44.1% |
+| [encode_decode](benchmarks/encode_decode.md) | 1.94x | +44.2% |
 | [map_builtin](benchmarks/map_builtin.md) | 1.92x |  |
 | [str_to_float](benchmarks/str_to_float.md) | 1.92x |  |
 | [list_remove](benchmarks/list_remove.md) | 1.91x |  |
@@ -69,7 +69,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [list_copy](benchmarks/list_copy.md) | 1.67x |  |
 | [call_method_from_interpreted](benchmarks/call_method_from_interpreted.md) | 1.60x |  |
 | [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 1.59x |  |
-| [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.53x | +22.9% |
+| [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.53x | +22.8% |
 | [dict_call_keywords](benchmarks/dict_call_keywords.md) | 1.52x |  |
 | [sorted_with_key](benchmarks/sorted_with_key.md) | 1.52x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 1.50x |  |
@@ -82,7 +82,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [int_to_float](benchmarks/int_to_float.md) | 1.29x |  |
 | [str_methods_2](benchmarks/str_methods_2.md) | 1.25x |  |
 | [int_long_bitwise_ops](benchmarks/int_long_bitwise_ops.md) | 1.21x |  |
-| [read_write_text](benchmarks/read_write_text.md) | 1.21x | +17.3% |
+| [read_write_text](benchmarks/read_write_text.md) | 1.21x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.20x |  |
 | [min_max_sequence](benchmarks/min_max_sequence.md) | 1.20x |  |
 | [read_write_small_files](benchmarks/read_write_small_files.md) | 1.18x |  |
