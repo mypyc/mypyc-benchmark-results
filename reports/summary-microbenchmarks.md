@@ -10,87 +10,87 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [enums](benchmarks/enums.md) | 38.43x |  |
+| [enums](benchmarks/enums.md) | 38.42x |  |
 | [super_method_alt](benchmarks/super_method_alt.md) | 23.41x |  |
 | [super_method](benchmarks/super_method.md) | 20.31x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 18.10x |  |
-| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 16.04x | +1370.5% |
+| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 16.09x | +1374.8% |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 13.66x |  |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 11.30x | +221.2% |
-| [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.90x |  |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 11.31x | +221.4% |
+| [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.88x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 10.63x |  |
-| [str_call](benchmarks/str_call.md) | 8.99x |  |
-| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 8.06x |  |
-| [int_list](benchmarks/int_list.md) | 7.36x |  |
+| [str_call](benchmarks/str_call.md) | 8.98x |  |
+| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 8.07x |  |
+| [int_list](benchmarks/int_list.md) | 7.37x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 6.67x |  |
 | [list_comprehension](benchmarks/list_comprehension.md) | 6.03x |  |
-| [multiple_assignment](benchmarks/multiple_assignment.md) | 5.63x |  |
-| [sieve](benchmarks/sieve.md) | 5.57x | -5.2% |
+| [multiple_assignment](benchmarks/multiple_assignment.md) | 5.64x |  |
+| [sieve](benchmarks/sieve.md) | 5.56x | -5.3% |
 | [dict_clear](benchmarks/dict_clear.md) | 5.41x |  |
-| [list_from_tuple](benchmarks/list_from_tuple.md) | 4.53x |  |
-| [bytes_format](benchmarks/bytes_format.md) | 4.27x | +151.2% |
-| [str_format](benchmarks/str_format.md) | 4.18x |  |
+| [list_from_tuple](benchmarks/list_from_tuple.md) | 4.52x |  |
+| [bytes_format](benchmarks/bytes_format.md) | 4.26x | +151.1% |
+| [str_format](benchmarks/str_format.md) | 4.17x |  |
 | [list_insert](benchmarks/list_insert.md) | 4.09x |  |
-| [bytes_slicing](benchmarks/bytes_slicing.md) | 3.99x | +140.0% |
+| [bytes_slicing](benchmarks/bytes_slicing.md) | 3.98x | +139.7% |
+| [dict_to_list](benchmarks/dict_to_list.md) | 3.97x |  |
 | [list_append_small](benchmarks/list_append_small.md) | 3.97x |  |
-| [dict_to_list](benchmarks/dict_to_list.md) | 3.93x |  |
 | [method_object](benchmarks/method_object.md) | 3.90x |  |
 | [bytes_call](benchmarks/bytes_call.md) | 3.84x |  |
-| [list_for_reversed](benchmarks/list_for_reversed.md) | 3.70x |  |
+| [list_for_reversed](benchmarks/list_for_reversed.md) | 3.71x |  |
 | [str_slicing](benchmarks/str_slicing.md) | 3.45x |  |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 3.31x |  |
 | [float_abs](benchmarks/float_abs.md) | 3.20x |  |
-| [dict_set_default](benchmarks/dict_set_default.md) | 3.09x |  |
-| [nested_func_escape](benchmarks/nested_func_escape.md) | 2.97x |  |
+| [dict_set_default](benchmarks/dict_set_default.md) | 3.08x |  |
+| [nested_func_escape](benchmarks/nested_func_escape.md) | 2.99x |  |
 | [nested_func](benchmarks/nested_func.md) | 2.97x |  |
 | [in_tuple](benchmarks/in_tuple.md) | 2.91x |  |
-| [in_list](benchmarks/in_list.md) | 2.77x |  |
+| [in_list](benchmarks/in_list.md) | 2.76x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.75x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.65x |  |
-| [bytes_concat](benchmarks/bytes_concat.md) | 2.58x | +27.6% |
+| [bytes_concat](benchmarks/bytes_concat.md) | 2.58x | +27.5% |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.56x |  |
-| [str_methods](benchmarks/str_methods.md) | 2.36x |  |
+| [str_methods](benchmarks/str_methods.md) | 2.37x |  |
 | [list_index](benchmarks/list_index.md) | 2.26x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.22x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.21x |  |
 | [generators](benchmarks/generators.md) | 2.18x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 2.12x |  |
-| [list_concatenate](benchmarks/list_concatenate.md) | 2.11x |  |
-| [encode_decode](benchmarks/encode_decode.md) | 1.95x | +45.0% |
-| [str_to_float](benchmarks/str_to_float.md) | 1.92x |  |
+| [list_concatenate](benchmarks/list_concatenate.md) | 2.10x |  |
+| [encode_decode](benchmarks/encode_decode.md) | 1.95x | +44.9% |
 | [map_builtin](benchmarks/map_builtin.md) | 1.92x |  |
+| [str_to_float](benchmarks/str_to_float.md) | 1.92x |  |
 | [list_remove](benchmarks/list_remove.md) | 1.91x |  |
 | [split_and_join](benchmarks/split_and_join.md) | 1.91x |  |
-| [dict_del_item](benchmarks/dict_del_item.md) | 1.87x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.83x |  |
-| [list_from_range](benchmarks/list_from_range.md) | 1.81x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 1.77x |  |
+| [list_from_range](benchmarks/list_from_range.md) | 1.82x |  |
+| [dict_del_item](benchmarks/dict_del_item.md) | 1.81x |  |
+| [ord_builtin](benchmarks/ord_builtin.md) | 1.78x |  |
 | [positional_args_from_interpreted](benchmarks/positional_args_from_interpreted.md) | 1.67x |  |
-| [list_copy](benchmarks/list_copy.md) | 1.66x |  |
-| [dict_call_keywords](benchmarks/dict_call_keywords.md) | 1.64x |  |
+| [list_copy](benchmarks/list_copy.md) | 1.67x |  |
+| [dict_call_keywords](benchmarks/dict_call_keywords.md) | 1.63x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 1.61x |  |
 | [call_method_from_interpreted](benchmarks/call_method_from_interpreted.md) | 1.60x |  |
 | [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 1.59x |  |
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.54x |  |
-| [sorted_with_key](benchmarks/sorted_with_key.md) | 1.51x |  |
+| [sorted_with_key](benchmarks/sorted_with_key.md) | 1.52x |  |
 | [readline](benchmarks/readline.md) | 1.48x |  |
-| [keyword_args_from_interpreted](benchmarks/keyword_args_from_interpreted.md) | 1.45x |  |
-| [read_write_chars](benchmarks/read_write_chars.md) | 1.43x |  |
+| [keyword_args_from_interpreted](benchmarks/keyword_args_from_interpreted.md) | 1.46x |  |
+| [read_write_chars](benchmarks/read_write_chars.md) | 1.44x |  |
 | [str_searching](benchmarks/str_searching.md) | 1.40x |  |
-| [create_dataclass](benchmarks/create_dataclass.md) | 1.40x |  |
+| [create_dataclass](benchmarks/create_dataclass.md) | 1.38x |  |
 | [int_to_float](benchmarks/int_to_float.md) | 1.30x |  |
 | [bytes_methods](benchmarks/bytes_methods.md) | 1.30x |  |
 | [str_methods_2](benchmarks/str_methods_2.md) | 1.25x |  |
-| [read_write_text](benchmarks/read_write_text.md) | 1.24x |  |
+| [min_max_sequence](benchmarks/min_max_sequence.md) | 1.21x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.20x |  |
-| [min_max_sequence](benchmarks/min_max_sequence.md) | 1.20x |  |
 | [int_long_bitwise_ops](benchmarks/int_long_bitwise_ops.md) | 1.18x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.18x | +21.0% |
-| [list_equality](benchmarks/list_equality.md) | 1.15x |  |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.18x | +20.6% |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.13x |  |
-| [read_write_binary](benchmarks/read_write_binary.md) | 1.07x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.00x | +21.4% |
-| [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 0.99x |  |
+| [list_equality](benchmarks/list_equality.md) | 1.12x |  |
+| [read_write_text](benchmarks/read_write_text.md) | 1.08x |  |
+| [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.01x |  |
+| [read_write_close](benchmarks/read_write_close.md) | 1.00x | +20.9% |
+| [read_write_binary](benchmarks/read_write_binary.md) | 0.99x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 0.98x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.94x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 0.90x |  |
