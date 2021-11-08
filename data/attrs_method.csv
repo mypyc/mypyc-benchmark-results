@@ -1,0 +1,4 @@
+Timestamp,Runtime (s),Runtime (stddev),Mypy commit,Benchmark commit,Python version,Hardware,OS,C compiler
+2021-11-08 22:26:31.398291,0.071995,0.779221,0483e15834c49adca53f5a4d632b165b6add9327,d254df929133aa8408d8dbc7d02397f9daf0eef1,3.8.5,Intel Core i5-1145G7 (64-bit),Ubuntu 20.04.2 LTS,clang 10.0.0-4ubuntu1
+2021-11-08 22:43:26.654716,0.071359,0.640424,2907a4dea939e20ff39ef7d9ff85ae1a199a0ee8,d254df929133aa8408d8dbc7d02397f9daf0eef1,3.8.5,Intel Core i5-1145G7 (64-bit),Ubuntu 20.04.2 LTS,clang 10.0.0-4ubuntu1
+2021-11-08 23:00:21.806104,0.071552,0.894454,4e2f4ff0ecdfc9bd8c433d5e2e92468e5676dc56,d254df929133aa8408d8dbc7d02397f9daf0eef1,3.8.5,Intel Core i5-1145G7 (64-bit),Ubuntu 20.04.2 LTS,clang 10.0.0-4ubuntu1
