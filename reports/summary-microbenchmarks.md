@@ -10,28 +10,28 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [min_max_pair](benchmarks/min_max_pair.md) | 56.77x | +6137.4% |
-| [enums](benchmarks/enums.md) | 48.99x | +27.9% |
+| [min_max_pair](benchmarks/min_max_pair.md) | 56.77x | +6133.3% |
+| [enums](benchmarks/enums.md) | 48.99x | +27.5% |
 | [super_method_alt](benchmarks/super_method_alt.md) | 35.21x | +52.6% |
 | [attrs_method](benchmarks/attrs_method.md) | 33.15x | +1807.2% |
 | [dataclass_method](benchmarks/dataclass_method.md) | 32.88x | +81.6% |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 29.96x | +136.8% |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 29.82x | +1277.6% |
 | [super_method](benchmarks/super_method.md) | 28.76x | +43.8% |
-| [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 28.76x | +110.6% |
+| [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 28.76x | +110.4% |
 | [tuple_equality](benchmarks/tuple_equality.md) | 24.11x | +1037.2% |
-| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 19.71x | +22.7% |
+| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 19.71x | +22.6% |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 15.32x | +53.9% |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 12.03x |  |
-| [int_list](benchmarks/int_list.md) | 11.27x | +49.4% |
+| [int_list](benchmarks/int_list.md) | 11.27x | +49.9% |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.04x | +36.9% |
 | [str_call](benchmarks/str_call.md) | 10.19x |  |
 | [sieve](benchmarks/sieve.md) | 8.32x | +41.8% |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.27x | +23.9% |
-| [multiple_assignment](benchmarks/multiple_assignment.md) | 6.67x | +18.4% |
+| [multiple_assignment](benchmarks/multiple_assignment.md) | 6.67x | +17.9% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 6.60x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 5.90x | +18.2% |
-| [list_append_small](benchmarks/list_append_small.md) | 5.05x | +29.4% |
+| [list_append_small](benchmarks/list_append_small.md) | 5.05x | +29.3% |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 4.88x | +34.5% |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.80x |  |
 | [bytes_format](benchmarks/bytes_format.md) | 4.50x |  |
@@ -41,19 +41,19 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 4.16x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.10x |  |
 | [bytes_call](benchmarks/bytes_call.md) | 3.92x |  |
-| [matrix_multiply](benchmarks/matrix_multiply.md) | 3.75x | +13.6% |
-| [nested_func](benchmarks/nested_func.md) | 3.72x | +26.5% |
-| [dict_set_default](benchmarks/dict_set_default.md) | 3.56x | +16.9% |
+| [matrix_multiply](benchmarks/matrix_multiply.md) | 3.75x | +13.7% |
+| [nested_func](benchmarks/nested_func.md) | 3.72x | +26.4% |
+| [dict_set_default](benchmarks/dict_set_default.md) | 3.56x | +16.7% |
 | [str_slicing](benchmarks/str_slicing.md) | 3.55x |  |
-| [generators](benchmarks/generators.md) | 3.50x | +60.5% |
-| [float_abs](benchmarks/float_abs.md) | 3.33x | +15.4% |
+| [generators](benchmarks/generators.md) | 3.50x | +60.2% |
+| [float_abs](benchmarks/float_abs.md) | 3.33x | +15.6% |
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 3.30x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 3.14x | +15.5% |
 | [in_tuple](benchmarks/in_tuple.md) | 3.12x |  |
 | [in_list](benchmarks/in_list.md) | 3.03x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.85x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.79x |  |
-| [dict_iteration](benchmarks/dict_iteration.md) | 2.78x | +25.8% |
+| [dict_iteration](benchmarks/dict_iteration.md) | 2.78x | +25.4% |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.62x |  |
 | [list_index](benchmarks/list_index.md) | 2.61x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.34x |  |
