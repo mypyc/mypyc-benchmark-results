@@ -10,29 +10,29 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [min_max_pair](benchmarks/min_max_pair.md) | 56.96x | +6249.9% |
+| [min_max_pair](benchmarks/min_max_pair.md) | 56.96x | +6247.7% |
 | [enums](benchmarks/enums.md) | 47.90x | +24.6% |
 | [super_method_alt](benchmarks/super_method_alt.md) | 35.02x | +49.6% |
 | [attrs_method](benchmarks/attrs_method.md) | 32.98x | +1797.1% |
 | [dataclass_method](benchmarks/dataclass_method.md) | 32.59x | +80.0% |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 29.96x | +165.1% |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 29.96x | +165.0% |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 28.70x | +1225.9% |
 | [super_method](benchmarks/super_method.md) | 28.50x | +40.3% |
-| [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 27.64x | +102.3% |
-| [tuple_equality](benchmarks/tuple_equality.md) | 24.09x | +1037.7% |
-| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 19.64x | +22.3% |
+| [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 27.64x | +102.4% |
+| [tuple_equality](benchmarks/tuple_equality.md) | 24.09x | +1037.1% |
+| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 19.64x | +22.1% |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 15.33x | +44.2% |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 12.02x |  |
 | [int_list](benchmarks/int_list.md) | 11.22x | +52.4% |
-| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.05x | +37.0% |
+| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.05x | +36.9% |
 | [str_call](benchmarks/str_call.md) | 10.19x |  |
-| [sieve](benchmarks/sieve.md) | 8.33x | +49.8% |
-| [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.24x | +23.5% |
-| [multiple_assignment](benchmarks/multiple_assignment.md) | 6.64x | +17.8% |
+| [sieve](benchmarks/sieve.md) | 8.33x | +49.7% |
+| [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.24x | +23.4% |
+| [multiple_assignment](benchmarks/multiple_assignment.md) | 6.64x | +18.4% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 6.62x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 5.90x |  |
-| [list_append_small](benchmarks/list_append_small.md) | 5.05x | +27.4% |
-| [list_for_reversed](benchmarks/list_for_reversed.md) | 4.88x | +31.7% |
+| [list_append_small](benchmarks/list_append_small.md) | 5.05x | +27.3% |
+| [list_for_reversed](benchmarks/list_for_reversed.md) | 4.88x | +31.8% |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.81x |  |
 | [bytes_format](benchmarks/bytes_format.md) | 4.50x |  |
 | [method_object](benchmarks/method_object.md) | 4.39x |  |
@@ -41,11 +41,11 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 4.15x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.10x |  |
 | [bytes_call](benchmarks/bytes_call.md) | 3.92x |  |
-| [matrix_multiply](benchmarks/matrix_multiply.md) | 3.75x | +13.3% |
-| [nested_func](benchmarks/nested_func.md) | 3.72x | +25.1% |
-| [dict_set_default](benchmarks/dict_set_default.md) | 3.56x | +15.4% |
+| [matrix_multiply](benchmarks/matrix_multiply.md) | 3.75x | +13.4% |
+| [nested_func](benchmarks/nested_func.md) | 3.72x | +24.9% |
+| [dict_set_default](benchmarks/dict_set_default.md) | 3.56x | +15.3% |
 | [str_slicing](benchmarks/str_slicing.md) | 3.56x |  |
-| [generators](benchmarks/generators.md) | 3.50x | +60.9% |
+| [generators](benchmarks/generators.md) | 3.50x | +61.0% |
 | [float_abs](benchmarks/float_abs.md) | 3.34x |  |
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 3.30x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 3.13x |  |
@@ -66,7 +66,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [split_and_join](benchmarks/split_and_join.md) | 1.94x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 1.92x |  |
 | [ord_builtin](benchmarks/ord_builtin.md) | 1.88x |  |
-| [int_divmod](benchmarks/int_divmod.md) | 1.86x | +15.2% |
+| [int_divmod](benchmarks/int_divmod.md) | 1.86x | +15.5% |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.86x |  |
 | [list_from_range](benchmarks/list_from_range.md) | 1.81x |  |
 | [list_copy](benchmarks/list_copy.md) | 1.69x |  |
