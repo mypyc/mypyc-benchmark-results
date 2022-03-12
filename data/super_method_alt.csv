@@ -1245,3 +1245,4 @@ Timestamp,Runtime (s),Runtime (stddev),Mypy commit,Benchmark commit,Python versi
 2022-03-11 13:39:22.330320,0.012453,0.538023,3a5b2a996af8e0333e5eebbdbadc9eec3d1f310e,23dcda56299eb1fedfea8bfa9d8568e736be0683,3.8.5,Intel Core i5-1145G7 (64-bit),Ubuntu 20.04.2 LTS,clang 10.0.0-4ubuntu1
 2022-03-11 13:57:25.750221,0.012457,0.730513,536bac07a52fc57fcd76ddbde210347b36e88d1e,23dcda56299eb1fedfea8bfa9d8568e736be0683,3.8.5,Intel Core i5-1145G7 (64-bit),Ubuntu 20.04.2 LTS,clang 10.0.0-4ubuntu1
 2022-03-11 14:15:31.334807,0.012420,0.555556,7ee84c71e851ce373d1824ecc09332caa373148c,23dcda56299eb1fedfea8bfa9d8568e736be0683,3.8.5,Intel Core i5-1145G7 (64-bit),Ubuntu 20.04.2 LTS,clang 10.0.0-4ubuntu1
+2022-03-12 12:48:52.846615,0.012419,0.628070,0fecec8c72605ec7bae343b28d545c477c726e81,23dcda56299eb1fedfea8bfa9d8568e736be0683,3.8.5,Intel Core i5-1145G7 (64-bit),Ubuntu 20.04.2 LTS,clang 10.0.0-4ubuntu1
