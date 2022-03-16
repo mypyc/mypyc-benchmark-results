@@ -88,14 +88,14 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [int_long_bitwise_ops](benchmarks/int_long_bitwise_ops.md) | 1.25x |  |
 | [min_max_sequence](benchmarks/min_max_sequence.md) | 1.24x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.23x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x | +21.2% |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.17x |  |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.16x |  |
 | [read_write_text](benchmarks/read_write_text.md) | 1.10x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.04x |  |
 | [read_write_binary](benchmarks/read_write_binary.md) | 1.02x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.02x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.00x | +20.9% |
+| [read_write_close](benchmarks/read_write_close.md) | 1.00x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.00x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.97x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 0.90x |  |
