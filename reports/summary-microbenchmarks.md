@@ -20,7 +20,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 28.77x |  |
 | [super_method](benchmarks/super_method.md) | 28.23x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 24.12x |  |
-| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 16.73x |  |
+| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 16.73x | -15.0% |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 15.46x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 12.03x |  |
 | [int_list](benchmarks/int_list.md) | 11.42x |  |
@@ -88,15 +88,15 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [int_long_bitwise_ops](benchmarks/int_long_bitwise_ops.md) | 1.24x |  |
 | [min_max_sequence](benchmarks/min_max_sequence.md) | 1.23x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.22x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.18x | +19.2% |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.18x |  |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.16x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.16x |  |
 | [read_write_text](benchmarks/read_write_text.md) | 1.12x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.05x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.01x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.00x |  |
+| [read_write_close](benchmarks/read_write_close.md) | 1.00x | +20.3% |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.00x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.97x |  |
-| [read_write_binary](benchmarks/read_write_binary.md) | 0.94x |  |
+| [read_write_binary](benchmarks/read_write_binary.md) | 0.94x | -16.0% |
 | [dict_copy](benchmarks/dict_copy.md) | 0.91x |  |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.64x |  |
