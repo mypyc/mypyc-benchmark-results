@@ -20,7 +20,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 28.09x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 27.38x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 24.13x |  |
-| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 16.71x | -15.5% |
+| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 16.71x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 15.46x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 11.92x |  |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.06x |  |
@@ -90,11 +90,11 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.22x |  |
 | [read_write_text](benchmarks/read_write_text.md) | 1.22x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.19x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.18x | +17.6% |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.18x |  |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.16x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.06x |  |
 | [read_write_binary](benchmarks/read_write_binary.md) | 1.02x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.01x | +21.0% |
+| [read_write_close](benchmarks/read_write_close.md) | 1.01x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.00x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.00x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.97x |  |
