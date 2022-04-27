@@ -95,7 +95,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.05x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.00x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.00x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 0.98x | -17.7% |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 0.98x | -17.5% |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.98x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 0.91x |  |
 | [read_write_close](benchmarks/read_write_close.md) | 0.89x |  |
