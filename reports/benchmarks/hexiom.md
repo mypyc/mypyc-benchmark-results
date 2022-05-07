@@ -1,6 +1,6 @@
 # Benchmark results for "hexiom"
 
-[Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/benchmarks/bm_hexiom.py#L666)
+[Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/benchmarks/bm_hexiom.py#L656)
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
