@@ -7,7 +7,34 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2022-05-04** | **0.97x** |  | [4f07c79aea0f](https://github.com/python/mypy/commit/4f07c79aea0fef61ab649d6acedf01186f1054eb) |
+| **2022-05-19** | **0.97x** |  | [6c2690e4af5e](https://github.com/python/mypy/commit/6c2690e4af5e12d68a5b91f7c9117f783e528277) |
+| 2022-05-19 | 0.97x |  | [7f4f5b87631d](https://github.com/python/mypy/commit/7f4f5b87631dbf4746f81d81e3ccf86bac5901b3) |
+| 2022-05-19 | 0.98x |  | [f71dba7526b3](https://github.com/python/mypy/commit/f71dba7526b3f5244faaa210302fc20269691056) |
+| 2022-05-18 | 0.97x |  | [8e7e81759d3e](https://github.com/python/mypy/commit/8e7e81759d3e43199bb0dced94f55157b72b2a49) |
+| 2022-05-18 | 0.97x |  | [8dac2210f5af](https://github.com/python/mypy/commit/8dac2210f5afedee1c45c6293f20bf9b5c5ec179) |
+| 2022-05-18 | 0.97x |  | [74cfa3d46ae6](https://github.com/python/mypy/commit/74cfa3d46ae6a9c0033bf95d88462619bc3bc044) |
+| 2022-05-17 | 0.97x |  | [7bd6fdd326b6](https://github.com/python/mypy/commit/7bd6fdd326b6a06795edb46a5c74fc5cdeb87cc9) |
+| 2022-05-17 | 0.97x |  | [18a510768bdf](https://github.com/python/mypy/commit/18a510768bdf552248447d35d15f8e48b1aef53d) |
+| 2022-05-16 | 0.97x |  | [85c21599cae5](https://github.com/python/mypy/commit/85c21599cae51318344c23eecdfec6c3a2a9557a) |
+| 2022-05-16 | 0.97x |  | [e6bbf5f5e448](https://github.com/python/mypy/commit/e6bbf5f5e44854e1152ab9ddb46daa2608cf4076) |
+| 2022-05-16 | 0.97x |  | [3b7468ea518e](https://github.com/python/mypy/commit/3b7468ea518ef961d75597d52b183579b0fd83db) |
+| 2022-05-16 | 0.97x |  | [613756bd7e7a](https://github.com/python/mypy/commit/613756bd7e7a41ad14f9a6045da04cfc4612c032) |
+| 2022-05-16 | 0.97x |  | [17aec677e44d](https://github.com/python/mypy/commit/17aec677e44da4488908680b90e0c145bff67d43) |
+| 2022-05-16 | 0.97x |  | [e63501c7a11a](https://github.com/python/mypy/commit/e63501c7a11abc54684bdd59872eb3b092b865ae) |
+| 2022-05-13 | 0.98x |  | [7fbf4deb845d](https://github.com/python/mypy/commit/7fbf4deb845d6041700d1addc6eaa2097560f0f3) |
+| 2022-05-13 | 0.97x |  | [50a653e0714e](https://github.com/python/mypy/commit/50a653e0714e303178c890854b9074fc030907f0) |
+| 2022-05-13 | 0.97x |  | [5ceaf3d7ec67](https://github.com/python/mypy/commit/5ceaf3d7ec67a9bdee78d656e24dc9e25051759c) |
+| 2022-05-11 | 0.97x |  | [8faf44ad44f1](https://github.com/python/mypy/commit/8faf44ad44f19c2dcf3f31f12eed5e58494fc3a3) |
+| 2022-05-11 | 0.97x |  | [03901ef657da](https://github.com/python/mypy/commit/03901ef657daf6f477e6fe933c42ac270cf5034b) |
+| 2022-05-09 | 0.97x |  | [e1c03ab0f374](https://github.com/python/mypy/commit/e1c03ab0f37495ef4072892778ab126d04860814) |
+| 2022-05-08 | 0.97x |  | [612074f05ba5](https://github.com/python/mypy/commit/612074f05ba5d65e016c031dc94b13f962d9c6b4) |
+| 2022-05-08 | 0.97x |  | [f28bf11496b1](https://github.com/python/mypy/commit/f28bf11496b14e5b6a4610438b4a6582fbd0d3c1) |
+| 2022-05-08 | 0.97x |  | [fb11c98e3aa8](https://github.com/python/mypy/commit/fb11c98e3aa8931104ac9f4618c1342c045d999c) |
+| 2022-05-08 | 0.97x |  | [49d5cc907c39](https://github.com/python/mypy/commit/49d5cc907c391b4bcf52f9966f008f80badf12ab) |
+| 2022-05-07 | 0.97x |  | [23e2a51e05ce](https://github.com/python/mypy/commit/23e2a51e05ce38aa765fe67ab1507836227b301b) |
+| 2022-05-07 | 0.97x |  | [91e890fe308e](https://github.com/python/mypy/commit/91e890fe308e7b9c8ab969a4831a4ff13fbc0aa3) |
+| 2022-05-07 | 0.97x |  | [269adee09330](https://github.com/python/mypy/commit/269adee09330f6f1836b0ae13e20450c9f708c2a) |
+| 2022-05-04 | 0.97x |  | [4f07c79aea0f](https://github.com/python/mypy/commit/4f07c79aea0fef61ab649d6acedf01186f1054eb) |
 | 2022-05-03 | 0.98x |  | [4746519effea](https://github.com/python/mypy/commit/4746519effeafc64da7687af8fe1685d44545219) |
 | 2022-05-03 | 0.97x |  | [9f8b814fc5b3](https://github.com/python/mypy/commit/9f8b814fc5b3bb8daf0ef04aca3dfd1fb056bc8b) |
 | 2022-05-01 | 0.97x |  | [ad177f99fd33](https://github.com/python/mypy/commit/ad177f99fd3322072e389a1a7432ee7b15c84472) |
