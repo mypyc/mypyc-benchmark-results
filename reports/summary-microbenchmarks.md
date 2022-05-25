@@ -12,7 +12,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | --- | :---: | :---: |
 | [min_max_pair](benchmarks/min_max_pair.md) | 58.45x |  |
 | [enums](benchmarks/enums.md) | 51.09x |  |
-| [super_method_alt](benchmarks/super_method_alt.md) | 40.36x | +15.3% |
+| [super_method_alt](benchmarks/super_method_alt.md) | 40.36x | +15.4% |
 | [attrs_method](benchmarks/attrs_method.md) | 35.80x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 35.38x |  |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 33.80x |  |
@@ -98,5 +98,5 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 0.99x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.98x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 0.90x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 0.83x |  |
+| [read_write_close](benchmarks/read_write_close.md) | 0.83x | -17.4% |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.64x |  |
