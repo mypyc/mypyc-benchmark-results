@@ -12,7 +12,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | --- | :---: | :---: |
 | [min_max_pair](benchmarks/min_max_pair.md) | 58.12x |  |
 | [enums](benchmarks/enums.md) | 51.06x |  |
-| [super_method_alt](benchmarks/super_method_alt.md) | 40.41x | +15.3% |
+| [super_method_alt](benchmarks/super_method_alt.md) | 40.41x | +15.1% |
 | [attrs_method](benchmarks/attrs_method.md) | 35.80x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 35.40x |  |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 33.79x |  |
@@ -47,7 +47,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [str_slicing](benchmarks/str_slicing.md) | 3.55x |  |
 | [float_abs](benchmarks/float_abs.md) | 3.55x |  |
 | [in_tuple](benchmarks/in_tuple.md) | 3.53x |  |
-| [in_list](benchmarks/in_list.md) | 3.48x | +15.1% |
+| [in_list](benchmarks/in_list.md) | 3.48x |  |
 | [generators](benchmarks/generators.md) | 3.40x |  |
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 3.26x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 3.11x |  |
@@ -90,12 +90,12 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [min_max_sequence](benchmarks/min_max_sequence.md) | 1.24x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.22x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.21x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x | +20.7% |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x |  |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.16x |  |
 | [read_write_binary](benchmarks/read_write_binary.md) | 1.11x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.05x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.00x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.00x | +20.2% |
+| [read_write_close](benchmarks/read_write_close.md) | 1.00x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.00x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.97x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 0.90x |  |
