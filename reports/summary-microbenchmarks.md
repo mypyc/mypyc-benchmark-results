@@ -12,7 +12,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | --- | :---: | :---: |
 | [min_max_pair](benchmarks/min_max_pair.md) | 59.25x |  |
 | [enums](benchmarks/enums.md) | 52.60x |  |
-| [super_method_alt](benchmarks/super_method_alt.md) | 40.63x | +15.7% |
+| [super_method_alt](benchmarks/super_method_alt.md) | 40.63x | +15.5% |
 | [attrs_method](benchmarks/attrs_method.md) | 35.46x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 34.93x |  |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 31.48x |  |
@@ -40,7 +40,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [bytes_format](benchmarks/bytes_format.md) | 4.15x |  |
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 4.13x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.13x |  |
-| [matrix_multiply](benchmarks/matrix_multiply.md) | 4.09x |  |
+| [matrix_multiply](benchmarks/matrix_multiply.md) | 4.09x | +10.0% |
 | [bytes_call](benchmarks/bytes_call.md) | 3.94x |  |
 | [dict_set_default](benchmarks/dict_set_default.md) | 3.60x |  |
 | [nested_func](benchmarks/nested_func.md) | 3.60x |  |
