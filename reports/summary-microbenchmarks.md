@@ -40,7 +40,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [bytes_format](benchmarks/bytes_format.md) | 4.15x |  |
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 4.13x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 4.13x |  |
-| [matrix_multiply](benchmarks/matrix_multiply.md) | 4.09x | +10.0% |
+| [matrix_multiply](benchmarks/matrix_multiply.md) | 4.09x |  |
 | [bytes_call](benchmarks/bytes_call.md) | 3.94x |  |
 | [dict_set_default](benchmarks/dict_set_default.md) | 3.60x |  |
 | [nested_func](benchmarks/nested_func.md) | 3.60x |  |
@@ -94,7 +94,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.14x |  |
 | [read_write_binary](benchmarks/read_write_binary.md) | 1.12x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.05x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.01x |  |
+| [read_write_close](benchmarks/read_write_close.md) | 1.01x | +21.8% |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.00x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.00x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.97x |  |
