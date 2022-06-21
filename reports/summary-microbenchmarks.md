@@ -12,7 +12,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | --- | :---: | :---: |
 | [min_max_pair](benchmarks/min_max_pair.md) | 59.25x |  |
 | [enums](benchmarks/enums.md) | 52.60x |  |
-| [super_method_alt](benchmarks/super_method_alt.md) | 40.63x | +15.5% |
+| [super_method_alt](benchmarks/super_method_alt.md) | 40.63x | +15.6% |
 | [attrs_method](benchmarks/attrs_method.md) | 35.46x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 34.93x |  |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 31.48x |  |
@@ -94,7 +94,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.14x |  |
 | [read_write_binary](benchmarks/read_write_binary.md) | 1.12x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.05x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.01x | +21.8% |
+| [read_write_close](benchmarks/read_write_close.md) | 1.01x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.00x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.00x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 0.97x |  |
