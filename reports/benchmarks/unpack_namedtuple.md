@@ -7,7 +7,20 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2022-06-28** | **11.09x** |  | [a4ae0adb6fb0](https://github.com/python/mypy/commit/a4ae0adb6fb0872042e0459f915254140df28b5e) |
+| **2022-07-08** | **11.09x** |  | [3ae19a25f0a3](https://github.com/python/mypy/commit/3ae19a25f0a39358ede1383e93d44ef9abf165e0) |
+| 2022-07-08 | 11.09x |  | [256f1f33f6be](https://github.com/python/mypy/commit/256f1f33f6be15a461e8aabe9aef705ac77f7e6a) |
+| 2022-07-08 | 11.10x |  | [ccfbfc1b2a23](https://github.com/python/mypy/commit/ccfbfc1b2a238ae83267b625d12c49bc9e538794) |
+| 2022-07-08 | 11.09x |  | [9f99400b748a](https://github.com/python/mypy/commit/9f99400b748a4550813c54fb3f7a00268affdd6d) |
+| 2022-07-08 | 11.09x |  | [49b4b3da336c](https://github.com/python/mypy/commit/49b4b3da336cefb2aceb13ee721b5aa7b15bf8e0) |
+| 2022-07-08 | 11.09x |  | [1fedf2c1adfc](https://github.com/python/mypy/commit/1fedf2c1adfcaccf7c19adbc8dee5cddebdd5d33) |
+| 2022-07-08 | 11.09x |  | [b0c1556c145a](https://github.com/python/mypy/commit/b0c1556c145a8b1fbd613b55d2144b8757baed54) |
+| 2022-07-08 | 11.09x |  | [ce891e32d430](https://github.com/python/mypy/commit/ce891e32d4306df2b9a8bbcb4b88dae9750aa16c) |
+| 2022-07-08 | 11.09x |  | [7a6ecd3c96b6](https://github.com/python/mypy/commit/7a6ecd3c96b61a9df59fa580acade0fde2a77d90) |
+| 2022-07-06 | 11.09x |  | [eaf60916a494](https://github.com/python/mypy/commit/eaf60916a494ff8d36cab05331205d2d4bfe38bc) |
+| 2022-07-03 | 11.09x |  | [86aefb14ffb9](https://github.com/python/mypy/commit/86aefb14ffb92975ccd312f12c65919b26002c8d) |
+| 2022-06-29 | 11.09x |  | [914297e9486b](https://github.com/python/mypy/commit/914297e9486b141c01b34593938fdf423d892cef) |
+| 2022-06-29 | 11.09x |  | [1c03e1068f4b](https://github.com/python/mypy/commit/1c03e1068f4b1f79aa760639cd12e631783dadcc) |
+| 2022-06-28 | 11.09x |  | [a4ae0adb6fb0](https://github.com/python/mypy/commit/a4ae0adb6fb0872042e0459f915254140df28b5e) |
 | 2022-06-26 | 11.09x |  | [1c1f3495772a](https://github.com/python/mypy/commit/1c1f3495772a4f02c7a0e646466d2c35a69c9813) |
 | 2022-06-26 | 11.09x |  | [f663828a6690](https://github.com/python/mypy/commit/f663828a66900a438c4a4be6f036c95c46636551) |
 | 2022-06-24 | 11.09x |  | [203bd64d8c14](https://github.com/python/mypy/commit/203bd64d8c14e8ddbed7911eb6f8f8aa61d728de) |
