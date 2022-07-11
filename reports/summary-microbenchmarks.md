@@ -12,7 +12,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | --- | :---: | :---: |
 | [min_max_pair](benchmarks/min_max_pair.md) | 59.99x |  |
 | [enums](benchmarks/enums.md) | 52.93x |  |
-| [super_method_alt](benchmarks/super_method_alt.md) | 40.67x | +17.6% |
+| [super_method_alt](benchmarks/super_method_alt.md) | 40.67x | +17.7% |
 | [attrs_method](benchmarks/attrs_method.md) | 35.43x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 34.94x |  |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 31.48x |  |
