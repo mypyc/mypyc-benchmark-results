@@ -20,7 +20,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 30.39x |  |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 30.01x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 23.95x |  |
-| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 19.74x | +18.1% |
+| [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 19.74x | +17.7% |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 15.11x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 12.12x |  |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.09x |  |
@@ -69,7 +69,7 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.87x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 1.84x |  |
 | [list_from_range](benchmarks/list_from_range.md) | 1.83x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 1.81x | +36.5% |
+| [int_to_float](benchmarks/int_to_float.md) | 1.81x | +35.5% |
 | [list_copy](benchmarks/list_copy.md) | 1.70x |  |
 | [positional_args_from_interpreted](benchmarks/positional_args_from_interpreted.md) | 1.68x |  |
 | [dict_call_keywords](benchmarks/dict_call_keywords.md) | 1.68x |  |
@@ -85,12 +85,12 @@ Environment: CPython 3.8.5, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit)
 | [create_dataclass](benchmarks/create_dataclass.md) | 1.44x |  |
 | [bytes_methods](benchmarks/bytes_methods.md) | 1.32x |  |
 | [str_methods_2](benchmarks/str_methods_2.md) | 1.27x |  |
-| [read_write_text](benchmarks/read_write_text.md) | 1.25x |  |
+| [read_write_text](benchmarks/read_write_text.md) | 1.25x | +17.0% |
 | [min_max_sequence](benchmarks/min_max_sequence.md) | 1.24x |  |
 | [int_long_bitwise_ops](benchmarks/int_long_bitwise_ops.md) | 1.24x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.23x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.21x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x |  |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x | +21.6% |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.15x |  |
 | [read_write_binary](benchmarks/read_write_binary.md) | 1.13x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.05x |  |
