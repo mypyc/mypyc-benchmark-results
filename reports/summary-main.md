@@ -6,9 +6,9 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [richards](benchmarks/richards.md) | 43.01x | +3.8% |
+| [richards](benchmarks/richards.md) | 43.04x | +3.9% |
 | [deltablue](benchmarks/deltablue.md) | 12.85x |  |
-| [binary_trees](benchmarks/binary_trees.md) | 9.79x | +3.3% |
+| [binary_trees](benchmarks/binary_trees.md) | 9.81x | +3.4% |
 | [hexiom](benchmarks/hexiom.md) | 7.71x |  |
 | [spectral_norm](benchmarks/spectral_norm.md) | 3.87x |  |
-| [nqueens](benchmarks/nqueens.md) | 2.31x |  |
+| [nqueens](benchmarks/nqueens.md) | 2.32x |  |
