@@ -1,0 +1,2 @@
+Timestamp,Runtime (s),Runtime (stddev),Mypy commit,Benchmark commit,Python version,Hardware,OS,C compiler
+2023-01-28 15:23:06.649777,0.152702,0.318922,,7843a1582e99905cf7176460f5b3f42d206cb0be,3.8.10,Intel Core i5-1145G7 (64-bit),Ubuntu 20.04.2 LTS,clang 10.0.0-4ubuntu1
