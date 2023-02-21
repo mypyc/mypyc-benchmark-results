@@ -47,7 +47,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 3.77x |  |
 | [nested_func](benchmarks/nested_func.md) | 3.65x |  |
 | [in_tuple](benchmarks/in_tuple.md) | 3.60x |  |
-| [list_append_large](benchmarks/list_append_large.md) | 3.56x | +18.3% |
+| [list_append_large](benchmarks/list_append_large.md) | 3.56x | +18.6% |
 | [dict_set_default](benchmarks/dict_set_default.md) | 3.54x |  |
 | [str_slicing](benchmarks/str_slicing.md) | 3.53x |  |
 | [float_abs](benchmarks/float_abs.md) | 3.50x |  |
@@ -58,7 +58,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [set_literal_iteration](benchmarks/set_literal_iteration.md) | 3.06x | +139.3% |
 | [list_index](benchmarks/list_index.md) | 2.97x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.82x |  |
-| [int_divmod](benchmarks/int_divmod.md) | 2.74x | +45.2% |
+| [int_divmod](benchmarks/int_divmod.md) | 2.74x | +45.0% |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.68x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.64x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.63x |  |
@@ -67,7 +67,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.23x |  |
 | [list_remove](benchmarks/list_remove.md) | 2.18x |  |
 | [str_to_float](benchmarks/str_to_float.md) | 2.03x |  |
-| [dict_copy](benchmarks/dict_copy.md) | 1.94x | +111.6% |
+| [dict_copy](benchmarks/dict_copy.md) | 1.94x | +112.7% |
 | [encode_decode](benchmarks/encode_decode.md) | 1.93x |  |
 | [ord_builtin](benchmarks/ord_builtin.md) | 1.93x |  |
 | [map_builtin](benchmarks/map_builtin.md) | 1.93x |  |
@@ -104,5 +104,5 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.05x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.02x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 1.01x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.00x | +16.9% |
+| [read_write_close](benchmarks/read_write_close.md) | 1.00x |  |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.65x |  |
