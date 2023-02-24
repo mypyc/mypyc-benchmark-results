@@ -34,7 +34,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [list_comprehension](benchmarks/list_comprehension.md) | 6.99x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 6.02x |  |
 | [list_append_small](benchmarks/list_append_small.md) | 5.21x |  |
-| [list_insert](benchmarks/list_insert.md) | 5.09x | +18.0% |
+| [list_insert](benchmarks/list_insert.md) | 5.09x | +18.1% |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.90x |  |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 4.83x |  |
 | [method_object](benchmarks/method_object.md) | 4.65x |  |
@@ -58,7 +58,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [alloc_long_lived_simple](benchmarks/alloc_long_lived_simple.md) | 3.06x |  |
 | [list_index](benchmarks/list_index.md) | 2.97x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.82x |  |
-| [int_divmod](benchmarks/int_divmod.md) | 2.74x | +48.4% |
+| [int_divmod](benchmarks/int_divmod.md) | 2.74x | +49.3% |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.68x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.65x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.63x |  |
@@ -80,7 +80,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [dict_call_keywords](benchmarks/dict_call_keywords.md) | 1.70x |  |
 | [positional_args_from_interpreted](benchmarks/positional_args_from_interpreted.md) | 1.70x |  |
 | [list_copy](benchmarks/list_copy.md) | 1.70x |  |
-| [readline](benchmarks/readline.md) | 1.67x | +21.6% |
+| [readline](benchmarks/readline.md) | 1.67x | +21.5% |
 | [call_method_from_interpreted](benchmarks/call_method_from_interpreted.md) | 1.67x |  |
 | [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 1.56x |  |
 | [str_searching](benchmarks/str_searching.md) | 1.56x |  |
@@ -99,7 +99,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.19x |  |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.17x |  |
 | [read_write_text](benchmarks/read_write_text.md) | 1.17x |  |
-| [read_write_binary](benchmarks/read_write_binary.md) | 1.13x | +17.3% |
+| [read_write_binary](benchmarks/read_write_binary.md) | 1.13x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.09x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.05x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 1.02x |  |
