@@ -15,7 +15,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [super_method_alt](benchmarks/super_method_alt.md) | 39.78x |  |
 | [attrs_method](benchmarks/attrs_method.md) | 35.23x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 34.65x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 34.22x | +1790.6% |
+| [int_to_float](benchmarks/int_to_float.md) | 34.22x | +1791.6% |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 31.75x |  |
 | [super_method](benchmarks/super_method.md) | 31.15x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 30.40x |  |
@@ -29,8 +29,8 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.10x |  |
 | [int_list](benchmarks/int_list.md) | 10.81x |  |
 | [str_call](benchmarks/str_call.md) | 10.08x |  |
-| [float_abs](benchmarks/float_abs.md) | 9.31x | +172.1% |
-| [matrix_multiply](benchmarks/matrix_multiply.md) | 9.18x | +126.1% |
+| [float_abs](benchmarks/float_abs.md) | 9.31x | +172.2% |
+| [matrix_multiply](benchmarks/matrix_multiply.md) | 9.18x | +126.8% |
 | [sieve](benchmarks/sieve.md) | 8.34x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.16x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 7.14x |  |
@@ -59,7 +59,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [set_literal_iteration](benchmarks/set_literal_iteration.md) | 3.06x | +138.9% |
 | [list_index](benchmarks/list_index.md) | 2.97x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.79x |  |
-| [int_divmod](benchmarks/int_divmod.md) | 2.73x | +39.2% |
+| [int_divmod](benchmarks/int_divmod.md) | 2.73x | +39.5% |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.69x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.66x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.63x |  |
@@ -80,7 +80,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [positional_args_from_interpreted](benchmarks/positional_args_from_interpreted.md) | 1.71x |  |
 | [dict_call_keywords](benchmarks/dict_call_keywords.md) | 1.69x |  |
 | [list_copy](benchmarks/list_copy.md) | 1.69x |  |
-| [readline](benchmarks/readline.md) | 1.67x | +22.7% |
+| [readline](benchmarks/readline.md) | 1.67x | +22.8% |
 | [call_method_from_interpreted](benchmarks/call_method_from_interpreted.md) | 1.66x |  |
 | [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 1.54x |  |
 | [str_searching](benchmarks/str_searching.md) | 1.54x |  |
@@ -104,5 +104,5 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.04x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 1.01x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.01x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.01x |  |
+| [read_write_close](benchmarks/read_write_close.md) | 1.01x | +19.6% |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.66x |  |
