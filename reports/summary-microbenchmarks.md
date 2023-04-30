@@ -15,7 +15,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [super_method_alt](benchmarks/super_method_alt.md) | 39.77x |  |
 | [attrs_method](benchmarks/attrs_method.md) | 35.71x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 35.11x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 31.64x | +1656.7% |
+| [int_to_float](benchmarks/int_to_float.md) | 31.64x | +1657.3% |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 31.30x |  |
 | [super_method](benchmarks/super_method.md) | 31.13x |  |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 30.92x |  |
@@ -30,7 +30,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.12x |  |
 | [str_call](benchmarks/str_call.md) | 10.10x |  |
 | [float_abs](benchmarks/float_abs.md) | 9.34x | +180.8% |
-| [matrix_multiply](benchmarks/matrix_multiply.md) | 9.16x | +124.2% |
+| [matrix_multiply](benchmarks/matrix_multiply.md) | 9.16x | +124.4% |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.11x |  |
 | [sieve](benchmarks/sieve.md) | 8.11x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 7.19x |  |
@@ -60,7 +60,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [list_index](benchmarks/list_index.md) | 2.94x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.90x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.78x |  |
-| [int_divmod](benchmarks/int_divmod.md) | 2.72x | +41.6% |
+| [int_divmod](benchmarks/int_divmod.md) | 2.72x | +41.3% |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.70x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.70x |  |
 | [str_methods](benchmarks/str_methods.md) | 2.46x |  |
