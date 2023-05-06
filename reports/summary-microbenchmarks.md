@@ -15,7 +15,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [super_method_alt](benchmarks/super_method_alt.md) | 39.73x |  |
 | [attrs_method](benchmarks/attrs_method.md) | 35.73x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 35.09x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 31.56x | +1651.5% |
+| [int_to_float](benchmarks/int_to_float.md) | 31.56x | +1648.0% |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 31.27x |  |
 | [super_method](benchmarks/super_method.md) | 31.16x |  |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 30.92x |  |
@@ -29,8 +29,8 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [int_list](benchmarks/int_list.md) | 11.38x |  |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.12x |  |
 | [str_call](benchmarks/str_call.md) | 10.09x |  |
-| [float_abs](benchmarks/float_abs.md) | 9.34x | +180.8% |
-| [matrix_multiply](benchmarks/matrix_multiply.md) | 9.16x | +124.0% |
+| [float_abs](benchmarks/float_abs.md) | 9.34x | +180.4% |
+| [matrix_multiply](benchmarks/matrix_multiply.md) | 9.16x | +124.4% |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.11x |  |
 | [sieve](benchmarks/sieve.md) | 8.10x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 7.19x |  |
@@ -98,7 +98,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.20x |  |
 | [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x |  |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.18x |  |
-| [read_write_text](benchmarks/read_write_text.md) | 1.16x | +15.1% |
+| [read_write_text](benchmarks/read_write_text.md) | 1.16x |  |
 | [read_write_binary](benchmarks/read_write_binary.md) | 1.10x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.09x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.05x |  |
