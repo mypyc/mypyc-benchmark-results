@@ -7,7 +7,17 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2023-05-05** | **15.11x** |  | [541639e47408](https://github.com/python/mypy/commit/541639e474085f18ed61527d97ba4620e4334e09) |
+| **2023-05-07** | **15.11x** |  | [c54c22616592](https://github.com/python/mypy/commit/c54c226165925eb43ea55edad5c41c734deb1278) |
+| 2023-05-07 | 15.11x |  | [62835166774b](https://github.com/python/mypy/commit/62835166774b2346f9f6afef61b9f7117c551ff2) |
+| 2023-05-07 | 15.11x |  | [d671b318c2d2](https://github.com/python/mypy/commit/d671b318c2d27d993acb1015588dd47c9d42f643) |
+| 2023-05-07 | 15.11x |  | [3a1dc4cc8b67](https://github.com/python/mypy/commit/3a1dc4cc8b6726232bc4a8875080412239adee2f) |
+| 2023-05-07 | 15.11x |  | [ba8ae294e16c](https://github.com/python/mypy/commit/ba8ae294e16c6ebc6a37c897a4618e27528c7ce7) |
+| 2023-05-06 | 15.11x |  | [7832e1f4ec5e](https://github.com/python/mypy/commit/7832e1f4ec5edf5f814c91f323c2d4ccc3022603) |
+| 2023-05-06 | 15.11x |  | [bfc1a7631a48](https://github.com/python/mypy/commit/bfc1a7631a48ecb3d2d0fedfe030b99a9e85e116) |
+| 2023-05-06 | 15.11x |  | [b69060a0fa6d](https://github.com/python/mypy/commit/b69060a0fa6d7fe93e0b81cf243632aa779deaa6) |
+| 2023-05-06 | 15.10x |  | [171e6f88bc3d](https://github.com/python/mypy/commit/171e6f88bc3dc5f4cc05fde2a69ab2c64245c5f2) |
+| 2023-05-06 | 15.11x |  | [d710fdd9cf97](https://github.com/python/mypy/commit/d710fdd9cf979ad0cf5758b069f4e5d488d13d12) |
+| 2023-05-05 | 15.11x |  | [541639e47408](https://github.com/python/mypy/commit/541639e474085f18ed61527d97ba4620e4334e09) |
 | 2023-05-04 | 15.11x |  | [fea5c9329e24](https://github.com/python/mypy/commit/fea5c9329e2442b2b77ee2408e307ccaa2c2fdfa) |
 | 2023-05-04 | 15.11x |  | [a8bd2737f6c3](https://github.com/python/mypy/commit/a8bd2737f6c315c27809ed77b29e9573edf3cdff) |
 | 2023-05-04 | 15.11x |  | [13f35ad0915e](https://github.com/python/mypy/commit/13f35ad0915e70c2c299e2eb308968c86117132d) |
