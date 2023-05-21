@@ -15,7 +15,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [super_method_alt](benchmarks/super_method_alt.md) | 40.08x |  |
 | [attrs_method](benchmarks/attrs_method.md) | 35.68x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 35.13x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 31.59x | +1656.3% |
+| [int_to_float](benchmarks/int_to_float.md) | 31.59x | +1655.5% |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 31.31x |  |
 | [super_method](benchmarks/super_method.md) | 31.28x |  |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 30.91x |  |
@@ -29,8 +29,8 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [int_list](benchmarks/int_list.md) | 11.41x |  |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.13x |  |
 | [str_call](benchmarks/str_call.md) | 10.07x |  |
-| [float_abs](benchmarks/float_abs.md) | 9.34x | +165.9% |
-| [matrix_multiply](benchmarks/matrix_multiply.md) | 9.18x | +124.5% |
+| [float_abs](benchmarks/float_abs.md) | 9.34x | +166.5% |
+| [matrix_multiply](benchmarks/matrix_multiply.md) | 9.18x | +124.7% |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.13x |  |
 | [sieve](benchmarks/sieve.md) | 8.11x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 7.20x |  |
@@ -99,7 +99,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.20x |  |
 | [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x |  |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.17x |  |
-| [read_write_binary](benchmarks/read_write_binary.md) | 1.13x | +18.0% |
+| [read_write_binary](benchmarks/read_write_binary.md) | 1.13x | +23.0% |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.08x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.05x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 1.02x |  |
