@@ -7,7 +7,9 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2023-06-12** | ****error**** |  | [cab8c674ebef](https://github.com/python/mypy/commit/cab8c674ebef944498ae4e9a89cd9c77316656ec) |
+| **2023-06-13** | ****error**** |  | [2a89f752dc17](https://github.com/python/mypy/commit/2a89f752dc174b4f0b99291c4a6bf10338dbbd5e) |
+| 2023-06-13 | **error** |  | [61a7f3bfa37c](https://github.com/python/mypy/commit/61a7f3bfa37c433ac34f4f07dc224a1745577c82) |
+| 2023-06-12 | **error** |  | [cab8c674ebef](https://github.com/python/mypy/commit/cab8c674ebef944498ae4e9a89cd9c77316656ec) |
 | 2023-06-12 | **error** |  | [9b9272ae758e](https://github.com/python/mypy/commit/9b9272ae758e23653c81c94031ec03892d31622a) |
 | 2023-06-12 | **error** |  | [4aa18ea818bf](https://github.com/python/mypy/commit/4aa18ea818bfe55617c3f2423d1020796ceccdfc) |
 | 2023-06-11 | **error** |  | [9e7bc383eb9a](https://github.com/python/mypy/commit/9e7bc383eb9a5df94e8bf6117f008d97017a1fcf) |
