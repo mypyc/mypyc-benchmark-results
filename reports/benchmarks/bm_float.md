@@ -4,7 +4,20 @@
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2023-06-14** | ****error**** |  | [e14cddbe31c9](https://github.com/python/mypy/commit/e14cddbe31c9437502acef022dca376a25d0b50d) |
+| **2023-06-17** | ****error**** |  | [6f2bfff521e7](https://github.com/python/mypy/commit/6f2bfff521e708f015af1eec5118db4600b829be) |
+| 2023-06-16 | **error** |  | [21cc1c74b7b5](https://github.com/python/mypy/commit/21cc1c74b7b531ef6e1024d35b364fe30077117b) |
+| 2023-06-16 | **error** |  | [db5b5af1201f](https://github.com/python/mypy/commit/db5b5af1201fff03465b0684d16b6489a62a3d78) |
+| 2023-06-16 | **error** |  | [65a715a650cc](https://github.com/python/mypy/commit/65a715a650cc058daad93e123ce972d99088f19f) |
+| 2023-06-15 | **error** |  | [cfec71798175](https://github.com/python/mypy/commit/cfec71798175fcbf030d6d114750d6fac454b3c9) |
+| 2023-06-15 | **error** |  | [ceb4d7fd687d](https://github.com/python/mypy/commit/ceb4d7fd687ddbb94dc6c62fb6a2c46c383da54f) |
+| 2023-06-15 | **error** |  | [bf9230934c4c](https://github.com/python/mypy/commit/bf9230934c4ce68c8c01aa0dd6aef57b180cc08b) |
+| 2023-06-15 | **error** |  | [9f3bbbeb1f5c](https://github.com/python/mypy/commit/9f3bbbeb1f5c8ca70f9d0386d5d1091f23e9a7cc) |
+| 2023-06-15 | **error** |  | [f5e5c117de36](https://github.com/python/mypy/commit/f5e5c117de36a339209c885d44b1b784e17023a4) |
+| 2023-06-15 | **error** |  | [475a46a7820e](https://github.com/python/mypy/commit/475a46a7820e1ff7990a23c6ae745acbb3678c18) |
+| 2023-06-15 | **error** |  | [6f913a148e1c](https://github.com/python/mypy/commit/6f913a148e1c1ec126d2009272a4a26ff61b8195) |
+| 2023-06-15 | **error** |  | [59a6c5e73de6](https://github.com/python/mypy/commit/59a6c5e73de6b92faa2c25e39856fb43380f82ed) |
+| 2023-06-15 | **error** |  | [66b96ed54b25](https://github.com/python/mypy/commit/66b96ed54b255495288ba539e3fd1f54f21d4abe) |
+| 2023-06-14 | **error** |  | [e14cddbe31c9](https://github.com/python/mypy/commit/e14cddbe31c9437502acef022dca376a25d0b50d) |
 | 2023-06-14 | **error** |  | [db97bbcede7d](https://github.com/python/mypy/commit/db97bbcede7ddeaecb3da31ee00f1812b115b8a4) |
 | 2023-06-14 | **error** |  | [cdddc508c353](https://github.com/python/mypy/commit/cdddc508c3533b960786841253e1aba251802081) |
 | 2023-06-14 | **error** |  | [c63e873802fe](https://github.com/python/mypy/commit/c63e873802fecfc3f817dceb94c729a6965e3489) |
