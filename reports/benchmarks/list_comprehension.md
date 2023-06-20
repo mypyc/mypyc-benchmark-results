@@ -7,7 +7,17 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2023-06-17** | ****error**** |  | [6f2bfff521e7](https://github.com/python/mypy/commit/6f2bfff521e708f015af1eec5118db4600b829be) |
+| **2023-06-20** | ****error**** |  | [1e5caa0dc349](https://github.com/python/mypy/commit/1e5caa0dc349750c3eb6c5f448c7aab524e3ec38) |
+| 2023-06-20 | **error** |  | [7d5213d0c349](https://github.com/python/mypy/commit/7d5213d0c3490ab03ed5240f9a02dd95dd002793) |
+| 2023-06-20 | **error** |  | [15f210b104c2](https://github.com/python/mypy/commit/15f210b104c253e866b50607126c7022258bd715) |
+| 2023-06-19 | **error** |  | [d1fe7cf849db](https://github.com/python/mypy/commit/d1fe7cf849dbdf2b41109db1ce5fc6293ce6ec0a) |
+| 2023-06-19 | **error** |  | [6907343e0191](https://github.com/python/mypy/commit/6907343e0191162aa03cc21d23489606e0997b4a) |
+| 2023-06-19 | **error** |  | [c0e6d2818bca](https://github.com/python/mypy/commit/c0e6d2818bcab9a7313cebb54463d752004de844) |
+| 2023-06-19 | **error** |  | [719e7e77a52d](https://github.com/python/mypy/commit/719e7e77a52d30146de3a95ee2b6baf69a11eb17) |
+| 2023-06-19 | **error** |  | [32d14ed9928f](https://github.com/python/mypy/commit/32d14ed9928f04bdbd70b6381c5706024dfb4e70) |
+| 2023-06-18 | **error** |  | [0873230ee604](https://github.com/python/mypy/commit/0873230ee60461110bd7bfde7ca3886878aae389) |
+| 2023-06-18 | **error** |  | [91b67405a7cd](https://github.com/python/mypy/commit/91b67405a7cd9da551411ccb4e28493647208c11) |
+| 2023-06-17 | **error** |  | [6f2bfff521e7](https://github.com/python/mypy/commit/6f2bfff521e708f015af1eec5118db4600b829be) |
 | 2023-06-16 | **error** |  | [21cc1c74b7b5](https://github.com/python/mypy/commit/21cc1c74b7b531ef6e1024d35b364fe30077117b) |
 | 2023-06-16 | **error** |  | [db5b5af1201f](https://github.com/python/mypy/commit/db5b5af1201fff03465b0684d16b6489a62a3d78) |
 | 2023-06-16 | **error** |  | [65a715a650cc](https://github.com/python/mypy/commit/65a715a650cc058daad93e123ce972d99088f19f) |
