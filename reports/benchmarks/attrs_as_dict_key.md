@@ -7,7 +7,28 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2023-06-20** | ****error**** |  | [1e5caa0dc349](https://github.com/python/mypy/commit/1e5caa0dc349750c3eb6c5f448c7aab524e3ec38) |
+| **2023-06-26** | **1.08x** |  | [9ad3f381ad28](https://github.com/python/mypy/commit/9ad3f381ad28be818758e0b24443d36e95b5f943) |
+| 2023-06-25 | 1.08x |  | [cee00306a2de](https://github.com/python/mypy/commit/cee00306a2ded471658b71d2f1c9024bc22a62b1) |
+| 2023-06-25 | 1.09x |  | [2bb70781e9c1](https://github.com/python/mypy/commit/2bb70781e9c1d5a27b20b8e68980c19ec1ee25fb) |
+| 2023-06-24 | 1.08x |  | [9bd85638361d](https://github.com/python/mypy/commit/9bd85638361de256d732f88396206711c2e10f1d) |
+| 2023-06-24 | 1.08x |  | [1fab96bf829c](https://github.com/python/mypy/commit/1fab96bf829c2ff6f1a10e3a47718f77a4a4a5ad) |
+| 2023-06-24 | 1.08x |  | [ef87305e2aef](https://github.com/python/mypy/commit/ef87305e2aef19c57a3cd485106de825eb45a0c6) |
+| 2023-06-23 | 1.08x |  | [efe84d492bd7](https://github.com/python/mypy/commit/efe84d492bd77f20c777b523f2e681d1f83f7ac4) |
+| 2023-06-23 | 1.08x |  | [c2dc3ff4ee22](https://github.com/python/mypy/commit/c2dc3ff4ee2283f42968aaf2a92bb5dabb05ec01) |
+| 2023-06-23 | 1.08x |  | [c23936931688](https://github.com/python/mypy/commit/c23936931688f69b9b9782e7d79c123698458e66) |
+| 2023-06-23 | 1.08x |  | [c099b20df027](https://github.com/python/mypy/commit/c099b20df02778455aaa3b5f59bb4deca096b8b0) |
+| 2023-06-23 | 1.09x |  | [2d8ad8ef240d](https://github.com/python/mypy/commit/2d8ad8ef240df262be80d9359e9f5892ea1f9ad3) |
+| 2023-06-23 | 1.08x |  | [2f56b3f8ce1a](https://github.com/python/mypy/commit/2f56b3f8ce1aed0cee7e163af2a0d442a3939023) |
+| 2023-06-23 | 1.09x |  | [a47279b8626e](https://github.com/python/mypy/commit/a47279b8626e3885580df1a33c179fc5b7e273ce) |
+| 2023-06-23 | 1.09x |  | [c918d40b1500](https://github.com/python/mypy/commit/c918d40b1500d141d14764ef967ca56ce633efb2) |
+| 2023-06-22 | 1.09x |  | [2e304ca36df9](https://github.com/python/mypy/commit/2e304ca36df9975299769b3b40ec9d73ad4f68b4) |
+| 2023-06-22 | 1.09x |  | [a5e316eafdd9](https://github.com/python/mypy/commit/a5e316eafdd98ad73847e41436a3158e976ed769) |
+| 2023-06-22 | 1.08x |  | [aba35af62078](https://github.com/python/mypy/commit/aba35af62078155c9c18f05ae1506fe72dd6121a) |
+| 2023-06-21 | 1.08x |  | [7d031beb0174](https://github.com/python/mypy/commit/7d031beb017450ac990c97e288d064290e3be55f) |
+| 2023-06-21 | 1.09x |  | [88845188c8d1](https://github.com/python/mypy/commit/88845188c8d1a16e528bb8881a02d374a33af370) |
+| 2023-06-20 | 1.08x |  | [304997bfb852](https://github.com/python/mypy/commit/304997bfb85200fb521ac727ee0ce3e6085e5278) |
+| 2023-06-20 | 1.08x |  | [e3210d07d945](https://github.com/python/mypy/commit/e3210d07d945bd7b120dd0d6f20036ed664c4129) |
+| 2023-06-20 | **error** |  | [1e5caa0dc349](https://github.com/python/mypy/commit/1e5caa0dc349750c3eb6c5f448c7aab524e3ec38) |
 | 2023-06-20 | **error** |  | [7d5213d0c349](https://github.com/python/mypy/commit/7d5213d0c3490ab03ed5240f9a02dd95dd002793) |
 | 2023-06-20 | **error** |  | [15f210b104c2](https://github.com/python/mypy/commit/15f210b104c253e866b50607126c7022258bd715) |
 | 2023-06-19 | **error** |  | [d1fe7cf849db](https://github.com/python/mypy/commit/d1fe7cf849dbdf2b41109db1ce5fc6293ce6ec0a) |
