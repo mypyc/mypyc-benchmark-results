@@ -6,11 +6,11 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [richards](benchmarks/richards.md) | 49.33x | +16.5% |
-| [deltablue](benchmarks/deltablue.md) | 19.06x |  |
-| [raytrace](benchmarks/raytrace.md) | 18.41x |  |
-| [spectral_norm](benchmarks/spectral_norm.md) | 11.17x |  |
-| [binary_trees](benchmarks/binary_trees.md) | 9.96x |  |
-| [hexiom](benchmarks/hexiom.md) | 8.26x | +6.8% |
-| [bm_float](benchmarks/bm_float.md) | 7.57x |  |
-| [nqueens](benchmarks/nqueens.md) | 2.34x |  |
+| [richards](benchmarks/richards.md) | 49.36x | +16.7% |
+| [deltablue](benchmarks/deltablue.md) | 19.05x |  |
+| [raytrace](benchmarks/raytrace.md) | 18.42x |  |
+| [spectral_norm](benchmarks/spectral_norm.md) | 11.19x |  |
+| [binary_trees](benchmarks/binary_trees.md) | 9.86x |  |
+| [hexiom](benchmarks/hexiom.md) | 8.26x | +6.9% |
+| [bm_float](benchmarks/bm_float.md) | 7.55x |  |
+| [nqueens](benchmarks/nqueens.md) | 2.35x | +3.0% |
