@@ -104,5 +104,5 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 1.01x |  |
 | [read_write_close](benchmarks/read_write_close.md) | 1.01x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 0.99x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 0.98x | -17.8% |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 0.98x | -17.5% |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.65x |  |
