@@ -4,7 +4,15 @@
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2023-10-25** | **2.32x** |  | [090a414ba022](https://github.com/python/mypy/commit/090a414ba022f600bd65e7611fa3691903fd5a74) |
+| **2023-10-27** | **2.32x** |  | [9011ca8b4ded](https://github.com/python/mypy/commit/9011ca8b4dedc0e7177737b5265f69694afa91b5) |
+| 2023-10-27 | 2.31x |  | [42f7cf1a7228](https://github.com/python/mypy/commit/42f7cf1a7228844f82f4de22ac94f0e1b5e3ed9b) |
+| 2023-10-27 | 2.32x |  | [5c6ca5cdee90](https://github.com/python/mypy/commit/5c6ca5cdee906ec7c57be478679cd689fdd15861) |
+| 2023-10-27 | 2.32x |  | [4f05dd506ee4](https://github.com/python/mypy/commit/4f05dd506ee4cc8a9f38210be96e974fb8f54a6e) |
+| 2023-10-27 | 2.32x |  | [5d4046477eb0](https://github.com/python/mypy/commit/5d4046477eb017fcb2cdbf64403a4e67308ef2ed) |
+| 2023-10-27 | 2.31x |  | [b41c8c1ec433](https://github.com/python/mypy/commit/b41c8c1ec4337f158d70d9dfd2032c2ae03a017c) |
+| 2023-10-27 | 2.32x |  | [5ef9c82c1994](https://github.com/python/mypy/commit/5ef9c82c19941bd376128491b7959f551bd530e7) |
+| 2023-10-27 | 2.32x |  | [f7d047cd6dc0](https://github.com/python/mypy/commit/f7d047cd6dc008ab767510211d5c466d1c5e9215) |
+| 2023-10-25 | 2.32x |  | [090a414ba022](https://github.com/python/mypy/commit/090a414ba022f600bd65e7611fa3691903fd5a74) |
 | 2023-10-24 | 2.32x |  | [167dc7095758](https://github.com/python/mypy/commit/167dc7095758ddc001119e1c9f330bff4af72b22) |
 | 2023-10-23 | 2.32x |  | [8236c93d899f](https://github.com/python/mypy/commit/8236c93d899fa5225eb23644db802cf1e09196a7) |
 | 2023-10-23 | 2.32x |  | [cda163d378d6](https://github.com/python/mypy/commit/cda163d378d6f85627b72454918cba323bf37749) |
