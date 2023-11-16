@@ -33,7 +33,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 9.10x |  |
 | [sieve](benchmarks/sieve.md) | 8.28x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.23x |  |
-| [nested_func_escape](benchmarks/nested_func_escape.md) | 7.26x | +122.5% |
+| [nested_func_escape](benchmarks/nested_func_escape.md) | 7.26x | +121.9% |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 7.25x |  |
 | [list_comprehension](benchmarks/list_comprehension.md) | 6.95x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 5.85x |  |
