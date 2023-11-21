@@ -34,7 +34,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [sieve](benchmarks/sieve.md) | 8.28x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.27x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 7.27x |  |
-| [nested_func_escape](benchmarks/nested_func_escape.md) | 7.25x | +122.3% |
+| [nested_func_escape](benchmarks/nested_func_escape.md) | 7.25x | +122.0% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 6.96x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 5.85x |  |
 | [nested_func](benchmarks/nested_func.md) | 5.45x | +49.6% |
@@ -96,7 +96,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [min_max_sequence](benchmarks/min_max_sequence.md) | 1.30x |  |
 | [str_methods_2](benchmarks/str_methods_2.md) | 1.29x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.20x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x | +21.3% |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x |  |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.18x |  |
 | [read_write_text](benchmarks/read_write_text.md) | 1.18x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.07x |  |
