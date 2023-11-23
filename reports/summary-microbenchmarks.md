@@ -34,10 +34,10 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [sieve](benchmarks/sieve.md) | 8.27x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.25x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 7.28x |  |
-| [nested_func_escape](benchmarks/nested_func_escape.md) | 7.25x | +122.2% |
+| [nested_func_escape](benchmarks/nested_func_escape.md) | 7.25x | +121.6% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 6.96x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 5.86x |  |
-| [nested_func](benchmarks/nested_func.md) | 5.45x | +49.5% |
+| [nested_func](benchmarks/nested_func.md) | 5.45x | +49.6% |
 | [list_append_small](benchmarks/list_append_small.md) | 5.34x |  |
 | [list_insert](benchmarks/list_insert.md) | 4.99x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.87x |  |
