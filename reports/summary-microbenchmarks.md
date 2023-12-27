@@ -37,7 +37,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 7.26x | +122.2% |
 | [list_comprehension](benchmarks/list_comprehension.md) | 6.94x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 5.85x |  |
-| [nested_func](benchmarks/nested_func.md) | 5.46x | +50.0% |
+| [nested_func](benchmarks/nested_func.md) | 5.46x | +49.6% |
 | [list_append_small](benchmarks/list_append_small.md) | 5.34x |  |
 | [list_insert](benchmarks/list_insert.md) | 5.00x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 4.86x |  |
