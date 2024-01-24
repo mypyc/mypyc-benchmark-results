@@ -96,7 +96,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [str_methods_2](benchmarks/str_methods_2.md) | 1.29x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.28x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.20x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.20x |  |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.20x | +22.2% |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.18x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.07x |  |
 | [read_write_text](benchmarks/read_write_text.md) | 1.06x |  |
