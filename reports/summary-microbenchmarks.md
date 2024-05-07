@@ -29,7 +29,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 11.09x |  |
 | [str_call](benchmarks/str_call.md) | 10.21x |  |
 | [float_abs](benchmarks/float_abs.md) | 9.33x |  |
-| [tuple_equality](benchmarks/tuple_equality.md) | 9.23x | -61.8% |
+| [tuple_equality](benchmarks/tuple_equality.md) | 9.23x | -61.7% |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 9.11x |  |
 | [sieve](benchmarks/sieve.md) | 8.23x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 8.11x |  |
