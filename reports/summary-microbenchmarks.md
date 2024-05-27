@@ -96,13 +96,13 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [str_methods_2](benchmarks/str_methods_2.md) | 1.29x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.28x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.20x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x |  |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x | +21.1% |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.18x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.07x |  |
 | [read_write_text](benchmarks/read_write_text.md) | 1.07x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.05x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 1.02x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.02x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.01x |  |
-| [read_write_binary](benchmarks/read_write_binary.md) | 0.95x | -15.2% |
+| [read_write_close](benchmarks/read_write_close.md) | 1.01x | +21.4% |
+| [read_write_binary](benchmarks/read_write_binary.md) | 0.95x | -16.1% |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.65x |  |
