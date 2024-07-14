@@ -7,7 +7,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
 | [richards](benchmarks/richards.md) | 49.61x |  |
-| [spectral_norm](benchmarks/spectral_norm.md) | 21.68x | +89.2% |
+| [spectral_norm](benchmarks/spectral_norm.md) | 21.68x | +89.3% |
 | [deltablue](benchmarks/deltablue.md) | 19.15x |  |
 | [raytrace](benchmarks/raytrace.md) | 18.54x |  |
 | [binary_trees](benchmarks/binary_trees.md) | 10.14x |  |
