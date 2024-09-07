@@ -103,6 +103,6 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.08x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.05x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 1.02x |  |
-| [read_write_close](benchmarks/read_write_close.md) | 1.01x | +21.4% |
+| [read_write_close](benchmarks/read_write_close.md) | 1.01x | +21.3% |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 0.99x |  |
 | [catch_exceptions](benchmarks/catch_exceptions.md) | 0.66x |  |
