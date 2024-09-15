@@ -19,7 +19,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [dataclass_method](benchmarks/dataclass_method.md) | 41.99x |  |
 | [super_method](benchmarks/super_method.md) | 37.46x |  |
 | [int_to_float](benchmarks/int_to_float.md) | 33.91x |  |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 27.36x |  |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 27.36x | -18.9% |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 25.74x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 20.29x |  |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 16.09x |  |
