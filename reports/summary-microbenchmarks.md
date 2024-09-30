@@ -98,7 +98,7 @@ Environment: CPython 3.8.10, Ubuntu 20.04.2 LTS and Intel Core i5-1145G7 (64-bit
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.21x |  |
 | [create_namedtuple](benchmarks/create_namedtuple.md) | 1.19x |  |
 | [read_write_text](benchmarks/read_write_text.md) | 1.19x |  |
-| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x | +19.1% |
+| [read_write_small_files](benchmarks/read_write_small_files.md) | 1.19x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 1.07x |  |
 | [dataclass_as_dict_key](benchmarks/dataclass_as_dict_key.md) | 1.04x |  |
 | [access_attr_from_interpreted](benchmarks/access_attr_from_interpreted.md) | 1.02x |  |
