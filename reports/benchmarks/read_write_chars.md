@@ -7,7 +7,19 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2024-10-14** | **1.45x** |  | [706680f9cadf](https://github.com/python/mypy/commit/706680f9cadfebe77208f20be965e2714e2b39df) |
+| **2024-10-15** | **1.46x** |  | [7f081542fb0e](https://github.com/python/mypy/commit/7f081542fb0e0c0d0e05dbcfa80d8e20b0fd460f) |
+| 2024-10-15 | 1.39x |  | [fea947a7b0f3](https://github.com/python/mypy/commit/fea947a7b0f35d5fbe7b189bd25600c80fb7e8b1) |
+| 2024-10-15 | 1.49x |  | [284677e99071](https://github.com/python/mypy/commit/284677e99071d783686978ca3bc6f40e1b7f25b8) |
+| 2024-10-14 | 1.49x |  | [676ed066e9ce](https://github.com/python/mypy/commit/676ed066e9cee31bc104910f7785cac005dda7f7) |
+| 2024-10-14 | 1.46x |  | [970428a18704](https://github.com/python/mypy/commit/970428a18704ba938c7bf0ddef60321cc785e402) |
+| 2024-10-14 | 1.37x |  | [80b59139e11f](https://github.com/python/mypy/commit/80b59139e11faf6ab3867dc8969db327f8861694) |
+| 2024-10-14 | 1.49x |  | [740292ad2614](https://github.com/python/mypy/commit/740292ad2614c184dbcbfabbae994c17553abf16) |
+| 2024-10-14 | 1.45x |  | [f4f16673b9f6](https://github.com/python/mypy/commit/f4f16673b9f6cb3c7752d8a01e52e0e371353b6b) |
+| 2024-10-14 | 1.49x |  | [fc75ca76366d](https://github.com/python/mypy/commit/fc75ca76366d43b3083aabfc2bcde848adb44bfd) |
+| 2024-10-14 | 1.49x |  | [5fba078a2195](https://github.com/python/mypy/commit/5fba078a21952d6d21f18456cfbcce9a2d2a2062) |
+| 2024-10-14 | 1.48x |  | [c8ebc75bf364](https://github.com/python/mypy/commit/c8ebc75bf36494d99afe731e216d08bbb4c06375) |
+| 2024-10-14 | 1.45x |  | [e6ced4866e82](https://github.com/python/mypy/commit/e6ced4866e825bea01d9158c96b12376defd408e) |
+| 2024-10-14 | 1.45x |  | [706680f9cadf](https://github.com/python/mypy/commit/706680f9cadfebe77208f20be965e2714e2b39df) |
 | 2024-10-14 | 1.44x |  | [cbd96f96a67b](https://github.com/python/mypy/commit/cbd96f96a67bc5c2088457fcd30742644614f00b) |
 | 2024-10-14 | 1.45x |  | [395108d287f1](https://github.com/python/mypy/commit/395108d287f1d143423a830e22b313e405b872b3) |
 | 2024-10-14 | 1.48x |  | [1a074b6b2434](https://github.com/python/mypy/commit/1a074b6b2434ae2f7bbf5f12d3b0db208136dca8) |
