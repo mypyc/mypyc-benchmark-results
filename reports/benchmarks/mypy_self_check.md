@@ -4,7 +4,9 @@
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2024-11-27** | ****error**** |  | [15cd6d30f888](https://github.com/python/mypy/commit/15cd6d30f888a4b6ce217e05c4ccfd09dfa2945c) |
+| **2024-11-27** | ****error**** |  | [d39eaccf7bbb](https://github.com/python/mypy/commit/d39eaccf7bbbad5c1d3d1e0c0a971501d764a1a2) |
+| 2024-11-27 | **error** |  | [2842e8f27993](https://github.com/python/mypy/commit/2842e8f27993e303d757a916acdf278bfd6fd682) |
+| 2024-11-27 | **error** |  | [15cd6d30f888](https://github.com/python/mypy/commit/15cd6d30f888a4b6ce217e05c4ccfd09dfa2945c) |
 | 2024-11-27 | **error** |  | [30a2007ab25b](https://github.com/python/mypy/commit/30a2007ab25b496c740e76d8d694f795b6f8ee66) |
 | 2024-11-21 | **error** |  | [499adaed8adb](https://github.com/python/mypy/commit/499adaed8adbded1a180e30d071438fef81779ec) |
 | 2024-11-21 | **error** |  | [08340c29a939](https://github.com/python/mypy/commit/08340c29a939a203868d3abd5cfd997720228f32) |
