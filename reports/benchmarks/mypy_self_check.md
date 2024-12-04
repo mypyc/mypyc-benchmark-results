@@ -4,7 +4,11 @@
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2024-12-02** | ****error**** |  | [222b104a6bee](https://github.com/python/mypy/commit/222b104a6bee2ccb92d8023777191218095c6203) |
+| **2024-12-04** | ****error**** |  | [f51090d05387](https://github.com/python/mypy/commit/f51090d053874aed0f3bfdb354e42f641296eaac) |
+| 2024-12-04 | **error** |  | [242873a2e8a1](https://github.com/python/mypy/commit/242873a2e8a1d98762b30fcf7b28a699a230279d) |
+| 2024-12-03 | **error** |  | [411e1f168e19](https://github.com/python/mypy/commit/411e1f168e197dd7ca08c820ae04b3160f41071b) |
+| 2024-12-03 | **error** |  | [e731185489cd](https://github.com/python/mypy/commit/e731185489cd18b31ec23354eee47eb8b949d1b1) |
+| 2024-12-02 | **error** |  | [222b104a6bee](https://github.com/python/mypy/commit/222b104a6bee2ccb92d8023777191218095c6203) |
 | 2024-12-02 | **error** |  | [54ff364f4a7e](https://github.com/python/mypy/commit/54ff364f4a7e802bca936136d0848116c5e3627e) |
 | 2024-12-02 | **error** |  | [725145e3153b](https://github.com/python/mypy/commit/725145e3153b43fe8cf70d56bbdf4064e31e8960) |
 | 2024-12-02 | **error** |  | [1a9596453bf6](https://github.com/python/mypy/commit/1a9596453bf6377b8fee822cf0bf74350993ec28) |
