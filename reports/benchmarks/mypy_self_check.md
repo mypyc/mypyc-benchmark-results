@@ -1,6 +1,6 @@
 # Benchmark results for "mypy_self_check"
 
-[Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/benchmarks/mypy_self_check.py#L98)
+[Benchmark implementation](https://github.com/mypyc/mypyc-benchmarks/blob/master/benchmarks/mypy_self_check.py#L107)
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
