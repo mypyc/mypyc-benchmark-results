@@ -24,7 +24,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [int_list](benchmarks/int_list.md) | 12.12x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.64x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.71x |  |
-| [tuple_equality](benchmarks/tuple_equality.md) | 9.46x | +19.9% |
+| [tuple_equality](benchmarks/tuple_equality.md) | 9.46x | +19.8% |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.32x |  |
 | [enums](benchmarks/enums.md) | 7.58x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.96x |  |
@@ -54,7 +54,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 2.90x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.75x |  |
 | [list_index](benchmarks/list_index.md) | 2.75x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 2.69x | +115.1% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 2.69x | +116.8% |
 | [str_slicing](benchmarks/str_slicing.md) | 2.66x |  |
 | [method_object](benchmarks/method_object.md) | 2.58x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.50x |  |
@@ -64,7 +64,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [encode_decode](benchmarks/encode_decode.md) | 2.14x | +35.1% |
 | [int_divmod](benchmarks/int_divmod.md) | 2.06x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.01x |  |
-| [str_searching](benchmarks/str_searching.md) | 2.00x | +19.4% |
+| [str_searching](benchmarks/str_searching.md) | 2.00x | +19.3% |
 | [generators](benchmarks/generators.md) | 1.97x |  |
 | [list_concatenate](benchmarks/list_concatenate.md) | 1.94x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 1.83x |  |
@@ -99,7 +99,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 0.98x |  |
 | [read_write_small_files](benchmarks/read_write_small_files.md) | 0.98x |  |
 | [min_max_sequence](benchmarks/min_max_sequence.md) | 0.98x |  |
-| [read_write_binary](benchmarks/read_write_binary.md) | 0.97x | -19.0% |
+| [read_write_binary](benchmarks/read_write_binary.md) | 0.97x | -15.1% |
 | [create_dataclass](benchmarks/create_dataclass.md) | 0.89x |  |
 | [create_attrs](benchmarks/create_attrs.md) | 0.87x |  |
 | [attrs_as_dict_key](benchmarks/attrs_as_dict_key.md) | 0.74x |  |
