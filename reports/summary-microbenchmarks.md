@@ -19,18 +19,18 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.80x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 13.94x |  |
-| [sieve](benchmarks/sieve.md) | 13.76x | +18.7% |
+| [sieve](benchmarks/sieve.md) | 13.76x | +18.8% |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.54x |  |
 | [int_list](benchmarks/int_list.md) | 12.09x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.63x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.71x |  |
-| [tuple_equality](benchmarks/tuple_equality.md) | 9.46x | +19.8% |
+| [tuple_equality](benchmarks/tuple_equality.md) | 9.46x | +19.9% |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.32x |  |
 | [enums](benchmarks/enums.md) | 7.58x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.95x |  |
 | [alloc_long_lived_simple](benchmarks/alloc_long_lived_simple.md) | 5.90x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 5.69x |  |
-| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 5.51x | -49.6% |
+| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 5.51x | -49.5% |
 | [alloc_short_lived_linked](benchmarks/alloc_short_lived_linked.md) | 5.46x |  |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 5.20x |  |
 | [alloc_short_lived_simple](benchmarks/alloc_short_lived_simple.md) | 5.11x |  |
@@ -54,7 +54,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 2.90x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.76x |  |
 | [list_index](benchmarks/list_index.md) | 2.75x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 2.69x | +113.6% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 2.69x | +114.3% |
 | [str_slicing](benchmarks/str_slicing.md) | 2.66x |  |
 | [method_object](benchmarks/method_object.md) | 2.58x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.50x |  |
@@ -96,7 +96,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [read_write_text](benchmarks/read_write_text.md) | 1.01x |  |
 | [read_write_binary_chunks](benchmarks/read_write_binary_chunks.md) | 1.01x |  |
 | [read_write_small_files](benchmarks/read_write_small_files.md) | 1.00x |  |
-| [read_write_binary](benchmarks/read_write_binary.md) | 1.00x | -19.2% |
+| [read_write_binary](benchmarks/read_write_binary.md) | 1.00x | -18.2% |
 | [read_write_close](benchmarks/read_write_close.md) | 0.99x |  |
 | [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 0.98x |  |
 | [min_max_sequence](benchmarks/min_max_sequence.md) | 0.98x |  |
