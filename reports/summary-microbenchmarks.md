@@ -10,7 +10,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 30.19x | +23.1% |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 30.19x | +34.5% |
 | [attrs_method](benchmarks/attrs_method.md) | 19.65x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.59x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 18.61x |  |
@@ -19,18 +19,18 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.80x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 13.94x |  |
-| [sieve](benchmarks/sieve.md) | 13.77x | +18.8% |
+| [sieve](benchmarks/sieve.md) | 13.77x | +18.5% |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.55x |  |
 | [int_list](benchmarks/int_list.md) | 12.07x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.64x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.70x |  |
-| [tuple_equality](benchmarks/tuple_equality.md) | 9.43x | +19.4% |
+| [tuple_equality](benchmarks/tuple_equality.md) | 9.43x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.32x |  |
 | [enums](benchmarks/enums.md) | 7.58x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.95x |  |
 | [alloc_long_lived_simple](benchmarks/alloc_long_lived_simple.md) | 5.92x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 5.68x |  |
-| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 5.51x | -49.6% |
+| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 5.51x | -49.8% |
 | [alloc_short_lived_linked](benchmarks/alloc_short_lived_linked.md) | 5.47x |  |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 5.20x |  |
 | [alloc_short_lived_simple](benchmarks/alloc_short_lived_simple.md) | 5.16x |  |
@@ -54,7 +54,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 2.90x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.75x |  |
 | [list_index](benchmarks/list_index.md) | 2.75x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 2.69x | +113.9% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 2.69x |  |
 | [str_slicing](benchmarks/str_slicing.md) | 2.66x |  |
 | [method_object](benchmarks/method_object.md) | 2.58x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.50x |  |
@@ -64,7 +64,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [encode_decode](benchmarks/encode_decode.md) | 2.14x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 2.06x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.01x |  |
-| [str_searching](benchmarks/str_searching.md) | 2.00x | +24.6% |
+| [str_searching](benchmarks/str_searching.md) | 2.00x | +17.3% |
 | [generators](benchmarks/generators.md) | 1.97x |  |
 | [list_concatenate](benchmarks/list_concatenate.md) | 1.94x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 1.84x |  |
@@ -86,7 +86,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [str_to_float](benchmarks/str_to_float.md) | 1.40x |  |
 | [readline](benchmarks/readline.md) | 1.34x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.26x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.21x | +13.1% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.21x | +13.2% |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.17x |  |
 | [int_long_bitwise_ops](benchmarks/int_long_bitwise_ops.md) | 1.13x |  |
 | [positional_args_from_interpreted](benchmarks/positional_args_from_interpreted.md) | 1.13x |  |
