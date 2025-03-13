@@ -20,7 +20,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 13.91x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.55x |  |
-| [sieve](benchmarks/sieve.md) | 12.26x | +3.1% |
+| [sieve](benchmarks/sieve.md) | 12.26x |  |
 | [int_list](benchmarks/int_list.md) | 12.23x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.59x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.84x |  |
@@ -30,7 +30,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.91x |  |
 | [alloc_long_lived_simple](benchmarks/alloc_long_lived_simple.md) | 5.82x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 5.65x |  |
-| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 5.51x | -49.8% |
+| [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 5.51x | -49.0% |
 | [alloc_short_lived_linked](benchmarks/alloc_short_lived_linked.md) | 5.49x |  |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 5.19x |  |
 | [alloc_short_lived_simple](benchmarks/alloc_short_lived_simple.md) | 5.08x |  |
@@ -64,8 +64,8 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [encode_decode](benchmarks/encode_decode.md) | 2.13x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 2.06x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.03x |  |
-| [str_searching](benchmarks/str_searching.md) | 1.98x | +18.2% |
-| [str_methods](benchmarks/str_methods.md) | 1.96x | +26.0% |
+| [str_searching](benchmarks/str_searching.md) | 1.98x | +18.4% |
+| [str_methods](benchmarks/str_methods.md) | 1.96x | +25.6% |
 | [list_concatenate](benchmarks/list_concatenate.md) | 1.94x |  |
 | [generators](benchmarks/generators.md) | 1.93x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 1.84x |  |
@@ -84,7 +84,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [str_to_float](benchmarks/str_to_float.md) | 1.41x |  |
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.40x |  |
 | [bytes_methods](benchmarks/bytes_methods.md) | 1.38x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.35x | +26.3% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.35x | +26.7% |
 | [readline](benchmarks/readline.md) | 1.35x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.27x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.16x |  |
