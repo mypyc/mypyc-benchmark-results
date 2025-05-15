@@ -17,10 +17,10 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [super_method_alt](benchmarks/super_method_alt.md) | 15.97x |  |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.80x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 14.53x | -17.1% |
+| [int_to_float](benchmarks/int_to_float.md) | 14.53x |  |
 | [super_method](benchmarks/super_method.md) | 13.95x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.50x |  |
-| [sieve](benchmarks/sieve.md) | 12.34x | -6.9% |
+| [sieve](benchmarks/sieve.md) | 12.34x | -8.8% |
 | [int_list](benchmarks/int_list.md) | 12.11x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.58x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.83x |  |
@@ -62,13 +62,13 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.40x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.16x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.14x |  |
-| [str_searching](benchmarks/str_searching.md) | 2.12x | +28.6% |
+| [str_searching](benchmarks/str_searching.md) | 2.12x | +26.7% |
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.07x |  |
 | [encode_decode](benchmarks/encode_decode.md) | 2.06x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 2.05x |  |
-| [list_copy](benchmarks/list_copy.md) | 2.00x | +37.1% |
+| [list_copy](benchmarks/list_copy.md) | 2.00x | +39.6% |
 | [generators](benchmarks/generators.md) | 1.97x |  |
-| [str_methods](benchmarks/str_methods.md) | 1.95x | +18.5% |
+| [str_methods](benchmarks/str_methods.md) | 1.95x | +19.4% |
 | [dict_copy](benchmarks/dict_copy.md) | 1.83x |  |
 | [dict_set_default](benchmarks/dict_set_default.md) | 1.79x |  |
 | [list_remove](benchmarks/list_remove.md) | 1.75x |  |
@@ -84,7 +84,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.42x |  |
 | [bytes_methods](benchmarks/bytes_methods.md) | 1.41x |  |
 | [str_to_float](benchmarks/str_to_float.md) | 1.39x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.35x | +29.2% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.35x | +28.3% |
 | [readline](benchmarks/readline.md) | 1.34x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.27x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.17x |  |
