@@ -62,7 +62,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.40x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.15x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.15x |  |
-| [str_searching](benchmarks/str_searching.md) | 2.12x | +26.8% |
+| [str_searching](benchmarks/str_searching.md) | 2.12x | +26.7% |
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.07x |  |
 | [encode_decode](benchmarks/encode_decode.md) | 2.05x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 2.05x |  |
@@ -84,7 +84,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.42x |  |
 | [bytes_methods](benchmarks/bytes_methods.md) | 1.41x |  |
 | [str_to_float](benchmarks/str_to_float.md) | 1.40x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.35x | +29.6% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.35x | +29.4% |
 | [readline](benchmarks/readline.md) | 1.34x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.27x |  |
 | [bytes_searching](benchmarks/bytes_searching.md) | 1.17x |  |
