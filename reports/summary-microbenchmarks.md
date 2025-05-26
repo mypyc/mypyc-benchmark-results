@@ -66,7 +66,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.07x |  |
 | [encode_decode](benchmarks/encode_decode.md) | 2.05x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 2.05x |  |
-| [list_copy](benchmarks/list_copy.md) | 2.00x | +36.4% |
+| [list_copy](benchmarks/list_copy.md) | 2.00x | +36.5% |
 | [generators](benchmarks/generators.md) | 1.97x |  |
 | [str_methods](benchmarks/str_methods.md) | 1.95x | +26.4% |
 | [dict_copy](benchmarks/dict_copy.md) | 1.83x |  |
