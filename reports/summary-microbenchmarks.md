@@ -14,13 +14,13 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [attrs_method](benchmarks/attrs_method.md) | 19.66x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.60x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 18.66x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 17.56x |  |
+| [int_to_float](benchmarks/int_to_float.md) | 17.56x | +20.8% |
 | [super_method_alt](benchmarks/super_method_alt.md) | 15.92x |  |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.79x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 14.01x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.49x |  |
-| [sieve](benchmarks/sieve.md) | 12.75x | +3.9% |
+| [sieve](benchmarks/sieve.md) | 12.75x | +3.5% |
 | [int_list](benchmarks/int_list.md) | 12.22x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.53x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.96x |  |
@@ -58,7 +58,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [str_slicing](benchmarks/str_slicing.md) | 2.65x |  |
 | [method_object](benchmarks/method_object.md) | 2.59x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.56x |  |
-| [generators](benchmarks/generators.md) | 2.52x | +30.6% |
+| [generators](benchmarks/generators.md) | 2.52x | +29.8% |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.44x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.37x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.14x |  |
@@ -67,7 +67,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.11x |  |
 | [encode_decode](benchmarks/encode_decode.md) | 2.08x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 2.06x |  |
-| [list_copy](benchmarks/list_copy.md) | 1.99x | +36.1% |
+| [list_copy](benchmarks/list_copy.md) | 1.99x |  |
 | [str_methods](benchmarks/str_methods.md) | 1.95x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 1.83x |  |
 | [dict_set_default](benchmarks/dict_set_default.md) | 1.77x |  |
