@@ -58,7 +58,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [str_slicing](benchmarks/str_slicing.md) | 2.66x |  |
 | [method_object](benchmarks/method_object.md) | 2.59x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.56x |  |
-| [generators](benchmarks/generators.md) | 2.52x | +29.9% |
+| [generators](benchmarks/generators.md) | 2.52x | +29.8% |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.44x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.37x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.15x |  |
