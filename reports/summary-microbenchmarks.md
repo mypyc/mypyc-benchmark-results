@@ -20,7 +20,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 14.01x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.47x |  |
-| [sieve](benchmarks/sieve.md) | 12.75x | +3.4% |
+| [sieve](benchmarks/sieve.md) | 12.75x | -6.1% |
 | [int_list](benchmarks/int_list.md) | 12.22x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.57x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.97x |  |
