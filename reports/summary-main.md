@@ -6,7 +6,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [richards](benchmarks/richards.md) | 22.25x |  |
+| [richards](benchmarks/richards.md) | 22.24x |  |
 | [spectral_norm](benchmarks/spectral_norm.md) | 12.94x |  |
 | [raytrace](benchmarks/raytrace.md) | 9.17x |  |
 | [bm_float](benchmarks/bm_float.md) | 7.69x |  |
