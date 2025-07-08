@@ -7,7 +7,19 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2025-07-06** | **1.00x** |  | [de23d08ff178](https://github.com/python/mypy/commit/de23d08ff1784c763bdb2423d7caed0d421aa8d1) |
+| **2025-07-07** | **1.00x** |  | [afd5a382dc95](https://github.com/python/mypy/commit/afd5a382dc95532da61e6ebc7002323fbca75548) |
+| 2025-07-07 | 1.00x |  | [cb3bddd41149](https://github.com/python/mypy/commit/cb3bddd41149405e2dfaa615cfc4c6f109eb80f3) |
+| 2025-07-07 | 1.00x |  | [6600073b0abb](https://github.com/python/mypy/commit/6600073b0abb76d9dfb3cbcee01667c3c0a54b31) |
+| 2025-07-07 | 1.00x |  | [ada0d2a3bb22](https://github.com/python/mypy/commit/ada0d2a3bb227a23ef8955f2590c581f97cbcfaf) |
+| 2025-07-07 | 1.00x |  | [526fec3f8a4b](https://github.com/python/mypy/commit/526fec3f8a4b2b575a7beb8b9d4a87720f57686e) |
+| 2025-07-07 | 1.00x |  | [b8dd6f3556f3](https://github.com/python/mypy/commit/b8dd6f3556f361ae2cd312b9edcc604eb6b1f465) |
+| 2025-07-07 | 1.00x |  | [fa5d94284600](https://github.com/python/mypy/commit/fa5d94284600a8e6e48dcc37f1aa050e7a593617) |
+| 2025-07-07 | 1.00x |  | [0b7afdaf281f](https://github.com/python/mypy/commit/0b7afdaf281f23fd2982b79d736fa2ab054bc76a) |
+| 2025-07-07 | 1.00x |  | [b4d52e1fdb87](https://github.com/python/mypy/commit/b4d52e1fdb8709f5cfa8bc9e61ea3be386564df7) |
+| 2025-07-07 | 1.00x |  | [1fde1438f6c4](https://github.com/python/mypy/commit/1fde1438f6c47963ecd6e10a8c410ac41ba05103) |
+| 2025-07-07 | 1.00x |  | [3557e221f27b](https://github.com/python/mypy/commit/3557e221f27b0bd15c62fc8162f54874598bbf0f) |
+| 2025-07-07 | 1.00x |  | [8df94d2b3038](https://github.com/python/mypy/commit/8df94d2b30383c230cdd51d449b4c46fdabd7be7) |
+| 2025-07-06 | 1.00x |  | [de23d08ff178](https://github.com/python/mypy/commit/de23d08ff1784c763bdb2423d7caed0d421aa8d1) |
 | 2025-07-05 | 1.00x |  | [4980ae5b80e6](https://github.com/python/mypy/commit/4980ae5b80e6e9b214d979a849e349dff6cad0ab) |
 | 2025-07-04 | 1.00x |  | [2de3f7766d97](https://github.com/python/mypy/commit/2de3f7766d972c6c0b2c4f9b5900b40f9244aab8) |
 | 2025-07-04 | 1.00x |  | [1a99ce22832a](https://github.com/python/mypy/commit/1a99ce22832ada034c8ca61337fd8e87678ab758) |
