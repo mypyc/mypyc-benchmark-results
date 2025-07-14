@@ -20,20 +20,20 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [tuple_equality](benchmarks/tuple_equality.md) | 15.56x | +84.0% |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 13.89x |  |
-| [sieve](benchmarks/sieve.md) | 13.83x | +12.0% |
+| [sieve](benchmarks/sieve.md) | 13.83x | +12.1% |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.57x |  |
 | [int_list](benchmarks/int_list.md) | 12.36x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.54x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 11.18x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.24x |  |
 | [enums](benchmarks/enums.md) | 7.59x |  |
-| [list_for_reversed](benchmarks/list_for_reversed.md) | 6.58x | +26.6% |
-| [nested_func_escape](benchmarks/nested_func_escape.md) | 6.51x | +44.3% |
+| [list_for_reversed](benchmarks/list_for_reversed.md) | 6.58x | +26.5% |
+| [nested_func_escape](benchmarks/nested_func_escape.md) | 6.51x | +44.4% |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.89x |  |
 | [alloc_long_lived_simple](benchmarks/alloc_long_lived_simple.md) | 5.86x |  |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 5.68x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 5.67x |  |
-| [generators](benchmarks/generators.md) | 5.55x | +181.5% |
+| [generators](benchmarks/generators.md) | 5.55x | +181.6% |
 | [alloc_short_lived_linked](benchmarks/alloc_short_lived_linked.md) | 5.52x |  |
 | [alloc_short_lived_simple](benchmarks/alloc_short_lived_simple.md) | 5.30x |  |
 | [float_abs](benchmarks/float_abs.md) | 4.92x |  |
@@ -82,7 +82,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.55x |  |
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.44x |  |
 | [read_write_chars](benchmarks/read_write_chars.md) | 1.44x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.42x | +4.7% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.42x | +4.8% |
 | [str_to_float](benchmarks/str_to_float.md) | 1.40x |  |
 | [bytes_methods](benchmarks/bytes_methods.md) | 1.40x |  |
 | [readline](benchmarks/readline.md) | 1.34x |  |
