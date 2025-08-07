@@ -16,25 +16,25 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 19.32x |  |
 | [super_method_alt](benchmarks/super_method_alt.md) | 15.98x |  |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.79x |  |
-| [tuple_equality](benchmarks/tuple_equality.md) | 15.56x | +83.9% |
+| [tuple_equality](benchmarks/tuple_equality.md) | 15.56x | +83.8% |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [int_to_float](benchmarks/int_to_float.md) | 14.11x |  |
 | [super_method](benchmarks/super_method.md) | 13.82x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.62x |  |
-| [sieve](benchmarks/sieve.md) | 13.48x | +9.4% |
+| [sieve](benchmarks/sieve.md) | 13.48x | +9.3% |
 | [int_list](benchmarks/int_list.md) | 12.32x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.76x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 11.07x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.24x |  |
 | [enums](benchmarks/enums.md) | 7.59x |  |
-| [list_for_reversed](benchmarks/list_for_reversed.md) | 6.59x | +26.9% |
-| [nested_func_escape](benchmarks/nested_func_escape.md) | 6.46x | +43.3% |
+| [list_for_reversed](benchmarks/list_for_reversed.md) | 6.59x | +26.8% |
+| [nested_func_escape](benchmarks/nested_func_escape.md) | 6.46x | +43.2% |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.93x |  |
 | [alloc_long_lived_simple](benchmarks/alloc_long_lived_simple.md) | 5.85x |  |
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 5.69x |  |
 | [unpack_namedtuple](benchmarks/unpack_namedtuple.md) | 5.67x |  |
 | [alloc_short_lived_linked](benchmarks/alloc_short_lived_linked.md) | 5.44x |  |
-| [generators](benchmarks/generators.md) | 5.43x | +175.7% |
+| [generators](benchmarks/generators.md) | 5.43x | +175.8% |
 | [alloc_short_lived_simple](benchmarks/alloc_short_lived_simple.md) | 5.02x |  |
 | [nested_func](benchmarks/nested_func.md) | 4.91x | +25.5% |
 | [float_abs](benchmarks/float_abs.md) | 4.91x |  |
