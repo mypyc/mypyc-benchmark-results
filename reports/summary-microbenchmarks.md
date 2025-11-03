@@ -54,7 +54,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [list_append_small](benchmarks/list_append_small.md) | 2.93x |  |
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 2.88x |  |
 | [dict_iteration](benchmarks/dict_iteration.md) | 2.85x |  |
-| [encode_decode](benchmarks/encode_decode.md) | 2.78x | +29.0% |
+| [encode_decode](benchmarks/encode_decode.md) | 2.78x | +28.9% |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.76x |  |
 | [list_index](benchmarks/list_index.md) | 2.75x |  |
 | [ord_builtin](benchmarks/ord_builtin.md) | 2.71x |  |
