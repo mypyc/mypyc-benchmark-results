@@ -10,7 +10,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 30.10x |  |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 30.10x | +15.2% |
 | [attrs_method](benchmarks/attrs_method.md) | 19.62x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.56x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 19.34x |  |
