@@ -7,7 +7,18 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2025-12-13** | **2.93x** |  | [a08b6234ba54](https://github.com/python/mypy/commit/a08b6234ba543fc121005492d1881d9994fea3b8) |
+| **2025-12-15** | **2.93x** |  | [e089abc6a0f6](https://github.com/python/mypy/commit/e089abc6a0f69593908fb3f7059f9a1056484b7d) |
+| 2025-12-15 | 2.93x |  | [65f35f999ff2](https://github.com/python/mypy/commit/65f35f999ff2e4b17bf43568d03dfdeb2dd2ac10) |
+| 2025-12-14 | 2.93x |  | [bfa957d9f1b9](https://github.com/python/mypy/commit/bfa957d9f1b90321739a0b47441cd38acf8ec228) |
+| 2025-12-14 | 2.93x |  | [5bba0c35974b](https://github.com/python/mypy/commit/5bba0c35974bb2a96b44d4b32f96fb8d50c8df63) |
+| 2025-12-14 | 2.93x |  | [6e449e725c9b](https://github.com/python/mypy/commit/6e449e725c9b6e67900c7e76a503da32de0dd308) |
+| 2025-12-14 | 2.93x |  | [319d2a5d08ad](https://github.com/python/mypy/commit/319d2a5d08ad6853f5c39511c71d3044144146e4) |
+| 2025-12-14 | 2.93x |  | [bc2481a9b9dc](https://github.com/python/mypy/commit/bc2481a9b9dc2ffc856dbdff1fb619dbc8ebd7dd) |
+| 2025-12-14 | 2.93x |  | [64d953d36665](https://github.com/python/mypy/commit/64d953d3666562a5fe87faed58c7e57cb528143b) |
+| 2025-12-14 | 2.93x |  | [007d6dea73ab](https://github.com/python/mypy/commit/007d6dea73abb258ff2db6d58b5f514c091476c4) |
+| 2025-12-14 | 2.93x |  | [f0b0fe7a8138](https://github.com/python/mypy/commit/f0b0fe7a8138a2cf13a303323d0ea66f6abce0a8) |
+| 2025-12-14 | 2.93x |  | [e7e5a0993941](https://github.com/python/mypy/commit/e7e5a09939415235b255c8038bb18d434af7c1b0) |
+| 2025-12-13 | 2.93x |  | [a08b6234ba54](https://github.com/python/mypy/commit/a08b6234ba543fc121005492d1881d9994fea3b8) |
 | 2025-12-13 | 2.93x |  | [8de78b8f02f3](https://github.com/python/mypy/commit/8de78b8f02f38ad568dc01d53e8193d9def04b06) |
 | 2025-12-13 | 2.93x |  | [ab38885da7bb](https://github.com/python/mypy/commit/ab38885da7bb6d509ddd699233deeeef8abdeec6) |
 | 2025-12-12 | 2.93x |  | [69112dd4152c](https://github.com/python/mypy/commit/69112dd4152c28f7479a6c270c5913da008e338d) |
