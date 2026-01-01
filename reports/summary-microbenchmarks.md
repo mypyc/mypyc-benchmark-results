@@ -76,7 +76,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [dict_call_keywords](benchmarks/dict_call_keywords.md) | 1.74x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 1.71x |  |
 | [list_from_range](benchmarks/list_from_range.md) | 1.69x |  |
-| [bytes_methods](benchmarks/bytes_methods.md) | 1.69x | +21.7% |
+| [bytes_methods](benchmarks/bytes_methods.md) | 1.69x | +21.8% |
 | [in_set](benchmarks/in_set.md) | 1.63x |  |
 | [map_builtin](benchmarks/map_builtin.md) | 1.62x |  |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.53x |  |
