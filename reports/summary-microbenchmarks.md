@@ -14,13 +14,13 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [attrs_method](benchmarks/attrs_method.md) | 19.65x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.58x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 19.32x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 16.29x | +16.5% |
+| [int_to_float](benchmarks/int_to_float.md) | 16.29x | +16.1% |
 | [super_method_alt](benchmarks/super_method_alt.md) | 15.90x |  |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.79x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 15.56x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 14.02x |  |
-| [sieve](benchmarks/sieve.md) | 13.66x | +7.8% |
+| [sieve](benchmarks/sieve.md) | 13.66x | +7.7% |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.40x |  |
 | [int_list](benchmarks/int_list.md) | 12.21x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.50x |  |
@@ -67,7 +67,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [str_searching](benchmarks/str_searching.md) | 2.14x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.14x |  |
 | [str_methods](benchmarks/str_methods.md) | 2.12x |  |
-| [bytes_methods](benchmarks/bytes_methods.md) | 2.10x | +49.9% |
+| [bytes_methods](benchmarks/bytes_methods.md) | 2.10x | +49.8% |
 | [int_divmod](benchmarks/int_divmod.md) | 2.06x |  |
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.06x |  |
 | [list_copy](benchmarks/list_copy.md) | 2.01x |  |
