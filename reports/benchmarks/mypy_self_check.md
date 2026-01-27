@@ -4,7 +4,13 @@
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2026-01-23** | **9.33s** |  | [0c6340170b2d](https://github.com/python/mypy/commit/0c6340170b2d0a9eb2e55eacd06709e8fd3d92b0) |
+| **2026-01-26** | **9.12s** |  | [fb506caa4ab5](https://github.com/python/mypy/commit/fb506caa4ab5c77f3d888ff74d80ac56a409cda4) |
+| 2026-01-26 | **9.12s** | **+1.7%** | [f875853913e8](https://github.com/python/mypy/commit/f875853913e835471f314883ad4d930165d068ec) |
+| 2026-01-26 | 9.27s |  | [a940c8f0976a](https://github.com/python/mypy/commit/a940c8f0976a2d96db37527811d8a4671902dd66) |
+| 2026-01-26 | 9.36s |  | [299e6d0a7f40](https://github.com/python/mypy/commit/299e6d0a7f409f805bd180dddd51cdd030262ac0) |
+| 2026-01-26 | 9.30s |  | [d4756593cfc8](https://github.com/python/mypy/commit/d4756593cfc8c55413052c598d043ff532c9a15f) |
+| 2026-01-26 | 9.41s |  | [1288f20c3ec2](https://github.com/python/mypy/commit/1288f20c3ec223b9f107f34b94ca07e0b2e4f08d) |
+| 2026-01-23 | 9.33s |  | [0c6340170b2d](https://github.com/python/mypy/commit/0c6340170b2d0a9eb2e55eacd06709e8fd3d92b0) |
 | 2026-01-23 | 9.42s |  | [21d677373bb8](https://github.com/python/mypy/commit/21d677373bb86ddf715bba4e817f71c2bf18ffb7) |
 | 2026-01-22 | 9.41s |  | [6d136ed42db7](https://github.com/python/mypy/commit/6d136ed42db73fac59b27feb434f60409f214508) |
 | 2026-01-22 | 9.41s |  | [043977c44521](https://github.com/python/mypy/commit/043977c44521d84d313b4b52802ecfcfadd1e3a2) |
