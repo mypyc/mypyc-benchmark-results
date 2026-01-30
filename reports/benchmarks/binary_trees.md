@@ -4,7 +4,19 @@
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2026-01-28** | **5.21x** |  | [94a3cf66ca1c](https://github.com/python/mypy/commit/94a3cf66ca1cc1b532e3383f318d45f04f7e9cc1) |
+| **2026-01-29** | **5.21x** |  | [3e3980d0c3f6](https://github.com/python/mypy/commit/3e3980d0c3f659da87071c325ecfbd6001dc6355) |
+| 2026-01-29 | 5.21x |  | [ba3e0649f1c2](https://github.com/python/mypy/commit/ba3e0649f1c20ef3d4f68000b68196a5ddb0f6d2) |
+| 2026-01-29 | 5.22x |  | [185b2c955ced](https://github.com/python/mypy/commit/185b2c955cedfb0200dc79a7f0ab74ba87631774) |
+| 2026-01-29 | 5.23x |  | [5917b80053e5](https://github.com/python/mypy/commit/5917b80053e58c585ad2854af288e9c797edce48) |
+| 2026-01-29 | 5.22x |  | [e858d5d85e4f](https://github.com/python/mypy/commit/e858d5d85e4face5f665ca22d9428b5ed549f282) |
+| 2026-01-29 | 5.22x |  | [956e3abc5624](https://github.com/python/mypy/commit/956e3abc56246908b36aa8a133a7cc3698c6a5dc) |
+| 2026-01-29 | 5.21x |  | [4b14528aba46](https://github.com/python/mypy/commit/4b14528aba46ac5a94d4beb0c4ea6dce10d37acf) |
+| 2026-01-29 | 5.22x |  | [ef637f1f0f19](https://github.com/python/mypy/commit/ef637f1f0f199e7f2ee098d4edc1a0a344d949fb) |
+| 2026-01-29 | 5.21x |  | [0f6fd821f2df](https://github.com/python/mypy/commit/0f6fd821f2dfd9369d97702945e4c7339ecb2fe7) |
+| 2026-01-29 | 5.22x |  | [375ad43c92dd](https://github.com/python/mypy/commit/375ad43c92dd52d3248b7882014e992e94ca2f61) |
+| 2026-01-29 | 5.22x |  | [7029712ac6e6](https://github.com/python/mypy/commit/7029712ac6e6ef3b0dc665976d36afd4f32d083d) |
+| 2026-01-29 | 5.21x |  | [bfe5024c0b88](https://github.com/python/mypy/commit/bfe5024c0b880b6c77e89b907cef25659ee4f18f) |
+| 2026-01-28 | 5.21x |  | [94a3cf66ca1c](https://github.com/python/mypy/commit/94a3cf66ca1cc1b532e3383f318d45f04f7e9cc1) |
 | 2026-01-28 | 5.21x |  | [2c93a2cfb4b9](https://github.com/python/mypy/commit/2c93a2cfb4b9c5839b30567c5803efc08035e914) |
 | 2026-01-28 | 5.22x |  | [0c2430f4cc86](https://github.com/python/mypy/commit/0c2430f4cc8628415a5eccc440d141a9881ad7ed) |
 | 2026-01-28 | 5.22x |  | [8a1ebf334805](https://github.com/python/mypy/commit/8a1ebf3348051b910d0df82ac2f657defab5ef2f) |
