@@ -11,6 +11,6 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [raytrace](benchmarks/raytrace.md) | 9.32x |  |
 | [bm_float](benchmarks/bm_float.md) | 7.69x |  |
 | [deltablue](benchmarks/deltablue.md) | 6.82x |  |
-| [hexiom](benchmarks/hexiom.md) | 5.41x | +4.2% |
+| [hexiom](benchmarks/hexiom.md) | 5.41x | +4.1% |
 | [binary_trees](benchmarks/binary_trees.md) | 5.20x |  |
 | [nqueens](benchmarks/nqueens.md) | 2.13x |  |

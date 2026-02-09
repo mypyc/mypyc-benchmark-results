@@ -14,13 +14,13 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [attrs_method](benchmarks/attrs_method.md) | 19.65x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.58x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 19.34x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 16.23x | +16.2% |
+| [int_to_float](benchmarks/int_to_float.md) | 16.23x | +16.0% |
 | [super_method_alt](benchmarks/super_method_alt.md) | 15.94x |  |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.79x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 15.56x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 13.98x |  |
-| [sieve](benchmarks/sieve.md) | 13.90x | +9.4% |
+| [sieve](benchmarks/sieve.md) | 13.90x | +9.5% |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.35x |  |
 | [int_list](benchmarks/int_list.md) | 12.21x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.48x |  |
@@ -45,7 +45,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [str_format](benchmarks/str_format.md) | 3.66x |  |
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 3.65x |  |
 | [in_list](benchmarks/in_list.md) | 3.52x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 3.45x | +27.2% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 3.45x | +27.3% |
 | [dict_to_list](benchmarks/dict_to_list.md) | 3.29x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 3.26x |  |
 | [list_insert](benchmarks/list_insert.md) | 3.24x |  |
@@ -62,12 +62,12 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [method_object](benchmarks/method_object.md) | 2.60x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.47x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.46x |  |
-| [dict_call_generator](benchmarks/dict_call_generator.md) | 2.41x | +42.3% |
+| [dict_call_generator](benchmarks/dict_call_generator.md) | 2.41x | +42.0% |
 | [list_append_large](benchmarks/list_append_large.md) | 2.15x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.15x |  |
 | [str_searching](benchmarks/str_searching.md) | 2.14x |  |
 | [str_methods](benchmarks/str_methods.md) | 2.11x |  |
-| [bytes_methods](benchmarks/bytes_methods.md) | 2.09x | +49.1% |
+| [bytes_methods](benchmarks/bytes_methods.md) | 2.09x | +49.0% |
 | [int_divmod](benchmarks/int_divmod.md) | 2.06x |  |
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.05x |  |
 | [list_copy](benchmarks/list_copy.md) | 2.00x |  |
