@@ -10,7 +10,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 44.28x | +67.8% |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 44.28x | +67.6% |
 | [attrs_method](benchmarks/attrs_method.md) | 19.65x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.59x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 19.34x |  |
@@ -45,7 +45,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 3.64x |  |
 | [str_format](benchmarks/str_format.md) | 3.64x |  |
 | [in_list](benchmarks/in_list.md) | 3.52x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 3.46x | +29.2% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 3.46x | +29.5% |
 | [dict_to_list](benchmarks/dict_to_list.md) | 3.28x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 3.26x |  |
 | [list_insert](benchmarks/list_insert.md) | 3.24x |  |
@@ -62,7 +62,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [method_object](benchmarks/method_object.md) | 2.61x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.47x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.46x |  |
-| [dict_call_generator](benchmarks/dict_call_generator.md) | 2.41x | +42.7% |
+| [dict_call_generator](benchmarks/dict_call_generator.md) | 2.41x | +42.5% |
 | [list_append_large](benchmarks/list_append_large.md) | 2.16x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.16x |  |
 | [str_searching](benchmarks/str_searching.md) | 2.14x |  |
