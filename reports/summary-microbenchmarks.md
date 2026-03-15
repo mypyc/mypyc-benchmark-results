@@ -45,7 +45,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [list_from_tuple](benchmarks/list_from_tuple.md) | 3.65x |  |
 | [str_format](benchmarks/str_format.md) | 3.63x |  |
 | [in_list](benchmarks/in_list.md) | 3.54x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 3.53x | +30.6% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 3.53x | +30.7% |
 | [list_insert](benchmarks/list_insert.md) | 3.27x |  |
 | [dict_to_list](benchmarks/dict_to_list.md) | 3.27x |  |
 | [dict_clear](benchmarks/dict_clear.md) | 3.25x |  |
@@ -63,11 +63,11 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [list_slicing](benchmarks/list_slicing.md) | 2.49x |  |
 | [tuple_slicing](benchmarks/tuple_slicing.md) | 2.48x |  |
 | [str_methods](benchmarks/str_methods.md) | 2.45x | +15.1% |
-| [dict_call_generator](benchmarks/dict_call_generator.md) | 2.42x | +41.1% |
+| [dict_call_generator](benchmarks/dict_call_generator.md) | 2.42x | +41.5% |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.15x |  |
 | [list_append_large](benchmarks/list_append_large.md) | 2.14x |  |
 | [str_searching](benchmarks/str_searching.md) | 2.14x |  |
-| [bytes_methods](benchmarks/bytes_methods.md) | 2.09x | +24.1% |
+| [bytes_methods](benchmarks/bytes_methods.md) | 2.09x | +24.0% |
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.07x |  |
 | [int_divmod](benchmarks/int_divmod.md) | 2.05x |  |
 | [list_copy](benchmarks/list_copy.md) | 1.97x |  |
@@ -80,7 +80,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [in_set](benchmarks/in_set.md) | 1.63x |  |
 | [map_builtin](benchmarks/map_builtin.md) | 1.60x |  |
 | [split_and_join](benchmarks/split_and_join.md) | 1.59x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.59x | +12.9% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.59x | +13.0% |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.47x |  |
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.44x |  |
 | [read_write_chars](benchmarks/read_write_chars.md) | 1.43x |  |
