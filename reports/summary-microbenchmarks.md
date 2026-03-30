@@ -10,7 +10,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [bytes_indexing](benchmarks/bytes_indexing.md) | 45.02x | +71.3% |
+| [bytes_indexing](benchmarks/bytes_indexing.md) | 45.02x | +71.1% |
 | [attrs_method](benchmarks/attrs_method.md) | 19.64x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.58x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 19.32x |  |
@@ -18,7 +18,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.79x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 15.55x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 13.97x | -15.1% |
+| [int_to_float](benchmarks/int_to_float.md) | 13.97x | -15.2% |
 | [super_method](benchmarks/super_method.md) | 13.95x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.42x |  |
 | [sieve](benchmarks/sieve.md) | 12.82x |  |
@@ -27,7 +27,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.97x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.32x |  |
 | [enums](benchmarks/enums.md) | 7.59x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 6.88x | +154.8% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 6.88x | +154.6% |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 6.57x |  |
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 6.47x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.94x |  |
@@ -68,7 +68,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [list_concatenate](benchmarks/list_concatenate.md) | 2.15x |  |
 | [str_searching](benchmarks/str_searching.md) | 2.14x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.13x |  |
-| [bytes_methods](benchmarks/bytes_methods.md) | 2.11x | +24.8% |
+| [bytes_methods](benchmarks/bytes_methods.md) | 2.11x | +24.9% |
 | [int_divmod](benchmarks/int_divmod.md) | 2.04x |  |
 | [list_copy](benchmarks/list_copy.md) | 2.00x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 1.84x |  |
