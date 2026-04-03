@@ -7,7 +7,8 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2026-04-02** | **2.92x** |  | [232697e1a9b8](https://github.com/python/mypy/commit/232697e1a9b80766187c620a42a802e3d334b8f4) |
+| **2026-04-02** | **2.92x** |  | [d7e3268ddd20](https://github.com/python/mypy/commit/d7e3268ddd200ff390989d7359dd1e1b42bb94df) |
+| 2026-04-02 | 2.92x |  | [232697e1a9b8](https://github.com/python/mypy/commit/232697e1a9b80766187c620a42a802e3d334b8f4) |
 | 2026-04-01 | 2.92x |  | [554fb8c6f81b](https://github.com/python/mypy/commit/554fb8c6f81b3eb5f56c7192b703a8fc2146b633) |
 | 2026-04-01 | 2.92x |  | [c5af8afbd59b](https://github.com/python/mypy/commit/c5af8afbd59bbcf42d51a26b34b8ffb7ae50e276) |
 | 2026-04-01 | 2.93x |  | [24b4a81c6fc8](https://github.com/python/mypy/commit/24b4a81c6fc844a49e3cf17c967b1b9891cdffa3) |
