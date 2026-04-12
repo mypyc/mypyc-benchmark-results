@@ -27,7 +27,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.97x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.32x |  |
 | [enums](benchmarks/enums.md) | 7.59x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 6.88x | +156.7% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 6.88x | +156.9% |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 6.57x |  |
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 6.47x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.94x |  |
@@ -68,7 +68,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [list_append_large](benchmarks/list_append_large.md) | 2.15x |  |
 | [str_searching](benchmarks/str_searching.md) | 2.14x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.14x |  |
-| [bytes_methods](benchmarks/bytes_methods.md) | 2.11x | +25.8% |
+| [bytes_methods](benchmarks/bytes_methods.md) | 2.11x | +25.7% |
 | [int_divmod](benchmarks/int_divmod.md) | 2.04x |  |
 | [list_copy](benchmarks/list_copy.md) | 2.00x |  |
 | [dict_copy](benchmarks/dict_copy.md) | 1.84x |  |
@@ -79,7 +79,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [list_from_range](benchmarks/list_from_range.md) | 1.67x |  |
 | [map_builtin](benchmarks/map_builtin.md) | 1.63x |  |
 | [in_set](benchmarks/in_set.md) | 1.63x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.55x | +10.7% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.55x | +10.8% |
 | [split_and_join](benchmarks/split_and_join.md) | 1.50x |  |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.46x |  |
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.43x |  |
