@@ -20,14 +20,14 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [tuple_equality](benchmarks/tuple_equality.md) | 15.52x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 13.86x |  |
-| [sieve](benchmarks/sieve.md) | 13.85x | +5.1% |
+| [sieve](benchmarks/sieve.md) | 13.85x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 13.41x |  |
 | [int_list](benchmarks/int_list.md) | 12.18x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.43x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 11.27x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.25x |  |
 | [enums](benchmarks/enums.md) | 7.59x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 7.00x | +97.7% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 7.00x | +112.7% |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 6.59x |  |
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 6.41x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.89x |  |
@@ -63,7 +63,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [method_object](benchmarks/method_object.md) | 2.51x |  |
 | [list_slicing](benchmarks/list_slicing.md) | 2.48x |  |
 | [dict_call_generator](benchmarks/dict_call_generator.md) | 2.45x |  |
-| [str_methods](benchmarks/str_methods.md) | 2.45x | +15.8% |
+| [str_methods](benchmarks/str_methods.md) | 2.45x | +15.6% |
 | [list_append_large](benchmarks/list_append_large.md) | 2.15x |  |
 | [list_add_in_place](benchmarks/list_add_in_place.md) | 2.15x |  |
 | [str_searching](benchmarks/str_searching.md) | 2.15x |  |
@@ -80,7 +80,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [map_builtin](benchmarks/map_builtin.md) | 1.63x |  |
 | [in_set](benchmarks/in_set.md) | 1.62x |  |
 | [split_and_join](benchmarks/split_and_join.md) | 1.52x |  |
-| [str_methods_2](benchmarks/str_methods_2.md) | 1.51x | +7.5% |
+| [str_methods_2](benchmarks/str_methods_2.md) | 1.51x | +6.4% |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.47x |  |
 | [read_write_chars](benchmarks/read_write_chars.md) | 1.44x |  |
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.43x |  |
