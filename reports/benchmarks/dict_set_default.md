@@ -7,7 +7,18 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2026-04-17** | **1.81x** |  | [ef03ccd9b31b](https://github.com/python/mypy/commit/ef03ccd9b31bfbf0c193d6f2ea4b0e33ece8be89) |
+| **2026-04-21** | **1.81x** |  | [944e15b10c09](https://github.com/python/mypy/commit/944e15b10c09632d5ef4e314eb7759e26f5be9d6) |
+| 2026-04-21 | 1.81x |  | [10ea9459d0b4](https://github.com/python/mypy/commit/10ea9459d0b4ea60e1b1d7f4fd77d92e35622a0d) |
+| 2026-04-21 | 1.81x |  | [e7f604418f9c](https://github.com/python/mypy/commit/e7f604418f9cb5dabd88e4d249769422219c767f) |
+| 2026-04-21 | 1.81x |  | [2fbfc29df846](https://github.com/python/mypy/commit/2fbfc29df8469105b1e3b0d3bdcbb8f3cfcdd809) |
+| 2026-04-20 | 1.80x |  | [ddecd74f4617](https://github.com/python/mypy/commit/ddecd74f461734a6e2159c91266e4a3129062a31) |
+| 2026-04-20 | 1.81x |  | [9e76d34f69c8](https://github.com/python/mypy/commit/9e76d34f69c8f182520a5da5e6e2b6bad3a457e8) |
+| 2026-04-20 | 1.81x |  | [dc6f6ee45417](https://github.com/python/mypy/commit/dc6f6ee4541712b3d4c3ab99f41ae64092cc29d4) |
+| 2026-04-20 | 1.80x |  | [bf62d3ea28b4](https://github.com/python/mypy/commit/bf62d3ea28b41e032c5b4bafe3b9a706d4618044) |
+| 2026-04-20 | 1.81x |  | [15f1287521f7](https://github.com/python/mypy/commit/15f1287521f7e82a5f02405c441ae5b3fddb9d94) |
+| 2026-04-20 | 1.81x |  | [f8127c860dc4](https://github.com/python/mypy/commit/f8127c860dc4679cf56edac4fe8bcade9e05ac82) |
+| 2026-04-20 | 1.81x |  | [30e8f1d07bc4](https://github.com/python/mypy/commit/30e8f1d07bc437aeccc032b1c5d900b19c48a5dc) |
+| 2026-04-17 | 1.81x |  | [ef03ccd9b31b](https://github.com/python/mypy/commit/ef03ccd9b31bfbf0c193d6f2ea4b0e33ece8be89) |
 | 2026-04-17 | 1.80x |  | [3c3065cb106e](https://github.com/python/mypy/commit/3c3065cb106e22205365b7f0e74b6c77c95bf4ae) |
 | 2026-04-17 | 1.79x |  | [410f9339916d](https://github.com/python/mypy/commit/410f9339916d836b10a286adc1dae43d9f12d251) |
 | 2026-04-16 | 1.79x |  | [d779750db937](https://github.com/python/mypy/commit/d779750db937ade369e273da5c6779357782b76e) |
