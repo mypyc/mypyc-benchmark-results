@@ -27,7 +27,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 11.22x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.24x |  |
 | [enums](benchmarks/enums.md) | 7.59x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 7.03x | +103.4% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 7.03x | +103.5% |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 6.58x |  |
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 6.36x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.88x |  |
