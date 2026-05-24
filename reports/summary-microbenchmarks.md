@@ -18,16 +18,16 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.79x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 15.57x |  |
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 14.12x | -21.4% |
+| [int_to_float](benchmarks/int_to_float.md) | 14.12x | -21.3% |
 | [super_method](benchmarks/super_method.md) | 13.96x |  |
-| [sieve](benchmarks/sieve.md) | 13.73x | +12.0% |
+| [sieve](benchmarks/sieve.md) | 13.73x | +11.9% |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 12.71x |  |
 | [int_list](benchmarks/int_list.md) | 12.32x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.49x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.89x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.33x |  |
 | [enums](benchmarks/enums.md) | 7.59x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 7.04x | +99.0% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 7.04x | +98.8% |
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 6.58x |  |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 6.57x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 6.00x |  |
