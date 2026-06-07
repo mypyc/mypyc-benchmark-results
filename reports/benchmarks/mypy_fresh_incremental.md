@@ -202,7 +202,7 @@
 | 2026-04-14 | 3.14s |  | [8e3c99a90968](https://github.com/python/mypy/commit/8e3c99a9096869000aff63f0c6204eb794997714) |
 | 2026-04-14 | 3.14s |  | [8d58fce81caa](https://github.com/python/mypy/commit/8d58fce81caac0dc2b62c098bdd84bec919f9344) |
 | 2026-04-14 | 3.14s |  | [cd71671fc130](https://github.com/python/mypy/commit/cd71671fc1301bf8558b3cc5536d7cfe7ff0a70e) |
-| 2026-04-14 | 3.14s |  | [5e2ef78bea2e](https://github.com/python/mypy/commit/5e2ef78bea2e6f4accc84cc36ae05dce4000a6c9) |
+| 2026-04-14 | 3.14s |  | [5e2ef78bea2e](https://github.com/python/mypy/commit/5e2ef78bea2e6f4accc84cc36ae05dce4000a6c9) * |
 | 2026-04-14 | 3.06s |  | [c51a81e311a3](https://github.com/python/mypy/commit/c51a81e311a3d8d5f0b87ba6fb2f00deccc659eb) |
 | 2026-04-13 | 3.08s |  | [c90b301c32c6](https://github.com/python/mypy/commit/c90b301c32c670965a42ba8ce2914d040063d9ab) |
 | 2026-04-13 | 3.09s |  | [8f2e6ad835c6](https://github.com/python/mypy/commit/8f2e6ad835c6499b42492bcd45265f83679a4bc9) |
@@ -319,7 +319,7 @@
 | 2026-02-27 | 3.13s |  | [0cf9c02ec550](https://github.com/python/mypy/commit/0cf9c02ec550bea35363ec050257439388968dc6) |
 | 2026-02-27 | 3.13s |  | [34abecb21743](https://github.com/python/mypy/commit/34abecb2174349b3568eb20dc331ebec2756e229) |
 | 2026-02-27 | 3.16s |  | [afb99ebbc180](https://github.com/python/mypy/commit/afb99ebbc180153ee7e6acd052797f38469493b1) |
-| 2026-02-27 | 3.16s |  | [40498e84d1fd](https://github.com/python/mypy/commit/40498e84d1fdb1127dc6fab2c62c945a695fd0df) |
+| 2026-02-27 | 3.16s |  | [40498e84d1fd](https://github.com/python/mypy/commit/40498e84d1fdb1127dc6fab2c62c945a695fd0df) * |
 | 2026-02-26 | 3.17s |  | [f363f350ce7d](https://github.com/python/mypy/commit/f363f350ce7d8b4de412a895ba12c63bccc9ea57) |
 | 2026-02-26 | 3.17s |  | [81d45725f2e5](https://github.com/python/mypy/commit/81d45725f2e5a68267d9edc7d84bf46fa880529d) |
 | 2026-02-26 | 3.16s |  | [653610fbcb01](https://github.com/python/mypy/commit/653610fbcb01a3abc121bc3ace2000389a1dd6e1) |
@@ -362,3 +362,5 @@
 | 2026-02-19 | 3.14s |  | [688121a228b4](https://github.com/python/mypy/commit/688121a228b4ea6d5ab5d57317ac657ee96dabb2) |
 | 2026-02-19 | 3.16s |  | [e74d4aab52a9](https://github.com/python/mypy/commit/e74d4aab52a911eb8e02211620793cbc8cce9c24) |
 | 2026-02-17 | 3.16s |  | [00b5064fdba2](https://github.com/python/mypy/commit/00b5064fdba21b5855f2bfdac2aadf2d20fcb83d) |
+
+\* Benchmark implementation changed.

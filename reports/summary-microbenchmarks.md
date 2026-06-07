@@ -10,6 +10,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
+| [sieve_packed](benchmarks/sieve_packed.md) | 68.71x |  |
 | [bytes_indexing](benchmarks/bytes_indexing.md) | 45.01x |  |
 | [attrs_method](benchmarks/attrs_method.md) | 19.64x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.60x |  |
@@ -20,14 +21,14 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [int_to_float](benchmarks/int_to_float.md) | 14.15x |  |
 | [super_method](benchmarks/super_method.md) | 13.96x |  |
-| [sieve](benchmarks/sieve.md) | 13.69x | +7.4% |
+| [sieve](benchmarks/sieve.md) | 13.69x | +7.3% |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 12.72x |  |
 | [int_list](benchmarks/int_list.md) | 12.32x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.53x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 10.90x |  |
 | [min_max_pair](benchmarks/min_max_pair.md) | 8.33x |  |
 | [enums](benchmarks/enums.md) | 7.59x |  |
-| [ord_builtin](benchmarks/ord_builtin.md) | 7.04x | +99.7% |
+| [ord_builtin](benchmarks/ord_builtin.md) | 7.04x | +99.6% |
 | [nested_func_escape](benchmarks/nested_func_escape.md) | 6.59x |  |
 | [list_for_reversed](benchmarks/list_for_reversed.md) | 6.57x |  |
 | [multiple_assignment](benchmarks/multiple_assignment.md) | 5.99x |  |
@@ -36,9 +37,11 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [get_namedtuple_item](benchmarks/get_namedtuple_item.md) | 5.74x |  |
 | [generators](benchmarks/generators.md) | 5.43x |  |
 | [alloc_short_lived_linked](benchmarks/alloc_short_lived_linked.md) | 5.35x |  |
+| [bytes_normalize](benchmarks/bytes_normalize.md) | 5.19x |  |
 | [alloc_short_lived_simple](benchmarks/alloc_short_lived_simple.md) | 5.09x |  |
 | [nested_func](benchmarks/nested_func.md) | 5.00x |  |
 | [float_abs](benchmarks/float_abs.md) | 4.90x |  |
+| [rot13](benchmarks/rot13.md) | 4.56x |  |
 | [list_comprehension](benchmarks/list_comprehension.md) | 4.53x |  |
 | [bytes_slicing](benchmarks/bytes_slicing.md) | 4.20x |  |
 | [str_call](benchmarks/str_call.md) | 4.13x |  |
