@@ -22,7 +22,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [int_to_float](benchmarks/int_to_float.md) | 14.14x |  |
 | [super_method](benchmarks/super_method.md) | 13.83x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 12.91x |  |
-| [sieve](benchmarks/sieve.md) | 12.66x | -4.5% |
+| [sieve](benchmarks/sieve.md) | 12.66x |  |
 | [int_list](benchmarks/int_list.md) | 12.32x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.55x |  |
 | [tuple_from_iterable](benchmarks/tuple_from_iterable.md) | 11.36x |  |
@@ -86,7 +86,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [str_methods_2](benchmarks/str_methods_2.md) | 1.56x |  |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.54x |  |
 | [read_write_chars](benchmarks/read_write_chars.md) | 1.48x |  |
-| [str_to_float](benchmarks/str_to_float.md) | 1.40x |  |
+| [str_to_float](benchmarks/str_to_float.md) | 1.40x | +35.8% |
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.39x |  |
 | [readline](benchmarks/readline.md) | 1.33x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.27x |  |
