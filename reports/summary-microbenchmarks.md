@@ -86,7 +86,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [str_methods_2](benchmarks/str_methods_2.md) | 1.55x |  |
 | [dict_del_item](benchmarks/dict_del_item.md) | 1.54x |  |
 | [read_write_chars](benchmarks/read_write_chars.md) | 1.41x |  |
-| [str_to_float](benchmarks/str_to_float.md) | 1.40x | +35.4% |
+| [str_to_float](benchmarks/str_to_float.md) | 1.40x | +37.4% |
 | [bytes_split_and_join](benchmarks/bytes_split_and_join.md) | 1.39x |  |
 | [readline](benchmarks/readline.md) | 1.32x |  |
 | [list_equality](benchmarks/list_equality.md) | 1.27x |  |
