@@ -15,7 +15,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [attrs_method](benchmarks/attrs_method.md) | 19.64x |  |
 | [dataclass_method](benchmarks/dataclass_method.md) | 19.59x |  |
 | [int_bitwise_ops](benchmarks/int_bitwise_ops.md) | 19.32x |  |
-| [int_to_float](benchmarks/int_to_float.md) | 17.92x | +27.1% |
+| [int_to_float](benchmarks/int_to_float.md) | 17.92x | +26.8% |
 | [super_method_alt](benchmarks/super_method_alt.md) | 15.91x |  |
 | [attrs_attr_access](benchmarks/attrs_attr_access.md) | 15.79x |  |
 | [tuple_equality](benchmarks/tuple_equality.md) | 15.57x |  |
