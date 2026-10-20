@@ -7,7 +7,18 @@ A change of less than **15.0%** is considered insignificant.
 
 | Date | Performance | Change | Mypy commit |
 | --- | :---: | :---: | --- |
-| **2026-10-17** | **2.11x** |  | [9f5e075be1fa](https://github.com/python/mypy/commit/9f5e075be1fa96d2e8c1e225f43bf664ae56c9af) |
+| **2026-10-19** | **2.11x** |  | [d21cf1be4b62](https://github.com/python/mypy/commit/d21cf1be4b62b4d0efe0f710468d567236fa05be) |
+| 2026-10-19 | 2.11x |  | [45b9b1d03ed7](https://github.com/python/mypy/commit/45b9b1d03ed704ecc245b9636a3e63cbd8aa57a3) |
+| 2026-10-19 | 2.11x |  | [2a8d6ab34e5d](https://github.com/python/mypy/commit/2a8d6ab34e5d38b41f32e245559ba94d0a22342e) |
+| 2026-10-19 | 2.11x |  | [1a847438efaa](https://github.com/python/mypy/commit/1a847438efaa610aecde65784f456f6c6e64261f) |
+| 2026-10-19 | 2.10x |  | [0a2424ead181](https://github.com/python/mypy/commit/0a2424ead181893de1ebc69845bf0e5f7a254601) |
+| 2026-10-19 | 2.11x |  | [58a63c9ccc09](https://github.com/python/mypy/commit/58a63c9ccc0983c3733c179debed2f36b147bca7) |
+| 2026-10-19 | 2.10x |  | [351a61f689db](https://github.com/python/mypy/commit/351a61f689dbf9649539df01c18daaa8f13075fe) |
+| 2026-10-19 | 2.10x |  | [0233192d2cef](https://github.com/python/mypy/commit/0233192d2cef7a40cf193ac7302ded6d55bcbc1d) |
+| 2026-10-19 | 2.11x |  | [9f56386d6a26](https://github.com/python/mypy/commit/9f56386d6a2626c677f7bb39319c497b3824877e) |
+| 2026-10-19 | 2.10x |  | [b6804044cb56](https://github.com/python/mypy/commit/b6804044cb56d0fce3dd57539bb2510c3726ce7f) |
+| 2026-10-19 | 2.10x |  | [15500b7d375a](https://github.com/python/mypy/commit/15500b7d375a1fa952ccaed1765d1631c2792390) |
+| 2026-10-17 | 2.11x |  | [9f5e075be1fa](https://github.com/python/mypy/commit/9f5e075be1fa96d2e8c1e225f43bf664ae56c9af) |
 | 2026-10-17 | 2.10x |  | [ffbfb87cd98e](https://github.com/python/mypy/commit/ffbfb87cd98e36cea135af46ac038e364cb2289c) |
 | 2026-10-16 | 2.11x |  | [69fb348a25ba](https://github.com/python/mypy/commit/69fb348a25ba77602a2f0bd2084f19ba22f855ee) |
 | 2026-10-16 | **error** |  | [c39fc6da92fa](https://github.com/python/mypy/commit/c39fc6da92fa51054cb48953a741b9f1e3f2d1d5) |
