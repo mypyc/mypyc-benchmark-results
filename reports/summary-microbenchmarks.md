@@ -21,7 +21,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [dataclass_attr_access](benchmarks/dataclass_attr_access.md) | 15.00x |  |
 | [super_method](benchmarks/super_method.md) | 13.84x |  |
 | [sum_tree_singledispatch](benchmarks/sum_tree_singledispatch.md) | 12.94x |  |
-| [sieve](benchmarks/sieve.md) | 12.71x | -7.3% |
+| [sieve](benchmarks/sieve.md) | 12.71x | -7.4% |
 | [int_list](benchmarks/int_list.md) | 12.37x |  |
 | [int_to_float](benchmarks/int_to_float.md) | 12.09x |  |
 | [alloc_long_lived_linked](benchmarks/alloc_long_lived_linked.md) | 11.48x |  |
@@ -60,7 +60,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 2.88x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.77x |  |
 | [list_index](benchmarks/list_index.md) | 2.76x |  |
-| [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 2.75x | +175.3% |
+| [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 2.75x | +174.7% |
 | [encode_decode](benchmarks/encode_decode.md) | 2.72x |  |
 | [str_slicing](benchmarks/str_slicing.md) | 2.68x |  |
 | [method_object](benchmarks/method_object.md) | 2.57x |  |
