@@ -60,7 +60,7 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 | [matrix_multiply](benchmarks/matrix_multiply.md) | 2.88x |  |
 | [bytes_concat](benchmarks/bytes_concat.md) | 2.77x |  |
 | [list_index](benchmarks/list_index.md) | 2.76x |  |
-| [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 2.75x | +175.4% |
+| [call_type_from_interpreted](benchmarks/call_type_from_interpreted.md) | 2.75x | +174.8% |
 | [encode_decode](benchmarks/encode_decode.md) | 2.72x |  |
 | [str_slicing](benchmarks/str_slicing.md) | 2.68x |  |
 | [method_object](benchmarks/method_object.md) | 2.57x |  |
