@@ -6,11 +6,11 @@ Environment: CPython 3.13.1, Ubuntu 24.04.1 LTS and Intel Core i5-1145G7 (64-bit
 
 | Benchmark | Current perf | Change in 3 months |
 | --- | :---: | :---: |
-| [richards](benchmarks/richards.md) | 22.53x |  |
+| [richards](benchmarks/richards.md) | 22.52x |  |
 | [spectral_norm](benchmarks/spectral_norm.md) | 12.93x |  |
-| [hexiom](benchmarks/hexiom.md) | 10.50x |  |
-| [raytrace](benchmarks/raytrace.md) | 9.31x |  |
-| [deltablue](benchmarks/deltablue.md) | 7.85x |  |
-| [bm_float](benchmarks/bm_float.md) | 7.71x |  |
-| [binary_trees](benchmarks/binary_trees.md) | 6.37x |  |
-| [nqueens](benchmarks/nqueens.md) | 2.38x | +12.2% |
+| [hexiom](benchmarks/hexiom.md) | 10.46x |  |
+| [raytrace](benchmarks/raytrace.md) | 9.33x |  |
+| [deltablue](benchmarks/deltablue.md) | 7.86x |  |
+| [bm_float](benchmarks/bm_float.md) | 7.70x |  |
+| [binary_trees](benchmarks/binary_trees.md) | 6.36x |  |
+| [nqueens](benchmarks/nqueens.md) | 2.36x | +11.5% |
